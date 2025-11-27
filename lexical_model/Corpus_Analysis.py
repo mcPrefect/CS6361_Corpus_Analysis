@@ -15,6 +15,7 @@ Date: November 26, 2024
 import re
 import sys
 import json
+import os
 from collections import Counter, defaultdict
 from datetime import datetime
 
@@ -24,18 +25,25 @@ from Blacklist import FINAL_BLACKLIST, WHITELIST, clean_corpus
 # CONFIGURATION
 # ============================================================================
 
+# Get the directory where this script is located
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
+
 # Input file
-CORPUS_FILE = 'kashubian_corpus.txt'
+CORPUS_FILE = os.path.join(PROJECT_ROOT, 'results', 'tokens_preprocessed.txt')
 
-# Output files
-LEXICAL_MODEL_JSON = 'kashubian_lexical_model.json'
-LEXICAL_MODEL_TXT = 'kashubian_lexical_model.txt'
-WORD_FREQUENCIES_TXT = 'kashubian_word_frequencies.txt'
+# Output files (in lexical_model/results/)
+OUTPUT_DIR = os.path.join(SCRIPT_DIR, 'results')
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-BIGRAM_MODEL_JSON = 'kashubian_language_model_bigrams.json'
-BIGRAM_MODEL_TXT = 'kashubian_language_model_bigrams.txt'
+LEXICAL_MODEL_JSON = os.path.join(OUTPUT_DIR, 'kashubian_lexical_model.json')
+LEXICAL_MODEL_TXT = os.path.join(OUTPUT_DIR, 'kashubian_lexical_model.txt')
+WORD_FREQUENCIES_TXT = os.path.join(OUTPUT_DIR, 'kashubian_word_frequencies.txt')
 
-TRIGRAM_MODEL_TXT = 'kashubian_language_model_trigrams.txt'
+BIGRAM_MODEL_JSON = os.path.join(OUTPUT_DIR, 'kashubian_language_model_bigrams.json')
+BIGRAM_MODEL_TXT = os.path.join(OUTPUT_DIR, 'kashubian_language_model_bigrams.txt')
+
+TRIGRAM_MODEL_TXT = os.path.join(OUTPUT_DIR, 'kashubian_language_model_trigrams.txt')
 
 # Regex pattern for Kashubian words (includes diacritics and compound words)
 WORD_PATTERN = r"[a-ząãéëłńòóôùżA-ZĄÃÉËŁŃÒÓÔÙŻ]+(?:['-][a-ząãéëłńòóôùżA-ZĄÃÉËŁŃÒÓÔÙŻ]+)*"

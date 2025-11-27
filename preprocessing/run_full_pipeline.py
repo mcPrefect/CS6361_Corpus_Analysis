@@ -92,7 +92,7 @@ def main():
     print("  - Extract characters")
     print("\nExpected time: 2-5 minutes for ~6000 articles\n")
     
-    run_script('kashubian_preprocessing.py', [wikipedia_dump])
+    run_script('preprocessing/kashubian_preprocessing.py', [wikipedia_dump])
     
     # Verify preprocessing outputs
     required_files = [
@@ -120,7 +120,7 @@ def main():
     print("  - Generate visualizations for slides 5, 6, 8")
     print("\nExpected time: 1-2 minutes\n")
     
-    run_script('kashubian_character_frequency.py')
+    run_script('preprocessing/kashubian_character_frequency.py')
     
     # Verify character analysis outputs
     char_files = [
@@ -150,7 +150,7 @@ def main():
     print("  - Create visualizations for slides 6, 10, 11")
     print("\nExpected time: 2-3 minutes\n")
     
-    run_script('kashubian_word_frequency.py')
+    run_script('preprocessing/kashubian_word_frequency.py')
     
     # Verify word analysis outputs
     word_files = [
