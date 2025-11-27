@@ -12,6 +12,9 @@ Purpose: Create a clean Kashubian vocabulary list (lexicon) free from:
 - Single letters (except valid Kashubian function words)
 
 This is optimized for linguistic research and vocabulary building.
+
+Date: November 26, 2024
+Version: 2.0 - Pure Vocabulary Edition
 """
 
 # ============================================================================
@@ -20,13 +23,13 @@ This is optimized for linguistic research and vocabulary building.
 
 BLACKLIST_WEB_MARKUP = {
     # HTML tags and attributes
-    'html', 'div', 'span', 'class', 'style', 'href', 'alt', 'src',
-    'table', 'tbody', 'thead', 'tr', 'td', 'th',
+    'html', 'div', 'span', 'class', 'id', 'style', 'href', 'alt', 'src',
+    'table', 'tbody', 'thead', 'tr', 'td', 'th', 'font', 'var',
     
     # CSS properties
     'left', 'right', 'center', 'top', 'bottom', 'width', 'height',
     'padding', 'margin', 'border', 'background', 'bgcolor', 'solid',
-    'align', 'valign',
+    'align', 'valign', 'color',
     
     # CSS measurements
     'px', 'pt', 'em', 'rem',
@@ -37,6 +40,7 @@ BLACKLIST_WEB_MARKUP = {
     # Web protocols and domains
     'http', 'https', 'www', 'com', 'org', 'net', 'edu', 'gov',
     'text-align', 'font-size', 'border-bottom', 'border-collapse', 'gainsboro',
+    'css',
     
     # File formats
     'html', 'htm', 'php', 'asp', 'jpg', 'jpeg', 'png', 'gif', 'svg',
@@ -44,7 +48,14 @@ BLACKLIST_WEB_MARKUP = {
     
     # Wiki-specific markup
     'wikitable', 'thumb', 'thumbnail', 'frame', 'frameless', 'upright',
-    'caption', 'file', 'image', 'link', 'collapse',
+    'caption', 'file', 'image', 'link', 'collapse', 'wiki', 'wikipedia',
+    'wikimedia', 'mediawiki', 'commons', 'category', 'template', 'templates', 'meta',
+    'redirect', 'user', 'edit', 'editing', 'editor', 'editors',
+    'visualeditor', 'help', 'talk', 'wikis', 'wikidata', 'wikipedias', 'wikipediji',
+    'datastyle', 'rowclass', 'headerstyle', 'labelstyle',
+    'mw', 'ccc', 'ccd', 'ff', 'ac', 'utc', 'fi', 'args', 'button', 'header',
+    'infobo', 'insert', 'ip', 'menu', 'ng', 'parameter', 'return', 'switch',
+    'uestions', 'wikite', 'ffc',
     
     # Special characters/entities
     'nbsp', 'amp', 'lt', 'gt', 'quot',
@@ -60,19 +71,57 @@ BLACKLIST_WEB_MARKUP = {
 BLACKLIST_ENGLISH = {
     # Common function words
     # Note: 'i', 'to', 'do', 'we' removed - they're valid Kashubian words
-    'the', 'of', 'and', 'or', 'in', 'on', 'at', 'for', 'from',
-    'with', 'about', 'by', 'as', 'is', 'was', 'are', 'be', 'been',
+    'the', 'of', 'and', 'or', 'but', 'in', 'on', 'at', 'for', 'from', 'an',
+    'et', 'la', 'with', 'about', 'by', 'as', 'if', 'is', 'was', 'are', 'be', 'been',
+    'there', 'like', 'also', 'how', 'these', 'one', 'some', 'then', 'when', 'which', 'up',
+    'who', 'time', 'year', 'into', 'many', 'part', 'languages', 'end', 'free', 'find', 'thanks',
+    'only', 'over', 'until', 'well', 'were', 'what',
+    'after', 'before', 'being', 'below', 'out', 'such', 'than', 'through', 'where', 'without', 'two',
     'have', 'has', 'had', 'does', 'did', 'will', 'would', 'could',
-    'should', 'may', 'might', 'can', 'must',
+    'should', 'may', 'might', 'can', 'must', 'all', 'any', 'more', 'other',
+    'not', 'now', 'please',
     
     # Pronouns
     'he', 'she', 'it', 'they', 'me', 'him', 'her',
-    'us', 'them', 'my', 'your', 'his', 'its', 'our', 'their',
+    'us', 'them', 'my', 'your', 'his', 'its', 'our', 'their', 'you', 'this', 'that',
     
     # Common content words that appeared in corpus
     'new', 'world', 'live', 'best', 'central', 'history', 'archive',
     'records', 'image', 'gray', 'grey', 'red', 'blue', 'green', 'black',
-    'white', 'per', 'iron', 'stone', 'web', 'european', 'kashubs', 'love', 'bad', 'art',
+    'white', 'per', 'iron', 'stone', 'web', 'european', 'kashubs', 'love', 'bad',
+    'language', 'english', 'community', 'project', 'foundation', 'list', 'data',
+    'color', 'information', 'local', 'message', 'team', 'use', 'aaaaaa', 'also',
+    'committee', 'projects', 'available', 'size', 'feature', 'see', 'users',
+    'feedback', 'pages', 'make', 'group', 'label', 'used', 'global', 'work',
+    'support', 'tool', 'visual', 'read', 'accounts', 'account', 'login',
+    'logout', 'changes', 'default', 'special', 'delivery', 'templates',
+    'template', 'movement', 'research', 'documentation', 'guide', 'program',
+    'system', 'features', 'reading', 'universal', 'conduct', 'strategy',
+    'contact', 'current', 'communities', 'charter', 'trustees',
+    'consultation', 'announcement', 'time', 'year', 'into', 'many', 'part',
+    'languages', 'end', 'free', 'find', 'thanks', 'hello', 'want', 'open',
+    'writing', 'everyone',
+    'people', 'another', 'including', 'join', 'sign', 'currently', 'participate',
+    'last', 'title', 'made', 'full', 'version', 'better', 'images', 'international',
+    'apologies', 'during', 'non', 'learn', 'each', 'review', 'technical', 'vote',
+    'election', 'possible', 'post', 'ask', 'start', 'plan', 'ideas', 'improve',
+    'future', 'result', 'results', 'section', 'translation', 'proposal',
+    'proposals', 'development', 'hope', 'look', 'posted', 'across', 'contest',
+    'interested', 'behalf', 'candidates', 'design', 'note', 'update', 'done',
+    'questions', 'question', 'mylanguage', 'access', 'add', 'ample', 'articles',
+    'board', 'both', 'campaign', 'details', 'different', 'discussion',
+    'elections', 'enabled', 'first', 'following', 'found', 'function', 'get',
+    'hi', 'internet', 'issue', 'issues', 'media', 'meeting', 'members', 'menu',
+    'messages', 'mobile', 'month', 'music', 'name', 'newsletter', 'out', 'own',
+    'park', 'phase', 'place', 'planned', 'policy', 'preferences', 'problems',
+    'process', 'punk', 'readers', 'return', 'same', 'september', 'set', 'share',
+    'single', 'small', 'software', 'such', 'take', 'test', 'than', 'thank',
+    'through', 'today', 'tools', 'translate', 'try', 'two', 'ucoc', 'ue',
+    'updates', 'using', 'ut', 'vertical', 'volunteers', 'voting', 'way',
+    'welcome', 'where', 'without', 'working',
+    'article', 'bar', 'bot', 'change', 'click', 'code', 'content',
+    'contributors', 'folk', 'here', 'important', 'just', 'know', 'library',
+    'line', 'links', 'lists', 'march', 'media', 'messages',
     
     # Publishing/academic English
     'publishing', 'academic', 'imprint', 'press', 'university',
@@ -91,12 +140,15 @@ BLACKLIST_FOREIGN = {
     'und', 'der', 'die', 'das', 'von', 'zu', 'im', 'am', 'ist',
     'wird', 'werden', 'wurde', 'wurden',
     
+    # French function words
+    'et', 'la', 'cest',
+    
     # Polish words commonly appearing in mixed content
     'jest', 'się', 'został', 'została', 'były', 'miał',
     
     # Historical terms (English/German origins)
     'wends', 'sorbs', 'outposts',
-    'cantharellus', 'cibarius', 'slav', 'też', 'pawła',
+    'też', 'pawła',
 }
 
 # ============================================================================
@@ -117,6 +169,9 @@ BLACKLIST_PROPER_NOUNS = {
     # Brand names
     'toyota', 'linux',
     
+    # Cities
+    'barcelona', 'berlin', 'london',
+    
     # Publishing houses
     'pwn', 'plc', 'ossolineum', 'multico', 'legia',
     
@@ -136,7 +191,7 @@ BLACKLIST_ABBREVIATIONS = {
     'isbn', 'issn', 'doi', 'ed', 'eds', 'vol', 'pp', 'p',
     
     # Titles and honorifics
-    'dr', 'prof', 'mgr', 'inż', 'hab',
+    'dr', 'prof', 'mgr', 'inż', 'hab', 'sw',
     
     # Common abbreviations
     'nr', 'np', 'tzw', 'itd', 'itp', 'ok',
@@ -145,7 +200,7 @@ BLACKLIST_ABBREVIATIONS = {
     'sg', 'pl', 'nom', 'gen', 'dat', 'acc', 'loc', 'inst',
     
     # Other technical
-    'wst', 'rkj', 'ss', 'st',
+    'iso', 'wst', 'rkj', 'ss', 'st', 'wmf', 'mln', 'cet', 'utc', 'ute',
 }
 
 # ============================================================================
@@ -158,6 +213,7 @@ BLACKLIST_NUMBERS = {
     'ii', 'iii', 'iv', 'v', 'vi', 'vii', 'viii', 'ix', 'x',
     'xi', 'xii', 'xiii', 'xiv', 'xv', 'xvi', 'xvii', 'xviii', 'xix', 'xx',
     'xxi', 'xxx', 'xl', 'l', 'lx', 'lxx', 'lxxx', 'xc', 'c',
+    'dccc', 'mcd', 'mcm', 'mdcc', 'mdccc',
 }
 
 # ============================================================================
