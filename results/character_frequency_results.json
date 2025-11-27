@@ -1,0 +1,204 @@
+{
+  "total_characters": 3261617,
+  "top_20_characters": [
+    {
+      "char": " ",
+      "count": 528476,
+      "percentage": 16.202883416415844,
+      "rank": 1
+    },
+    {
+      "char": "a",
+      "count": 211565,
+      "percentage": 6.486506539547715,
+      "rank": 2
+    },
+    {
+      "char": "i",
+      "count": 194691,
+      "percentage": 5.96915578990421,
+      "rank": 3
+    },
+    {
+      "char": "e",
+      "count": 187582,
+      "percentage": 5.751196415765554,
+      "rank": 4
+    },
+    {
+      "char": "n",
+      "count": 152865,
+      "percentage": 4.686785726221074,
+      "rank": 5
+    },
+    {
+      "char": "r",
+      "count": 149031,
+      "percentage": 4.569236670032073,
+      "rank": 6
+    },
+    {
+      "char": "s",
+      "count": 146972,
+      "percentage": 4.506108473189832,
+      "rank": 7
+    },
+    {
+      "char": "o",
+      "count": 134269,
+      "percentage": 4.116639078101445,
+      "rank": 8
+    },
+    {
+      "char": "t",
+      "count": 132735,
+      "percentage": 4.069607191770217,
+      "rank": 9
+    },
+    {
+      "char": "z",
+      "count": 131520,
+      "percentage": 4.032355730301871,
+      "rank": 10
+    },
+    {
+      "char": "c",
+      "count": 122589,
+      "percentage": 3.7585344937802323,
+      "rank": 11
+    },
+    {
+      "char": "w",
+      "count": 109423,
+      "percentage": 3.354869685803085,
+      "rank": 12
+    },
+    {
+      "char": "d",
+      "count": 91851,
+      "percentage": 2.816118508089699,
+      "rank": 13
+    },
+    {
+      "char": "k",
+      "count": 88212,
+      "percentage": 2.704548081519075,
+      "rank": 14
+    },
+    {
+      "char": "l",
+      "count": 87764,
+      "percentage": 2.6908125632163435,
+      "rank": 15
+    },
+    {
+      "char": "m",
+      "count": 73951,
+      "percentage": 2.2673109687618136,
+      "rank": 16
+    },
+    {
+      "char": "p",
+      "count": 70016,
+      "percentage": 2.1466652890268842,
+      "rank": 17
+    },
+    {
+      "char": "ò",
+      "count": 68688,
+      "percentage": 2.105949288343788,
+      "rank": 18
+    },
+    {
+      "char": "ë",
+      "count": 62872,
+      "percentage": 1.9276328275208279,
+      "rank": 19
+    },
+    {
+      "char": "g",
+      "count": 53519,
+      "percentage": 1.6408732233122405,
+      "rank": 20
+    }
+  ],
+  "kashubian_diacritics": [
+    {
+      "char": "ò",
+      "description": "o with grave",
+      "count": 68688,
+      "percentage": 2.105949288343788,
+      "rank": 18
+    },
+    {
+      "char": "ë",
+      "description": "e with diaeresis",
+      "count": 62872,
+      "percentage": 1.9276328275208279,
+      "rank": 19
+    },
+    {
+      "char": "ô",
+      "description": "o with circumflex",
+      "count": 39194,
+      "percentage": 1.2016738936545892,
+      "rank": 25
+    },
+    {
+      "char": "é",
+      "description": "e with acute",
+      "count": 33905,
+      "percentage": 1.0395150626207799,
+      "rank": 26
+    },
+    {
+      "char": "ł",
+      "description": "l with stroke",
+      "count": 28981,
+      "percentage": 0.8885469998470085,
+      "rank": 28
+    },
+    {
+      "char": "ó",
+      "description": "o with acute",
+      "count": 23498,
+      "percentage": 0.7204401988338912,
+      "rank": 29
+    },
+    {
+      "char": "ã",
+      "description": "a with tilde",
+      "count": 19689,
+      "percentage": 0.6036576336216055,
+      "rank": 31
+    },
+    {
+      "char": "ù",
+      "description": "u with grave",
+      "count": 19574,
+      "percentage": 0.6001317751287168,
+      "rank": 32
+    },
+    {
+      "char": "ą",
+      "description": "a with ogonek",
+      "count": 15467,
+      "percentage": 0.4742126374739891,
+      "rank": 33
+    },
+    {
+      "char": "ż",
+      "description": "z with dot above",
+      "count": 14486,
+      "percentage": 0.44413553154769553,
+      "rank": 34
+    },
+    {
+      "char": "ń",
+      "description": "n with acute",
+      "count": 11067,
+      "percentage": 0.3393102255721625,
+      "rank": 35
+    }
+  ]
+}

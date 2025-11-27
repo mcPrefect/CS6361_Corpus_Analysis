@@ -1,0 +1,60 @@
+{
+  "coverage_by_size": [
+    {
+      "vocab_size": 100,
+      "words_covered": 150194,
+      "coverage_percentage": 30.135595532851518,
+      "vocab_percentage": 0.1176982921977802
+    },
+    {
+      "vocab_size": 500,
+      "words_covered": 236447,
+      "coverage_percentage": 47.44178300701854,
+      "vocab_percentage": 0.588491460988901
+    },
+    {
+      "vocab_size": 1000,
+      "words_covered": 272512,
+      "coverage_percentage": 54.67802581893041,
+      "vocab_percentage": 1.176982921977802
+    },
+    {
+      "vocab_size": 2000,
+      "words_covered": 307239,
+      "coverage_percentage": 61.64580632993174,
+      "vocab_percentage": 2.353965843955604
+    },
+    {
+      "vocab_size": 5000,
+      "words_covered": 353118,
+      "coverage_percentage": 70.85117397079419,
+      "vocab_percentage": 5.884914609889011
+    },
+    {
+      "vocab_size": 10000,
+      "words_covered": 387523,
+      "coverage_percentage": 77.75434696244336,
+      "vocab_percentage": 11.769829219778021
+    },
+    {
+      "vocab_size": 20000,
+      "words_covered": 421594,
+      "coverage_percentage": 84.59050470109993,
+      "vocab_percentage": 23.539658439556042
+    },
+    {
+      "vocab_size": 50000,
+      "words_covered": 463431,
+      "coverage_percentage": 92.98486739406975,
+      "vocab_percentage": 58.8491460988901
+    }
+  ],
+  "vocab_for_coverage": {
+    "80": 12579,
+    "90": 35124,
+    "95": 60044,
+    "99": 79980
+  },
+  "total_vocabulary": 84963,
+  "total_words": 498394
+}

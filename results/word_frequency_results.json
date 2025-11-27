@@ -1,0 +1,309 @@
+{
+  "total_words": 498394,
+  "vocabulary_size": 84963,
+  "type_token_ratio": 0.17047356107818312,
+  "hapax_legomena": 53126,
+  "hapax_percentage": 62.52839471299272,
+  "top_50_words": [
+    {
+      "rank": 1,
+      "word": "w",
+      "count": 16962,
+      "percentage": 3.403331500780507
+    },
+    {
+      "rank": 2,
+      "word": "je",
+      "count": 8108,
+      "percentage": 1.6268253630661687
+    },
+    {
+      "rank": 3,
+      "word": "to",
+      "count": 7573,
+      "percentage": 1.5194805715959663
+    },
+    {
+      "rank": 4,
+      "word": "i",
+      "count": 7174,
+      "percentage": 1.4394234280508995
+    },
+    {
+      "rank": 5,
+      "word": "na",
+      "count": 7030,
+      "percentage": 1.4105306243654618
+    },
+    {
+      "rank": 6,
+      "word": "the",
+      "count": 5181,
+      "percentage": 1.0395389992656412
+    },
+    {
+      "rank": 7,
+      "word": "z",
+      "count": 5064,
+      "percentage": 1.0160635962712232
+    },
+    {
+      "rank": 8,
+      "word": "a",
+      "count": 4005,
+      "percentage": 0.8035811025012339
+    },
+    {
+      "rank": 9,
+      "word": "do",
+      "count": 3747,
+      "percentage": 0.7518148292314916
+    },
+    {
+      "rank": 10,
+      "word": "rok",
+      "count": 3190,
+      "percentage": 0.6400558594204585
+    },
+    {
+      "rank": 11,
+      "word": "sã",
+      "count": 2764,
+      "percentage": 0.5545813151843721
+    },
+    {
+      "rank": 12,
+      "word": "rokù",
+      "count": 2356,
+      "percentage": 0.47271837140896555
+    },
+    {
+      "rank": 13,
+      "word": "and",
+      "count": 2116,
+      "percentage": 0.42456369859990284
+    },
+    {
+      "rank": 14,
+      "word": "ë",
+      "count": 2038,
+      "percentage": 0.40891342993695756
+    },
+    {
+      "rank": 15,
+      "word": "of",
+      "count": 1756,
+      "percentage": 0.3523316893863088
+    },
+    {
+      "rank": 16,
+      "word": "in",
+      "count": 1676,
+      "percentage": 0.3362801317832879
+    },
+    {
+      "rank": 17,
+      "word": "téż",
+      "count": 1518,
+      "percentage": 0.3045783055173217
+    },
+    {
+      "rank": 18,
+      "word": "m",
+      "count": 1507,
+      "percentage": 0.3023712163469062
+    },
+    {
+      "rank": 19,
+      "word": "òd",
+      "count": 1490,
+      "percentage": 0.29896026035626433
+    },
+    {
+      "rank": 20,
+      "word": "style",
+      "count": 1489,
+      "percentage": 0.29875961588622657
+    },
+    {
+      "rank": 21,
+      "word": "béł",
+      "count": 1447,
+      "percentage": 0.2903325481446406
+    },
+    {
+      "rank": 22,
+      "word": "pò",
+      "count": 1385,
+      "percentage": 0.2778925910022994
+    },
+    {
+      "rank": 23,
+      "word": "you",
+      "count": 1350,
+      "percentage": 0.27087003455097775
+    },
+    {
+      "rank": 24,
+      "word": "on",
+      "count": 1341,
+      "percentage": 0.26906423432063786
+    },
+    {
+      "rank": 25,
+      "word": "for",
+      "count": 1335,
+      "percentage": 0.2678603675004113
+    },
+    {
+      "rank": 26,
+      "word": "krézu",
+      "count": 1229,
+      "percentage": 0.24659205367640863
+    },
+    {
+      "rank": 27,
+      "word": "s",
+      "count": 1213,
+      "percentage": 0.24338174215580446
+    },
+    {
+      "rank": 28,
+      "word": "p",
+      "count": 1212,
+      "percentage": 0.24318109768576668
+    },
+    {
+      "rank": 29,
+      "word": "we",
+      "count": 1193,
+      "percentage": 0.2393688527550492
+    },
+    {
+      "rank": 30,
+      "word": "są",
+      "count": 1158,
+      "percentage": 0.23234629630372758
+    },
+    {
+      "rank": 31,
+      "word": "align",
+      "count": 1135,
+      "percentage": 0.22773147349285905
+    },
+    {
+      "rank": 32,
+      "word": "this",
+      "count": 1085,
+      "percentage": 0.217699249990971
+    },
+    {
+      "rank": 33,
+      "word": "e",
+      "count": 1077,
+      "percentage": 0.2160940942306689
+    },
+    {
+      "rank": 34,
+      "word": "wies",
+      "count": 1032,
+      "percentage": 0.20706509307896964
+    },
+    {
+      "rank": 35,
+      "word": "is",
+      "count": 1004,
+      "percentage": 0.20144704791791235
+    },
+    {
+      "rank": 36,
+      "word": "òn",
+      "count": 1003,
+      "percentage": 0.20124640344787456
+    },
+    {
+      "rank": 37,
+      "word": "gminie",
+      "count": 1001,
+      "percentage": 0.20084511450779904
+    },
+    {
+      "rank": 38,
+      "word": "t",
+      "count": 992,
+      "percentage": 0.19903931427745922
+    },
+    {
+      "rank": 39,
+      "word": "kalãdôrz",
+      "count": 961,
+      "percentage": 0.1928193357062886
+    },
+    {
+      "rank": 40,
+      "word": "ò",
+      "count": 943,
+      "percentage": 0.18920773524560888
+    },
+    {
+      "rank": 41,
+      "word": "kalãdôrza",
+      "count": 935,
+      "percentage": 0.18760257948530681
+    },
+    {
+      "rank": 42,
+      "word": "jin",
+      "count": 919,
+      "percentage": 0.18439226796470262
+    },
+    {
+      "rank": 43,
+      "word": "nie",
+      "count": 918,
+      "percentage": 0.18419162349466486
+    },
+    {
+      "rank": 44,
+      "word": "stolatégò",
+      "count": 876,
+      "percentage": 0.1757645557530789
+    },
+    {
+      "rank": 45,
+      "word": "r",
+      "count": 865,
+      "percentage": 0.1735574665826635
+    },
+    {
+      "rank": 46,
+      "word": "że",
+      "count": 862,
+      "percentage": 0.17295553317255025
+    },
+    {
+      "rank": 47,
+      "word": "km",
+      "count": 853,
+      "percentage": 0.17114973294221036
+    },
+    {
+      "rank": 48,
+      "word": "wòjewództwie",
+      "count": 851,
+      "percentage": 0.17074844400213485
+    },
+    {
+      "rank": 49,
+      "word": "abò",
+      "count": 833,
+      "percentage": 0.16713684354145517
+    },
+    {
+      "rank": 50,
+      "word": "pòl",
+      "count": 832,
+      "percentage": 0.1669361990714174
+    }
+  ]
+}

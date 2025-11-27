@@ -1,0 +1,157 @@
+{
+  "total_digraphs": 2271328,
+  "important_kashubian_digraphs": [
+    {
+      "digraph": "ch",
+      "count": 26818,
+      "percentage": 1.1807189450400823
+    },
+    {
+      "digraph": "cz",
+      "count": 36437,
+      "percentage": 1.6042156835120245
+    },
+    {
+      "digraph": "dz",
+      "count": 15143,
+      "percentage": 0.666702475380042
+    },
+    {
+      "digraph": "dż",
+      "count": 2000,
+      "percentage": 0.08805421321799405
+    },
+    {
+      "digraph": "rz",
+      "count": 20604,
+      "percentage": 0.9071345045717747
+    },
+    {
+      "digraph": "sz",
+      "count": 21060,
+      "percentage": 0.9272108651854775
+    }
+  ],
+  "top_20_digraphs": [
+    {
+      "rank": 1,
+      "digraph": "cz",
+      "count": 36437,
+      "percentage": 1.6042156835120245
+    },
+    {
+      "rank": 2,
+      "digraph": "ni",
+      "count": 30272,
+      "percentage": 1.332788571267558
+    },
+    {
+      "rank": 3,
+      "digraph": "ch",
+      "count": 26818,
+      "percentage": 1.1807189450400823
+    },
+    {
+      "rank": 4,
+      "digraph": "wi",
+      "count": 25676,
+      "percentage": 1.1304399892926076
+    },
+    {
+      "rank": 5,
+      "digraph": "st",
+      "count": 24958,
+      "percentage": 1.0988285267473479
+    },
+    {
+      "rank": 6,
+      "digraph": "ie",
+      "count": 24957,
+      "percentage": 1.0987844996407388
+    },
+    {
+      "rank": 7,
+      "digraph": "ro",
+      "count": 24483,
+      "percentage": 1.077915651108074
+    },
+    {
+      "rank": 8,
+      "digraph": "an",
+      "count": 21370,
+      "percentage": 0.9408592682342666
+    },
+    {
+      "rank": 9,
+      "digraph": "na",
+      "count": 21303,
+      "percentage": 0.9379094520914637
+    },
+    {
+      "rank": 10,
+      "digraph": "sz",
+      "count": 21060,
+      "percentage": 0.9272108651854775
+    },
+    {
+      "rank": 11,
+      "digraph": "rz",
+      "count": 20604,
+      "percentage": 0.9071345045717747
+    },
+    {
+      "rank": 12,
+      "digraph": "ka",
+      "count": 20189,
+      "percentage": 0.8888632553290411
+    },
+    {
+      "rank": 13,
+      "digraph": "zi",
+      "count": 19758,
+      "percentage": 0.8698875723805634
+    },
+    {
+      "rank": 14,
+      "digraph": "er",
+      "count": 19648,
+      "percentage": 0.8650445906535736
+    },
+    {
+      "rank": 15,
+      "digraph": "sc",
+      "count": 19543,
+      "percentage": 0.8604217444596289
+    },
+    {
+      "rank": 16,
+      "digraph": "ar",
+      "count": 18565,
+      "percentage": 0.8173632341960299
+    },
+    {
+      "rank": 17,
+      "digraph": "to",
+      "count": 18346,
+      "percentage": 0.8077212978486594
+    },
+    {
+      "rank": 18,
+      "digraph": "in",
+      "count": 18309,
+      "percentage": 0.8060922949041266
+    },
+    {
+      "rank": 19,
+      "digraph": "ze",
+      "count": 18234,
+      "percentage": 0.8027902619084518
+    },
+    {
+      "rank": 20,
+      "digraph": "ow",
+      "count": 16373,
+      "percentage": 0.7208558165091083
+    }
+  ]
+}

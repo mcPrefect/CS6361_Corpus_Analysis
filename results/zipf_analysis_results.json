@@ -1,0 +1,9010 @@
+{
+  "correlation": -0.9729392669506441,
+  "zipf_constant_mean": 51386.562,
+  "zipf_constant_std": 4881.791220459556,
+  "validates_zipf": true,
+  "rank_frequency_data": [
+    {
+      "rank": 1,
+      "word": "w",
+      "frequency": 16962
+    },
+    {
+      "rank": 2,
+      "word": "je",
+      "frequency": 8108
+    },
+    {
+      "rank": 3,
+      "word": "to",
+      "frequency": 7573
+    },
+    {
+      "rank": 4,
+      "word": "i",
+      "frequency": 7174
+    },
+    {
+      "rank": 5,
+      "word": "na",
+      "frequency": 7030
+    },
+    {
+      "rank": 6,
+      "word": "the",
+      "frequency": 5181
+    },
+    {
+      "rank": 7,
+      "word": "z",
+      "frequency": 5064
+    },
+    {
+      "rank": 8,
+      "word": "a",
+      "frequency": 4005
+    },
+    {
+      "rank": 9,
+      "word": "do",
+      "frequency": 3747
+    },
+    {
+      "rank": 10,
+      "word": "rok",
+      "frequency": 3190
+    },
+    {
+      "rank": 11,
+      "word": "sã",
+      "frequency": 2764
+    },
+    {
+      "rank": 12,
+      "word": "rokù",
+      "frequency": 2356
+    },
+    {
+      "rank": 13,
+      "word": "and",
+      "frequency": 2116
+    },
+    {
+      "rank": 14,
+      "word": "ë",
+      "frequency": 2038
+    },
+    {
+      "rank": 15,
+      "word": "of",
+      "frequency": 1756
+    },
+    {
+      "rank": 16,
+      "word": "in",
+      "frequency": 1676
+    },
+    {
+      "rank": 17,
+      "word": "téż",
+      "frequency": 1518
+    },
+    {
+      "rank": 18,
+      "word": "m",
+      "frequency": 1507
+    },
+    {
+      "rank": 19,
+      "word": "òd",
+      "frequency": 1490
+    },
+    {
+      "rank": 20,
+      "word": "style",
+      "frequency": 1489
+    },
+    {
+      "rank": 21,
+      "word": "béł",
+      "frequency": 1447
+    },
+    {
+      "rank": 22,
+      "word": "pò",
+      "frequency": 1385
+    },
+    {
+      "rank": 23,
+      "word": "you",
+      "frequency": 1350
+    },
+    {
+      "rank": 24,
+      "word": "on",
+      "frequency": 1341
+    },
+    {
+      "rank": 25,
+      "word": "for",
+      "frequency": 1335
+    },
+    {
+      "rank": 26,
+      "word": "krézu",
+      "frequency": 1229
+    },
+    {
+      "rank": 27,
+      "word": "s",
+      "frequency": 1213
+    },
+    {
+      "rank": 28,
+      "word": "p",
+      "frequency": 1212
+    },
+    {
+      "rank": 29,
+      "word": "we",
+      "frequency": 1193
+    },
+    {
+      "rank": 30,
+      "word": "są",
+      "frequency": 1158
+    },
+    {
+      "rank": 31,
+      "word": "align",
+      "frequency": 1135
+    },
+    {
+      "rank": 32,
+      "word": "this",
+      "frequency": 1085
+    },
+    {
+      "rank": 33,
+      "word": "e",
+      "frequency": 1077
+    },
+    {
+      "rank": 34,
+      "word": "wies",
+      "frequency": 1032
+    },
+    {
+      "rank": 35,
+      "word": "is",
+      "frequency": 1004
+    },
+    {
+      "rank": 36,
+      "word": "òn",
+      "frequency": 1003
+    },
+    {
+      "rank": 37,
+      "word": "gminie",
+      "frequency": 1001
+    },
+    {
+      "rank": 38,
+      "word": "t",
+      "frequency": 992
+    },
+    {
+      "rank": 39,
+      "word": "kalãdôrz",
+      "frequency": 961
+    },
+    {
+      "rank": 40,
+      "word": "ò",
+      "frequency": 943
+    },
+    {
+      "rank": 41,
+      "word": "kalãdôrza",
+      "frequency": 935
+    },
+    {
+      "rank": 42,
+      "word": "jin",
+      "frequency": 919
+    },
+    {
+      "rank": 43,
+      "word": "nie",
+      "frequency": 918
+    },
+    {
+      "rank": 44,
+      "word": "stolatégò",
+      "frequency": 876
+    },
+    {
+      "rank": 45,
+      "word": "r",
+      "frequency": 865
+    },
+    {
+      "rank": 46,
+      "word": "że",
+      "frequency": 862
+    },
+    {
+      "rank": 47,
+      "word": "km",
+      "frequency": 853
+    },
+    {
+      "rank": 48,
+      "word": "wòjewództwie",
+      "frequency": 851
+    },
+    {
+      "rank": 49,
+      "word": "abò",
+      "frequency": 833
+    },
+    {
+      "rank": 50,
+      "word": "pòl",
+      "frequency": 832
+    },
+    {
+      "rank": 51,
+      "word": "jak",
+      "frequency": 831
+    },
+    {
+      "rank": 52,
+      "word": "be",
+      "frequency": 800
+    },
+    {
+      "rank": 53,
+      "word": "will",
+      "frequency": 792
+    },
+    {
+      "rank": 54,
+      "word": "tu",
+      "frequency": 789
+    },
+    {
+      "rank": 55,
+      "word": "przez",
+      "frequency": 783
+    },
+    {
+      "rank": 56,
+      "word": "center",
+      "frequency": 781
+    },
+    {
+      "rank": 57,
+      "word": "kaszëbach",
+      "frequency": 748
+    },
+    {
+      "rank": 58,
+      "word": "pòdług",
+      "frequency": 741
+    },
+    {
+      "rank": 59,
+      "word": "rodzëznë",
+      "frequency": 732
+    },
+    {
+      "rank": 60,
+      "word": "border",
+      "frequency": 722
+    },
+    {
+      "rank": 61,
+      "word": "pòczątk",
+      "frequency": 719
+    },
+    {
+      "rank": 62,
+      "word": "dzéń",
+      "frequency": 714
+    },
+    {
+      "rank": 63,
+      "word": "gregòriańsczi",
+      "frequency": 707
+    },
+    {
+      "rank": 64,
+      "word": "przëpôdł",
+      "frequency": 696
+    },
+    {
+      "rank": 65,
+      "word": "za",
+      "frequency": 693
+    },
+    {
+      "rank": 66,
+      "word": "juliańsczégò",
+      "frequency": 684
+    },
+    {
+      "rank": 67,
+      "word": "pòmòrsczim",
+      "frequency": 683
+    },
+    {
+      "rank": 68,
+      "word": "dlô",
+      "frequency": 667
+    },
+    {
+      "rank": 69,
+      "word": "your",
+      "frequency": 651
+    },
+    {
+      "rank": 70,
+      "word": "wiele",
+      "frequency": 649
+    },
+    {
+      "rank": 71,
+      "word": "wikimedia",
+      "frequency": 640
+    },
+    {
+      "rank": 72,
+      "word": "ùr",
+      "frequency": 634
+    },
+    {
+      "rank": 73,
+      "word": "kòl",
+      "frequency": 632
+    },
+    {
+      "rank": 74,
+      "word": "can",
+      "frequency": 631
+    },
+    {
+      "rank": 75,
+      "word": "te",
+      "frequency": 630
+    },
+    {
+      "rank": 76,
+      "word": "kaszëbskô",
+      "frequency": 628
+    },
+    {
+      "rank": 77,
+      "word": "jpg",
+      "frequency": 627
+    },
+    {
+      "rank": 78,
+      "word": "mô",
+      "frequency": 626
+    },
+    {
+      "rank": 79,
+      "word": "mòże",
+      "frequency": 626
+    },
+    {
+      "rank": 80,
+      "word": "np",
+      "frequency": 612
+    },
+    {
+      "rank": 81,
+      "word": "jegò",
+      "frequency": 592
+    },
+    {
+      "rank": 82,
+      "word": "bëc",
+      "frequency": 582
+    },
+    {
+      "rank": 83,
+      "word": "kaszëbsczi",
+      "frequency": 567
+    },
+    {
+      "rank": 84,
+      "word": "solid",
+      "frequency": 565
+    },
+    {
+      "rank": 85,
+      "word": "background",
+      "frequency": 564
+    },
+    {
+      "rank": 86,
+      "word": "nbsp",
+      "frequency": 557
+    },
+    {
+      "rank": 87,
+      "word": "are",
+      "frequency": 552
+    },
+    {
+      "rank": 88,
+      "word": "òna",
+      "frequency": 543
+    },
+    {
+      "rank": 89,
+      "word": "it",
+      "frequency": 540
+    },
+    {
+      "rank": 90,
+      "word": "that",
+      "frequency": 532
+    },
+    {
+      "rank": 91,
+      "word": "nieprzestãpny",
+      "frequency": 527
+    },
+    {
+      "rank": 92,
+      "word": "tak",
+      "frequency": 523
+    },
+    {
+      "rank": 93,
+      "word": "chtërnégò",
+      "frequency": 521
+    },
+    {
+      "rank": 94,
+      "word": "co",
+      "frequency": 520
+    },
+    {
+      "rank": 95,
+      "word": "em",
+      "frequency": 518
+    },
+    {
+      "rank": 96,
+      "word": "wiki",
+      "frequency": 515
+    },
+    {
+      "rank": 97,
+      "word": "if",
+      "frequency": 514
+    },
+    {
+      "rank": 98,
+      "word": "christusa",
+      "frequency": 511
+    },
+    {
+      "rank": 99,
+      "word": "warszawa",
+      "frequency": 501
+    },
+    {
+      "rank": 100,
+      "word": "krajach",
+      "frequency": 498
+    },
+    {
+      "rank": 101,
+      "word": "niechtërnëch",
+      "frequency": 489
+    },
+    {
+      "rank": 102,
+      "word": "naszi",
+      "frequency": 485
+    },
+    {
+      "rank": 103,
+      "word": "width",
+      "frequency": 482
+    },
+    {
+      "rank": 104,
+      "word": "hewòtny",
+      "frequency": 480
+    },
+    {
+      "rank": 105,
+      "word": "or",
+      "frequency": 480
+    },
+    {
+      "rank": 106,
+      "word": "pòlsczi",
+      "frequency": 479
+    },
+    {
+      "rank": 107,
+      "word": "l",
+      "frequency": 479
+    },
+    {
+      "rank": 108,
+      "word": "gardu",
+      "frequency": 479
+    },
+    {
+      "rank": 109,
+      "word": "kaszëbsczégò",
+      "frequency": 477
+    },
+    {
+      "rank": 110,
+      "word": "égò",
+      "frequency": 477
+    },
+    {
+      "rank": 111,
+      "word": "ùżiwóny",
+      "frequency": 477
+    },
+    {
+      "rank": 112,
+      "word": "erë",
+      "frequency": 476
+    },
+    {
+      "rank": 113,
+      "word": "narodzenim",
+      "frequency": 476
+    },
+    {
+      "rank": 114,
+      "word": "dzesãcolecô",
+      "frequency": 472
+    },
+    {
+      "rank": 115,
+      "word": "with",
+      "frequency": 471
+    },
+    {
+      "rank": 116,
+      "word": "page",
+      "frequency": 470
+    },
+    {
+      "rank": 117,
+      "word": "gregòriańsczégò",
+      "frequency": 467
+    },
+    {
+      "rank": 118,
+      "word": "juliańsczi",
+      "frequency": 467
+    },
+    {
+      "rank": 119,
+      "word": "równak",
+      "frequency": 463
+    },
+    {
+      "rank": 120,
+      "word": "at",
+      "frequency": 456
+    },
+    {
+      "rank": 121,
+      "word": "bëła",
+      "frequency": 445
+    },
+    {
+      "rank": 122,
+      "word": "gard",
+      "frequency": 438
+    },
+    {
+      "rank": 123,
+      "word": "ii",
+      "frequency": 432
+    },
+    {
+      "rank": 124,
+      "word": "lëdztwò",
+      "frequency": 430
+    },
+    {
+      "rank": 125,
+      "word": "ùm",
+      "frequency": 428
+    },
+    {
+      "rank": 126,
+      "word": "as",
+      "frequency": 427
+    },
+    {
+      "rank": 127,
+      "word": "jãzëka",
+      "frequency": 426
+    },
+    {
+      "rank": 128,
+      "word": "wòjewództwa",
+      "frequency": 424
+    },
+    {
+      "rank": 129,
+      "word": "n",
+      "frequency": 418
+    },
+    {
+      "rank": 130,
+      "word": "zwëczajny",
+      "frequency": 417
+    },
+    {
+      "rank": 131,
+      "word": "nad",
+      "frequency": 404
+    },
+    {
+      "rank": 132,
+      "word": "ze",
+      "frequency": 399
+    },
+    {
+      "rank": 133,
+      "word": "pòmòrsczégò",
+      "frequency": 399
+    },
+    {
+      "rank": 134,
+      "word": "jakno",
+      "frequency": 397
+    },
+    {
+      "rank": 135,
+      "word": "tim",
+      "frequency": 393
+    },
+    {
+      "rank": 136,
+      "word": "ji",
+      "frequency": 392
+    },
+    {
+      "rank": 137,
+      "word": "from",
+      "frequency": 386
+    },
+    {
+      "rank": 138,
+      "word": "please",
+      "frequency": 386
+    },
+    {
+      "rank": 139,
+      "word": "patrz",
+      "frequency": 382
+    },
+    {
+      "rank": 140,
+      "word": "o",
+      "frequency": 380
+    },
+    {
+      "rank": 141,
+      "word": "jãzëk",
+      "frequency": 380
+    },
+    {
+      "rank": 142,
+      "word": "v",
+      "frequency": 377
+    },
+    {
+      "rank": 143,
+      "word": "wikipedia",
+      "frequency": 373
+    },
+    {
+      "rank": 144,
+      "word": "ni",
+      "frequency": 373
+    },
+    {
+      "rank": 145,
+      "word": "new",
+      "frequency": 373
+    },
+    {
+      "rank": 146,
+      "word": "j",
+      "frequency": 372
+    },
+    {
+      "rank": 147,
+      "word": "an",
+      "frequency": 371
+    },
+    {
+      "rank": 148,
+      "word": "mionowi",
+      "frequency": 370
+    },
+    {
+      "rank": 149,
+      "word": "swiece",
+      "frequency": 367
+    },
+    {
+      "rank": 150,
+      "word": "leno",
+      "frequency": 363
+    },
+    {
+      "rank": 151,
+      "word": "wiéchrzëzna",
+      "frequency": 359
+    },
+    {
+      "rank": 152,
+      "word": "nié",
+      "frequency": 358
+    },
+    {
+      "rank": 153,
+      "word": "by",
+      "frequency": 358
+    },
+    {
+      "rank": 154,
+      "word": "all",
+      "frequency": 357
+    },
+    {
+      "rank": 155,
+      "word": "more",
+      "frequency": 355
+    },
+    {
+      "rank": 156,
+      "word": "language",
+      "frequency": 354
+    },
+    {
+      "rank": 157,
+      "word": "bëło",
+      "frequency": 352
+    },
+    {
+      "rank": 158,
+      "word": "latach",
+      "frequency": 348
+    },
+    {
+      "rank": 159,
+      "word": "c",
+      "frequency": 347
+    },
+    {
+      "rank": 160,
+      "word": "aaaaaa",
+      "frequency": 342
+    },
+    {
+      "rank": 161,
+      "word": "ale",
+      "frequency": 341
+    },
+    {
+      "rank": 162,
+      "word": "drëdżégò",
+      "frequency": 338
+    },
+    {
+      "rank": 163,
+      "word": "f",
+      "frequency": 337
+    },
+    {
+      "rank": 164,
+      "word": "ti",
+      "frequency": 336
+    },
+    {
+      "rank": 165,
+      "word": "lëdzy",
+      "frequency": 329
+    },
+    {
+      "rank": 166,
+      "word": "rosce",
+      "frequency": 329
+    },
+    {
+      "rank": 167,
+      "word": "miem",
+      "frequency": 328
+    },
+    {
+      "rank": 168,
+      "word": "have",
+      "frequency": 324
+    },
+    {
+      "rank": 169,
+      "word": "community",
+      "frequency": 324
+    },
+    {
+      "rank": 170,
+      "word": "redirect",
+      "frequency": 321
+    },
+    {
+      "rank": 171,
+      "word": "tësąclecô",
+      "frequency": 320
+    },
+    {
+      "rank": 172,
+      "word": "baro",
+      "frequency": 319
+    },
+    {
+      "rank": 173,
+      "word": "pl",
+      "frequency": 319
+    },
+    {
+      "rank": 174,
+      "word": "gdańsk",
+      "frequency": 314
+    },
+    {
+      "rank": 175,
+      "word": "help",
+      "frequency": 314
+    },
+    {
+      "rank": 176,
+      "word": "about",
+      "frequency": 314
+    },
+    {
+      "rank": 177,
+      "word": "tegò",
+      "frequency": 304
+    },
+    {
+      "rank": 178,
+      "word": "pòlsce",
+      "frequency": 304
+    },
+    {
+      "rank": 179,
+      "word": "de",
+      "frequency": 301
+    },
+    {
+      "rank": 180,
+      "word": "jaż",
+      "frequency": 301
+    },
+    {
+      "rank": 181,
+      "word": "pòd",
+      "frequency": 298
+    },
+    {
+      "rank": 182,
+      "word": "lat",
+      "frequency": 297
+    },
+    {
+      "rank": 183,
+      "word": "jich",
+      "frequency": 296
+    },
+    {
+      "rank": 184,
+      "word": "gduńsk",
+      "frequency": 292
+    },
+    {
+      "rank": 185,
+      "word": "viii",
+      "frequency": 292
+    },
+    {
+      "rank": 186,
+      "word": "cest",
+      "frequency": 291
+    },
+    {
+      "rank": 187,
+      "word": "zaczął",
+      "frequency": 290
+    },
+    {
+      "rank": 188,
+      "word": "gò",
+      "frequency": 288
+    },
+    {
+      "rank": 189,
+      "word": "team",
+      "frequency": 287
+    },
+    {
+      "rank": 190,
+      "word": "padding",
+      "frequency": 280
+    },
+    {
+      "rank": 191,
+      "word": "message",
+      "frequency": 280
+    },
+    {
+      "rank": 192,
+      "word": "talk",
+      "frequency": 279
+    },
+    {
+      "rank": 193,
+      "word": "ôrt",
+      "frequency": 278
+    },
+    {
+      "rank": 194,
+      "word": "kòscół",
+      "frequency": 278
+    },
+    {
+      "rank": 195,
+      "word": "zôczątkù",
+      "frequency": 275
+    },
+    {
+      "rank": 196,
+      "word": "roku",
+      "frequency": 275
+    },
+    {
+      "rank": 197,
+      "word": "czasach",
+      "frequency": 272
+    },
+    {
+      "rank": 198,
+      "word": "b",
+      "frequency": 271
+    },
+    {
+      "rank": 199,
+      "word": "nëch",
+      "frequency": 269
+    },
+    {
+      "rank": 200,
+      "word": "słownik",
+      "frequency": 268
+    },
+    {
+      "rank": 201,
+      "word": "nót",
+      "frequency": 265
+    },
+    {
+      "rank": 202,
+      "word": "òb",
+      "frequency": 265
+    },
+    {
+      "rank": 203,
+      "word": "przë",
+      "frequency": 264
+    },
+    {
+      "rank": 204,
+      "word": "chtëren",
+      "frequency": 263
+    },
+    {
+      "rank": 205,
+      "word": "kaszëbów",
+      "frequency": 261
+    },
+    {
+      "rank": 206,
+      "word": "dopiérze",
+      "frequency": 261
+    },
+    {
+      "rank": 207,
+      "word": "project",
+      "frequency": 261
+    },
+    {
+      "rank": 208,
+      "word": "meta",
+      "frequency": 259
+    },
+    {
+      "rank": 209,
+      "word": "class",
+      "frequency": 259
+    },
+    {
+      "rank": 210,
+      "word": "dni",
+      "frequency": 258
+    },
+    {
+      "rank": 211,
+      "word": "foundation",
+      "frequency": 257
+    },
+    {
+      "rank": 212,
+      "word": "d",
+      "frequency": 256
+    },
+    {
+      "rank": 213,
+      "word": "dzél",
+      "frequency": 256
+    },
+    {
+      "rank": 214,
+      "word": "colspan",
+      "frequency": 255
+    },
+    {
+      "rank": 215,
+      "word": "list",
+      "frequency": 254
+    },
+    {
+      "rank": 216,
+      "word": "le",
+      "frequency": 254
+    },
+    {
+      "rank": 217,
+      "word": "bez",
+      "frequency": 251
+    },
+    {
+      "rank": 218,
+      "word": "samò",
+      "frequency": 248
+    },
+    {
+      "rank": 219,
+      "word": "left",
+      "frequency": 245
+    },
+    {
+      "rank": 220,
+      "word": "sw",
+      "frequency": 245
+    },
+    {
+      "rank": 221,
+      "word": "ju",
+      "frequency": 242
+    },
+    {
+      "rank": 222,
+      "word": "color",
+      "frequency": 241
+    },
+    {
+      "rank": 223,
+      "word": "data",
+      "frequency": 241
+    },
+    {
+      "rank": 224,
+      "word": "wiôldżi",
+      "frequency": 240
+    },
+    {
+      "rank": 225,
+      "word": "pamiãtac",
+      "frequency": 240
+    },
+    {
+      "rank": 226,
+      "word": "katolëcczich",
+      "frequency": 240
+    },
+    {
+      "rank": 227,
+      "word": "się",
+      "frequency": 239
+    },
+    {
+      "rank": 228,
+      "word": "pòwszechny",
+      "frequency": 239
+    },
+    {
+      "rank": 229,
+      "word": "u",
+      "frequency": 235
+    },
+    {
+      "rank": 230,
+      "word": "oficjalno",
+      "frequency": 235
+    },
+    {
+      "rank": 231,
+      "word": "not",
+      "frequency": 234
+    },
+    {
+      "rank": 232,
+      "word": "kaszëbsczim",
+      "frequency": 234
+    },
+    {
+      "rank": 233,
+      "word": "dzysdniowim",
+      "frequency": 234
+    },
+    {
+      "rank": 234,
+      "word": "ùżiwónégò",
+      "frequency": 232
+    },
+    {
+      "rank": 235,
+      "word": "mają",
+      "frequency": 231
+    },
+    {
+      "rank": 236,
+      "word": "kaszëbi",
+      "frequency": 231
+    },
+    {
+      "rank": 237,
+      "word": "wsë",
+      "frequency": 230
+    },
+    {
+      "rank": 238,
+      "word": "re",
+      "frequency": 229
+    },
+    {
+      "rank": 239,
+      "word": "top",
+      "frequency": 228
+    },
+    {
+      "rank": 240,
+      "word": "dosc",
+      "frequency": 227
+    },
+    {
+      "rank": 241,
+      "word": "ten",
+      "frequency": 227
+    },
+    {
+      "rank": 242,
+      "word": "jan",
+      "frequency": 226
+    },
+    {
+      "rank": 243,
+      "word": "hewòtnym",
+      "frequency": 226
+    },
+    {
+      "rank": 244,
+      "word": "rozeszłosc",
+      "frequency": 226
+    },
+    {
+      "rank": 245,
+      "word": "wënôszała",
+      "frequency": 226
+    },
+    {
+      "rank": 246,
+      "word": "roscëna",
+      "frequency": 226
+    },
+    {
+      "rank": 247,
+      "word": "use",
+      "frequency": 226
+    },
+    {
+      "rank": 248,
+      "word": "gmina",
+      "frequency": 225
+    },
+    {
+      "rank": 249,
+      "word": "wedle",
+      "frequency": 223
+    },
+    {
+      "rank": 250,
+      "word": "mediawiki",
+      "frequency": 220
+    },
+    {
+      "rank": 251,
+      "word": "right",
+      "frequency": 219
+    },
+    {
+      "rank": 252,
+      "word": "org",
+      "frequency": 217
+    },
+    {
+      "rank": 253,
+      "word": "miono",
+      "frequency": 217
+    },
+    {
+      "rank": 254,
+      "word": "swiãtëją",
+      "frequency": 217
+    },
+    {
+      "rank": 255,
+      "word": "òbéńdze",
+      "frequency": 215
+    },
+    {
+      "rank": 256,
+      "word": "wmf",
+      "frequency": 215
+    },
+    {
+      "rank": 257,
+      "word": "bëłë",
+      "frequency": 214
+    },
+    {
+      "rank": 258,
+      "word": "now",
+      "frequency": 213
+    },
+    {
+      "rank": 259,
+      "word": "òstôł",
+      "frequency": 210
+    },
+    {
+      "rank": 260,
+      "word": "other",
+      "frequency": 210
+    },
+    {
+      "rank": 261,
+      "word": "jaczi",
+      "frequency": 208
+    },
+    {
+      "rank": 262,
+      "word": "jakò",
+      "frequency": 207
+    },
+    {
+      "rank": 263,
+      "word": "bò",
+      "frequency": 206
+    },
+    {
+      "rank": 264,
+      "word": "czas",
+      "frequency": 204
+    },
+    {
+      "rank": 265,
+      "word": "user",
+      "frequency": 201
+    },
+    {
+      "rank": 266,
+      "word": "isbn",
+      "frequency": 201
+    },
+    {
+      "rank": 267,
+      "word": "iii",
+      "frequency": 200
+    },
+    {
+      "rank": 268,
+      "word": "kraków",
+      "frequency": 200
+    },
+    {
+      "rank": 269,
+      "word": "ffffff",
+      "frequency": 199
+    },
+    {
+      "rank": 270,
+      "word": "k",
+      "frequency": 198
+    },
+    {
+      "rank": 271,
+      "word": "nim",
+      "frequency": 198
+    },
+    {
+      "rank": 272,
+      "word": "edit",
+      "frequency": 198
+    },
+    {
+      "rank": 273,
+      "word": "tam",
+      "frequency": 196
+    },
+    {
+      "rank": 274,
+      "word": "karno",
+      "frequency": 194
+    },
+    {
+      "rank": 275,
+      "word": "gardã",
+      "frequency": 193
+    },
+    {
+      "rank": 276,
+      "word": "wrocław",
+      "frequency": 191
+    },
+    {
+      "rank": 277,
+      "word": "stołpsczim",
+      "frequency": 191
+    },
+    {
+      "rank": 278,
+      "word": "information",
+      "frequency": 191
+    },
+    {
+      "rank": 279,
+      "word": "miôł",
+      "frequency": 190
+    },
+    {
+      "rank": 280,
+      "word": "cet",
+      "frequency": 190
+    },
+    {
+      "rank": 281,
+      "word": "bëtowsczim",
+      "frequency": 190
+    },
+    {
+      "rank": 282,
+      "word": "has",
+      "frequency": 190
+    },
+    {
+      "rank": 283,
+      "word": "kartësczim",
+      "frequency": 189
+    },
+    {
+      "rank": 284,
+      "word": "czë",
+      "frequency": 188
+    },
+    {
+      "rank": 285,
+      "word": "our",
+      "frequency": 188
+    },
+    {
+      "rank": 286,
+      "word": "kùńca",
+      "frequency": 187
+    },
+    {
+      "rank": 287,
+      "word": "iv",
+      "frequency": 186
+    },
+    {
+      "rank": 288,
+      "word": "may",
+      "frequency": 186
+    },
+    {
+      "rank": 289,
+      "word": "so",
+      "frequency": 185
+    },
+    {
+      "rank": 290,
+      "word": "template",
+      "frequency": 185
+    },
+    {
+      "rank": 291,
+      "word": "visualeditor",
+      "frequency": 185
+    },
+    {
+      "rank": 292,
+      "word": "english",
+      "frequency": 183
+    },
+    {
+      "rank": 293,
+      "word": "mògą",
+      "frequency": 182
+    },
+    {
+      "rank": 294,
+      "word": "séwnika",
+      "frequency": 181
+    },
+    {
+      "rank": 295,
+      "word": "mieszkańców",
+      "frequency": 179
+    },
+    {
+      "rank": 296,
+      "word": "any",
+      "frequency": 179
+    },
+    {
+      "rank": 297,
+      "word": "òne",
+      "frequency": 178
+    },
+    {
+      "rank": 298,
+      "word": "dniów",
+      "frequency": 177
+    },
+    {
+      "rank": 299,
+      "word": "editing",
+      "frequency": 176
+    },
+    {
+      "rank": 300,
+      "word": "kultury",
+      "frequency": 175
+    },
+    {
+      "rank": 301,
+      "word": "chtërne",
+      "frequency": 175
+    },
+    {
+      "rank": 302,
+      "word": "jesz",
+      "frequency": 174
+    },
+    {
+      "rank": 303,
+      "word": "kaszubskich",
+      "frequency": 174
+    },
+    {
+      "rank": 304,
+      "word": "tle",
+      "frequency": 174
+    },
+    {
+      "rank": 305,
+      "word": "zemi",
+      "frequency": 173
+    },
+    {
+      "rank": 306,
+      "word": "pierszi",
+      "frequency": 172
+    },
+    {
+      "rank": 307,
+      "word": "tekst",
+      "frequency": 171
+    },
+    {
+      "rank": 308,
+      "word": "et",
+      "frequency": 171
+    },
+    {
+      "rank": 309,
+      "word": "przed",
+      "frequency": 171
+    },
+    {
+      "rank": 310,
+      "word": "mln",
+      "frequency": 170
+    },
+    {
+      "rank": 311,
+      "word": "przestãpny",
+      "frequency": 170
+    },
+    {
+      "rank": 312,
+      "word": "kalãdôrzu",
+      "frequency": 168
+    },
+    {
+      "rank": 313,
+      "word": "local",
+      "frequency": 168
+    },
+    {
+      "rank": 314,
+      "word": "gòdnika",
+      "frequency": 167
+    },
+    {
+      "rank": 315,
+      "word": "jãzëkù",
+      "frequency": 167
+    },
+    {
+      "rank": 316,
+      "word": "cm",
+      "frequency": 167
+    },
+    {
+      "rank": 317,
+      "word": "od",
+      "frequency": 167
+    },
+    {
+      "rank": 318,
+      "word": "karna",
+      "frequency": 167
+    },
+    {
+      "rank": 319,
+      "word": "us",
+      "frequency": 167
+    },
+    {
+      "rank": 320,
+      "word": "żëje",
+      "frequency": 167
+    },
+    {
+      "rank": 321,
+      "word": "g",
+      "frequency": 166
+    },
+    {
+      "rank": 322,
+      "word": "gwar",
+      "frequency": 166
+    },
+    {
+      "rank": 323,
+      "word": "committee",
+      "frequency": 166
+    },
+    {
+      "rank": 324,
+      "word": "there",
+      "frequency": 166
+    },
+    {
+      "rank": 325,
+      "word": "midzë",
+      "frequency": 165
+    },
+    {
+      "rank": 326,
+      "word": "chtërny",
+      "frequency": 164
+    },
+    {
+      "rank": 327,
+      "word": "gregorijansczim",
+      "frequency": 164
+    },
+    {
+      "rank": 328,
+      "word": "chtërna",
+      "frequency": 164
+    },
+    {
+      "rank": 329,
+      "word": "no",
+      "frequency": 164
+    },
+    {
+      "rank": 330,
+      "word": "like",
+      "frequency": 164
+    },
+    {
+      "rank": 331,
+      "word": "also",
+      "frequency": 164
+    },
+    {
+      "rank": 332,
+      "word": "jaczé",
+      "frequency": 163
+    },
+    {
+      "rank": 333,
+      "word": "ma",
+      "frequency": 163
+    },
+    {
+      "rank": 334,
+      "word": "projects",
+      "frequency": 163
+    },
+    {
+      "rank": 335,
+      "word": "font",
+      "frequency": 162
+    },
+    {
+      "rank": 336,
+      "word": "gduńskù",
+      "frequency": 162
+    },
+    {
+      "rank": 337,
+      "word": "ta",
+      "frequency": 162
+    },
+    {
+      "rank": 338,
+      "word": "ludowej",
+      "frequency": 162
+    },
+    {
+      "rank": 339,
+      "word": "czej",
+      "frequency": 161
+    },
+    {
+      "rank": 340,
+      "word": "zdrojach",
+      "frequency": 161
+    },
+    {
+      "rank": 341,
+      "word": "strëmiannika",
+      "frequency": 161
+    },
+    {
+      "rank": 342,
+      "word": "mm",
+      "frequency": 161
+    },
+    {
+      "rank": 343,
+      "word": "zélnika",
+      "frequency": 160
+    },
+    {
+      "rank": 344,
+      "word": "available",
+      "frequency": 160
+    },
+    {
+      "rank": 345,
+      "word": "tej",
+      "frequency": 159
+    },
+    {
+      "rank": 346,
+      "word": "size",
+      "frequency": 158
+    },
+    {
+      "rank": 347,
+      "word": "maja",
+      "frequency": 157
+    },
+    {
+      "rank": 348,
+      "word": "ne",
+      "frequency": 157
+    },
+    {
+      "rank": 349,
+      "word": "czasu",
+      "frequency": 157
+    },
+    {
+      "rank": 350,
+      "word": "oprac",
+      "frequency": 156
+    },
+    {
+      "rank": 351,
+      "word": "nich",
+      "frequency": 155
+    },
+    {
+      "rank": 352,
+      "word": "tom",
+      "frequency": 155
+    },
+    {
+      "rank": 353,
+      "word": "file",
+      "frequency": 153
+    },
+    {
+      "rank": 354,
+      "word": "eùropie",
+      "frequency": 153
+    },
+    {
+      "rank": 355,
+      "word": "pierszégò",
+      "frequency": 153
+    },
+    {
+      "rank": 356,
+      "word": "tësąclecégò",
+      "frequency": 153
+    },
+    {
+      "rank": 357,
+      "word": "editor",
+      "frequency": 152
+    },
+    {
+      "rank": 358,
+      "word": "image",
+      "frequency": 152
+    },
+    {
+      "rank": 359,
+      "word": "feature",
+      "frequency": 152
+    },
+    {
+      "rank": 360,
+      "word": "see",
+      "frequency": 151
+    },
+    {
+      "rank": 361,
+      "word": "przewodnik",
+      "frequency": 149
+    },
+    {
+      "rank": 362,
+      "word": "users",
+      "frequency": 148
+    },
+    {
+      "rank": 363,
+      "word": "lëstopadnika",
+      "frequency": 146
+    },
+    {
+      "rank": 364,
+      "word": "feedback",
+      "frequency": 146
+    },
+    {
+      "rank": 365,
+      "word": "kaszëbsczé",
+      "frequency": 145
+    },
+    {
+      "rank": 366,
+      "word": "szkòle",
+      "frequency": 145
+    },
+    {
+      "rank": 367,
+      "word": "ù",
+      "frequency": 144
+    },
+    {
+      "rank": 368,
+      "word": "how",
+      "frequency": 144
+    },
+    {
+      "rank": 369,
+      "word": "link",
+      "frequency": 143
+    },
+    {
+      "rank": 370,
+      "word": "category",
+      "frequency": 141
+    },
+    {
+      "rank": 371,
+      "word": "zëchta",
+      "frequency": 140
+    },
+    {
+      "rank": 372,
+      "word": "bgcolor",
+      "frequency": 139
+    },
+    {
+      "rank": 373,
+      "word": "dzysô",
+      "frequency": 139
+    },
+    {
+      "rank": 374,
+      "word": "państwa",
+      "frequency": 139
+    },
+    {
+      "rank": 375,
+      "word": "was",
+      "frequency": 139
+    },
+    {
+      "rank": 376,
+      "word": "ks",
+      "frequency": 139
+    },
+    {
+      "rank": 377,
+      "word": "red",
+      "frequency": 139
+    },
+    {
+      "rank": 378,
+      "word": "nordowi",
+      "frequency": 139
+    },
+    {
+      "rank": 379,
+      "word": "piotr",
+      "frequency": 138
+    },
+    {
+      "rank": 380,
+      "word": "editors",
+      "frequency": 137
+    },
+    {
+      "rank": 381,
+      "word": "roślin",
+      "frequency": 137
+    },
+    {
+      "rank": 382,
+      "word": "pòlskô",
+      "frequency": 136
+    },
+    {
+      "rank": 383,
+      "word": "navbo",
+      "frequency": 136
+    },
+    {
+      "rank": 384,
+      "word": "blós",
+      "frequency": 135
+    },
+    {
+      "rank": 385,
+      "word": "jeden",
+      "frequency": 135
+    },
+    {
+      "rank": 386,
+      "word": "dwa",
+      "frequency": 135
+    },
+    {
+      "rank": 387,
+      "word": "wilhelm",
+      "frequency": 135
+    },
+    {
+      "rank": 388,
+      "word": "po",
+      "frequency": 134
+    },
+    {
+      "rank": 389,
+      "word": "kaszubski",
+      "frequency": 134
+    },
+    {
+      "rank": 390,
+      "word": "bernard",
+      "frequency": 134
+    },
+    {
+      "rank": 391,
+      "word": "these",
+      "frequency": 134
+    },
+    {
+      "rank": 392,
+      "word": "http",
+      "frequency": 133
+    },
+    {
+      "rank": 393,
+      "word": "gdze",
+      "frequency": 133
+    },
+    {
+      "rank": 394,
+      "word": "òni",
+      "frequency": 133
+    },
+    {
+      "rank": 395,
+      "word": "read",
+      "frequency": 133
+    },
+    {
+      "rank": 396,
+      "word": "up",
+      "frequency": 133
+    },
+    {
+      "rank": 397,
+      "word": "one",
+      "frequency": 133
+    },
+    {
+      "rank": 398,
+      "word": "zwierząt",
+      "frequency": 133
+    },
+    {
+      "rank": 399,
+      "word": "alfred",
+      "frequency": 132
+    },
+    {
+      "rank": 400,
+      "word": "ewa",
+      "frequency": 132
+    },
+    {
+      "rank": 401,
+      "word": "pages",
+      "frequency": 132
+    },
+    {
+      "rank": 402,
+      "word": "jana",
+      "frequency": 131
+    },
+    {
+      "rank": 403,
+      "word": "make",
+      "frequency": 131
+    },
+    {
+      "rank": 404,
+      "word": "stëcznika",
+      "frequency": 130
+    },
+    {
+      "rank": 405,
+      "word": "òbrôzk",
+      "frequency": 130
+    },
+    {
+      "rank": 406,
+      "word": "dzélu",
+      "frequency": 130
+    },
+    {
+      "rank": 407,
+      "word": "wyd",
+      "frequency": 130
+    },
+    {
+      "rank": 408,
+      "word": "czerwińca",
+      "frequency": 129
+    },
+    {
+      "rank": 409,
+      "word": "stolëca",
+      "frequency": 129
+    },
+    {
+      "rank": 410,
+      "word": "lëdze",
+      "frequency": 129
+    },
+    {
+      "rank": 411,
+      "word": "pòzwa",
+      "frequency": 129
+    },
+    {
+      "rank": 412,
+      "word": "ossolineum",
+      "frequency": 129
+    },
+    {
+      "rank": 413,
+      "word": "czasã",
+      "frequency": 128
+    },
+    {
+      "rank": 414,
+      "word": "vii",
+      "frequency": 128
+    },
+    {
+      "rank": 415,
+      "word": "would",
+      "frequency": 128
+    },
+    {
+      "rank": 416,
+      "word": "przekł",
+      "frequency": 128
+    },
+    {
+      "rank": 417,
+      "word": "miona",
+      "frequency": 127
+    },
+    {
+      "rank": 418,
+      "word": "nôbarżi",
+      "frequency": 127
+    },
+    {
+      "rank": 419,
+      "word": "group",
+      "frequency": 127
+    },
+    {
+      "rank": 420,
+      "word": "label",
+      "frequency": 127
+    },
+    {
+      "rank": 421,
+      "word": "całości",
+      "frequency": 127
+    },
+    {
+      "rank": 422,
+      "word": "òsta",
+      "frequency": 126
+    },
+    {
+      "rank": 423,
+      "word": "łżëkwiata",
+      "frequency": 126
+    },
+    {
+      "rank": 424,
+      "word": "bëł",
+      "frequency": 126
+    },
+    {
+      "rank": 425,
+      "word": "życie",
+      "frequency": 126
+    },
+    {
+      "rank": 426,
+      "word": "multico",
+      "frequency": 126
+    },
+    {
+      "rank": 427,
+      "word": "kaszëb",
+      "frequency": 125
+    },
+    {
+      "rank": 428,
+      "word": "when",
+      "frequency": 125
+    },
+    {
+      "rank": 429,
+      "word": "rozpoznawania",
+      "frequency": 125
+    },
+    {
+      "rank": 430,
+      "word": "wycieczce",
+      "frequency": 125
+    },
+    {
+      "rank": 431,
+      "word": "zimmer",
+      "frequency": 125
+    },
+    {
+      "rank": 432,
+      "word": "handel",
+      "frequency": 125
+    },
+    {
+      "rank": 433,
+      "word": "eisenreich",
+      "frequency": 125
+    },
+    {
+      "rank": 434,
+      "word": "used",
+      "frequency": 124
+    },
+    {
+      "rank": 435,
+      "word": "ute",
+      "frequency": 124
+    },
+    {
+      "rank": 436,
+      "word": "dorothee",
+      "frequency": 124
+    },
+    {
+      "rank": 437,
+      "word": "rachańska",
+      "frequency": 124
+    },
+    {
+      "rank": 438,
+      "word": "kreyser",
+      "frequency": 124
+    },
+    {
+      "rank": 439,
+      "word": "utc",
+      "frequency": 123
+    },
+    {
+      "rank": 440,
+      "word": "bë",
+      "frequency": 123
+    },
+    {
+      "rank": 441,
+      "word": "razã",
+      "frequency": 123
+    },
+    {
+      "rank": 442,
+      "word": "kùlturë",
+      "frequency": 123
+    },
+    {
+      "rank": 443,
+      "word": "czedës",
+      "frequency": 123
+    },
+    {
+      "rank": 444,
+      "word": "global",
+      "frequency": 123
+    },
+    {
+      "rank": 445,
+      "word": "niedzelã",
+      "frequency": 122
+    },
+    {
+      "rank": 446,
+      "word": "work",
+      "frequency": 122
+    },
+    {
+      "rank": 447,
+      "word": "some",
+      "frequency": 122
+    },
+    {
+      "rank": 448,
+      "word": "then",
+      "frequency": 122
+    },
+    {
+      "rank": 449,
+      "word": "anielsczi",
+      "frequency": 121
+    },
+    {
+      "rank": 450,
+      "word": "se",
+      "frequency": 121
+    },
+    {
+      "rank": 451,
+      "word": "support",
+      "frequency": 121
+    },
+    {
+      "rank": 452,
+      "word": "visual",
+      "frequency": 121
+    },
+    {
+      "rank": 453,
+      "word": "nowi",
+      "frequency": 120
+    },
+    {
+      "rank": 454,
+      "word": "pisôł",
+      "frequency": 120
+    },
+    {
+      "rank": 455,
+      "word": "państwã",
+      "frequency": 120
+    },
+    {
+      "rank": 456,
+      "word": "krakòwò",
+      "frequency": 119
+    },
+    {
+      "rank": 457,
+      "word": "żebë",
+      "frequency": 119
+    },
+    {
+      "rank": 458,
+      "word": "napisôł",
+      "frequency": 119
+    },
+    {
+      "rank": 459,
+      "word": "been",
+      "frequency": 119
+    },
+    {
+      "rank": 460,
+      "word": "accounts",
+      "frequency": 119
+    },
+    {
+      "rank": 461,
+      "word": "szlach",
+      "frequency": 118
+    },
+    {
+      "rank": 462,
+      "word": "but",
+      "frequency": 118
+    },
+    {
+      "rank": 463,
+      "word": "roscënë",
+      "frequency": 118
+    },
+    {
+      "rank": 464,
+      "word": "miemiecczi",
+      "frequency": 117
+    },
+    {
+      "rank": 465,
+      "word": "kaszëbskù",
+      "frequency": 117
+    },
+    {
+      "rank": 466,
+      "word": "ue",
+      "frequency": 117
+    },
+    {
+      "rank": 467,
+      "word": "ptôch",
+      "frequency": 117
+    },
+    {
+      "rank": 468,
+      "word": "vi",
+      "frequency": 117
+    },
+    {
+      "rank": 469,
+      "word": "stalatégò",
+      "frequency": 117
+    },
+    {
+      "rank": 470,
+      "word": "their",
+      "frequency": 117
+    },
+    {
+      "rank": 471,
+      "word": "czãsto",
+      "frequency": 116
+    },
+    {
+      "rank": 472,
+      "word": "stolëcą",
+      "frequency": 116
+    },
+    {
+      "rank": 473,
+      "word": "dzece",
+      "frequency": 116
+    },
+    {
+      "rank": 474,
+      "word": "which",
+      "frequency": 116
+    },
+    {
+      "rank": 475,
+      "word": "jimieninë",
+      "frequency": 115
+    },
+    {
+      "rank": 476,
+      "word": "czwiôrtk",
+      "frequency": 115
+    },
+    {
+      "rank": 477,
+      "word": "tool",
+      "frequency": 115
+    },
+    {
+      "rank": 478,
+      "word": "wikis",
+      "frequency": 115
+    },
+    {
+      "rank": 479,
+      "word": "they",
+      "frequency": 115
+    },
+    {
+      "rank": 480,
+      "word": "kaszëbską",
+      "frequency": 114
+    },
+    {
+      "rank": 481,
+      "word": "kòle",
+      "frequency": 114
+    },
+    {
+      "rank": 482,
+      "word": "lëpińca",
+      "frequency": 114
+    },
+    {
+      "rank": 483,
+      "word": "pòłożonô",
+      "frequency": 114
+    },
+    {
+      "rank": 484,
+      "word": "wejrowsczim",
+      "frequency": 113
+    },
+    {
+      "rank": 485,
+      "word": "time",
+      "frequency": 112
+    },
+    {
+      "rank": 486,
+      "word": "pòmòrsczi",
+      "frequency": 112
+    },
+    {
+      "rank": 487,
+      "word": "jest",
+      "frequency": 112
+    },
+    {
+      "rank": 488,
+      "word": "gminë",
+      "frequency": 112
+    },
+    {
+      "rank": 489,
+      "word": "collapse",
+      "frequency": 112
+    },
+    {
+      "rank": 490,
+      "word": "kòscele",
+      "frequency": 112
+    },
+    {
+      "rank": 491,
+      "word": "môl",
+      "frequency": 112
+    },
+    {
+      "rank": 492,
+      "word": "translate",
+      "frequency": 112
+    },
+    {
+      "rank": 493,
+      "word": "who",
+      "frequency": 112
+    },
+    {
+      "rank": 494,
+      "word": "światło",
+      "frequency": 112
+    },
+    {
+      "rank": 495,
+      "word": "plac",
+      "frequency": 111
+    },
+    {
+      "rank": 496,
+      "word": "swiatowi",
+      "frequency": 111
+    },
+    {
+      "rank": 497,
+      "word": "rujana",
+      "frequency": 110
+    },
+    {
+      "rank": 498,
+      "word": "links",
+      "frequency": 110
+    },
+    {
+      "rank": 499,
+      "word": "out",
+      "frequency": 110
+    },
+    {
+      "rank": 500,
+      "word": "piątk",
+      "frequency": 109
+    },
+    {
+      "rank": 501,
+      "word": "here",
+      "frequency": 109
+    },
+    {
+      "rank": 502,
+      "word": "changes",
+      "frequency": 109
+    },
+    {
+      "rank": 503,
+      "word": "margin",
+      "frequency": 108
+    },
+    {
+      "rank": 504,
+      "word": "nen",
+      "frequency": 108
+    },
+    {
+      "rank": 505,
+      "word": "pòniedzôłk",
+      "frequency": 108
+    },
+    {
+      "rank": 506,
+      "word": "test",
+      "frequency": 108
+    },
+    {
+      "rank": 507,
+      "word": "best",
+      "frequency": 107
+    },
+    {
+      "rank": 508,
+      "word": "default",
+      "frequency": 107
+    },
+    {
+      "rank": 509,
+      "word": "jednym",
+      "frequency": 106
+    },
+    {
+      "rank": 510,
+      "word": "special",
+      "frequency": 106
+    },
+    {
+      "rank": 511,
+      "word": "kol",
+      "frequency": 106
+    },
+    {
+      "rank": 512,
+      "word": "jãzëków",
+      "frequency": 105
+    },
+    {
+      "rank": 513,
+      "word": "swiata",
+      "frequency": 105
+    },
+    {
+      "rank": 514,
+      "word": "gduńska",
+      "frequency": 104
+    },
+    {
+      "rank": 515,
+      "word": "commons",
+      "frequency": 104
+    },
+    {
+      "rank": 516,
+      "word": "kòscoła",
+      "frequency": 104
+    },
+    {
+      "rank": 517,
+      "word": "pôłniowi",
+      "frequency": 104
+    },
+    {
+      "rank": 518,
+      "word": "dze",
+      "frequency": 104
+    },
+    {
+      "rank": 519,
+      "word": "year",
+      "frequency": 104
+    },
+    {
+      "rank": 520,
+      "word": "wòjnie",
+      "frequency": 103
+    },
+    {
+      "rank": 521,
+      "word": "państwò",
+      "frequency": 103
+    },
+    {
+      "rank": 522,
+      "word": "swiãtégò",
+      "frequency": 103
+    },
+    {
+      "rank": 523,
+      "word": "żëcé",
+      "frequency": 103
+    },
+    {
+      "rank": 524,
+      "word": "records",
+      "frequency": 103
+    },
+    {
+      "rank": 525,
+      "word": "strzodã",
+      "frequency": 103
+    },
+    {
+      "rank": 526,
+      "word": "delivery",
+      "frequency": 103
+    },
+    {
+      "rank": 527,
+      "word": "chòc",
+      "frequency": 102
+    },
+    {
+      "rank": 528,
+      "word": "jón",
+      "frequency": 102
+    },
+    {
+      "rank": 529,
+      "word": "first",
+      "frequency": 102
+    },
+    {
+      "rank": 530,
+      "word": "wtórk",
+      "frequency": 102
+    },
+    {
+      "rank": 531,
+      "word": "code",
+      "frequency": 102
+    },
+    {
+      "rank": 532,
+      "word": "into",
+      "frequency": 102
+    },
+    {
+      "rank": 533,
+      "word": "taczi",
+      "frequency": 101
+    },
+    {
+      "rank": 534,
+      "word": "jinëch",
+      "frequency": 101
+    },
+    {
+      "rank": 535,
+      "word": "sobòtã",
+      "frequency": 101
+    },
+    {
+      "rank": 536,
+      "word": "many",
+      "frequency": 101
+    },
+    {
+      "rank": 537,
+      "word": "hello",
+      "frequency": 101
+    },
+    {
+      "rank": 538,
+      "word": "pózni",
+      "frequency": 100
+    },
+    {
+      "rank": 539,
+      "word": "ss",
+      "frequency": 100
+    },
+    {
+      "rank": 540,
+      "word": "part",
+      "frequency": 100
+    },
+    {
+      "rank": 541,
+      "word": "languages",
+      "frequency": 100
+    },
+    {
+      "rank": 542,
+      "word": "uestions",
+      "frequency": 100
+    },
+    {
+      "rank": 543,
+      "word": "infobo",
+      "frequency": 100
+    },
+    {
+      "rank": 544,
+      "word": "bottom",
+      "frequency": 99
+    },
+    {
+      "rank": 545,
+      "word": "h",
+      "frequency": 99
+    },
+    {
+      "rank": 546,
+      "word": "www",
+      "frequency": 99
+    },
+    {
+      "rank": 547,
+      "word": "https",
+      "frequency": 99
+    },
+    {
+      "rank": 548,
+      "word": "ùczą",
+      "frequency": 99
+    },
+    {
+      "rank": 549,
+      "word": "templates",
+      "frequency": 99
+    },
+    {
+      "rank": 550,
+      "word": "want",
+      "frequency": 99
+    },
+    {
+      "rank": 551,
+      "word": "movement",
+      "frequency": 99
+    },
+    {
+      "rank": 552,
+      "word": "swiãti",
+      "frequency": 98
+    },
+    {
+      "rank": 553,
+      "word": "gromicznika",
+      "frequency": 98
+    },
+    {
+      "rank": 554,
+      "word": "parameter",
+      "frequency": 98
+    },
+    {
+      "rank": 555,
+      "word": "terô",
+      "frequency": 97
+    },
+    {
+      "rank": 556,
+      "word": "paweł",
+      "frequency": 97
+    },
+    {
+      "rank": 557,
+      "word": "cenôwa",
+      "frequency": 97
+    },
+    {
+      "rank": 558,
+      "word": "nawetka",
+      "frequency": 97
+    },
+    {
+      "rank": 559,
+      "word": "end",
+      "frequency": 97
+    },
+    {
+      "rank": 560,
+      "word": "dzys",
+      "frequency": 96
+    },
+    {
+      "rank": 561,
+      "word": "dla",
+      "frequency": 96
+    },
+    {
+      "rank": 562,
+      "word": "bëlë",
+      "frequency": 96
+    },
+    {
+      "rank": 563,
+      "word": "kòreji",
+      "frequency": 96
+    },
+    {
+      "rank": 564,
+      "word": "web",
+      "frequency": 96
+    },
+    {
+      "rank": 565,
+      "word": "niegò",
+      "frequency": 96
+    },
+    {
+      "rank": 566,
+      "word": "wiedno",
+      "frequency": 95
+    },
+    {
+      "rank": 567,
+      "word": "starnë",
+      "frequency": 95
+    },
+    {
+      "rank": 568,
+      "word": "al",
+      "frequency": 95
+    },
+    {
+      "rank": 569,
+      "word": "nôrodny",
+      "frequency": 95
+    },
+    {
+      "rank": 570,
+      "word": "krótkò",
+      "frequency": 95
+    },
+    {
+      "rank": 571,
+      "word": "wicy",
+      "frequency": 94
+    },
+    {
+      "rank": 572,
+      "word": "park",
+      "frequency": 94
+    },
+    {
+      "rank": 573,
+      "word": "kraju",
+      "frequency": 94
+    },
+    {
+      "rank": 574,
+      "word": "change",
+      "frequency": 94
+    },
+    {
+      "rank": 575,
+      "word": "cellpadding",
+      "frequency": 93
+    },
+    {
+      "rank": 576,
+      "word": "tedë",
+      "frequency": 93
+    },
+    {
+      "rank": 577,
+      "word": "know",
+      "frequency": 93
+    },
+    {
+      "rank": 578,
+      "word": "y",
+      "frequency": 92
+    },
+    {
+      "rank": 579,
+      "word": "wiôlgô",
+      "frequency": 92
+    },
+    {
+      "rank": 580,
+      "word": "lata",
+      "frequency": 92
+    },
+    {
+      "rank": 581,
+      "word": "kaszëbsczich",
+      "frequency": 92
+    },
+    {
+      "rank": 582,
+      "word": "mòrza",
+      "frequency": 92
+    },
+    {
+      "rank": 583,
+      "word": "pòjezerzô",
+      "frequency": 92
+    },
+    {
+      "rank": 584,
+      "word": "toyota",
+      "frequency": 92
+    },
+    {
+      "rank": 585,
+      "word": "kaszëbë",
+      "frequency": 91
+    },
+    {
+      "rank": 586,
+      "word": "runita",
+      "frequency": 91
+    },
+    {
+      "rank": 587,
+      "word": "katarzëna",
+      "frequency": 91
+    },
+    {
+      "rank": 588,
+      "word": "gitara",
+      "frequency": 91
+    },
+    {
+      "rank": 589,
+      "word": "board",
+      "frequency": 91
+    },
+    {
+      "rank": 590,
+      "word": "able",
+      "frequency": 91
+    },
+    {
+      "rank": 591,
+      "word": "mobile",
+      "frequency": 91
+    },
+    {
+      "rank": 592,
+      "word": "repùblika",
+      "frequency": 90
+    },
+    {
+      "rank": 593,
+      "word": "efefef",
+      "frequency": 90
+    },
+    {
+      "rank": 594,
+      "word": "jezoro",
+      "frequency": 90
+    },
+    {
+      "rank": 595,
+      "word": "józef",
+      "frequency": 89
+    },
+    {
+      "rank": 596,
+      "word": "wiôldżé",
+      "frequency": 89
+    },
+    {
+      "rank": 597,
+      "word": "discussion",
+      "frequency": 89
+    },
+    {
+      "rank": 598,
+      "word": "mù",
+      "frequency": 88
+    },
+    {
+      "rank": 599,
+      "word": "jakô",
+      "frequency": 88
+    },
+    {
+      "rank": 600,
+      "word": "òznôczô",
+      "frequency": 88
+    },
+    {
+      "rank": 601,
+      "word": "elections",
+      "frequency": 88
+    },
+    {
+      "rank": 602,
+      "word": "bo",
+      "frequency": 87
+    },
+    {
+      "rank": 603,
+      "word": "repùbliczi",
+      "frequency": 87
+    },
+    {
+      "rank": 604,
+      "word": "kaszëbskò",
+      "frequency": 87
+    },
+    {
+      "rank": 605,
+      "word": "ksądz",
+      "frequency": 87
+    },
+    {
+      "rank": 606,
+      "word": "what",
+      "frequency": 87
+    },
+    {
+      "rank": 607,
+      "word": "drëdżi",
+      "frequency": 86
+    },
+    {
+      "rank": 608,
+      "word": "słowa",
+      "frequency": 86
+    },
+    {
+      "rank": 609,
+      "word": "historia",
+      "frequency": 86
+    },
+    {
+      "rank": 610,
+      "word": "będzie",
+      "frequency": 86
+    },
+    {
+      "rank": 611,
+      "word": "pomorskie",
+      "frequency": 86
+    },
+    {
+      "rank": 612,
+      "word": "articles",
+      "frequency": 86
+    },
+    {
+      "rank": 613,
+      "word": "need",
+      "frequency": 86
+    },
+    {
+      "rank": 614,
+      "word": "process",
+      "frequency": 86
+    },
+    {
+      "rank": 615,
+      "word": "datastyle",
+      "frequency": 86
+    },
+    {
+      "rank": 616,
+      "word": "wszëtczich",
+      "frequency": 85
+    },
+    {
+      "rank": 617,
+      "word": "wòjnë",
+      "frequency": 85
+    },
+    {
+      "rank": 618,
+      "word": "szlachù",
+      "frequency": 85
+    },
+    {
+      "rank": 619,
+      "word": "folk",
+      "frequency": 85
+    },
+    {
+      "rank": 620,
+      "word": "thank",
+      "frequency": 85
+    },
+    {
+      "rank": 621,
+      "word": "only",
+      "frequency": 85
+    },
+    {
+      "rank": 622,
+      "word": "wikite",
+      "frequency": 85
+    },
+    {
+      "rank": 623,
+      "word": "rowclass",
+      "frequency": 85
+    },
+    {
+      "rank": 624,
+      "word": "en",
+      "frequency": 84
+    },
+    {
+      "rank": 625,
+      "word": "rôz",
+      "frequency": 84
+    },
+    {
+      "rank": 626,
+      "word": "parkù",
+      "frequency": 84
+    },
+    {
+      "rank": 627,
+      "word": "cellspacing",
+      "frequency": 83
+    },
+    {
+      "rank": 628,
+      "word": "aleksander",
+      "frequency": 83
+    },
+    {
+      "rank": 629,
+      "word": "kréz",
+      "frequency": 83
+    },
+    {
+      "rank": 630,
+      "word": "usa",
+      "frequency": 83
+    },
+    {
+      "rank": 631,
+      "word": "jô",
+      "frequency": 83
+    },
+    {
+      "rank": 632,
+      "word": "live",
+      "frequency": 83
+    },
+    {
+      "rank": 633,
+      "word": "ùrodzył",
+      "frequency": 83
+    },
+    {
+      "rank": 634,
+      "word": "get",
+      "frequency": 83
+    },
+    {
+      "rank": 635,
+      "word": "add",
+      "frequency": 83
+    },
+    {
+      "rank": 636,
+      "word": "using",
+      "frequency": 83
+    },
+    {
+      "rank": 637,
+      "word": "png",
+      "frequency": 82
+    },
+    {
+      "rank": 638,
+      "word": "kaszubsko",
+      "frequency": 82
+    },
+    {
+      "rank": 639,
+      "word": "jerzi",
+      "frequency": 82
+    },
+    {
+      "rank": 640,
+      "word": "kaszub",
+      "frequency": 82
+    },
+    {
+      "rank": 641,
+      "word": "swiãto",
+      "frequency": 82
+    },
+    {
+      "rank": 642,
+      "word": "môłi",
+      "frequency": 82
+    },
+    {
+      "rank": 643,
+      "word": "table",
+      "frequency": 82
+    },
+    {
+      "rank": 644,
+      "word": "them",
+      "frequency": 82
+    },
+    {
+      "rank": 645,
+      "word": "headerstyle",
+      "frequency": 82
+    },
+    {
+      "rank": 646,
+      "word": "labelstyle",
+      "frequency": 82
+    },
+    {
+      "rank": 647,
+      "word": "dali",
+      "frequency": 81
+    },
+    {
+      "rank": 648,
+      "word": "rusczi",
+      "frequency": 81
+    },
+    {
+      "rank": 649,
+      "word": "tuwò",
+      "frequency": 81
+    },
+    {
+      "rank": 650,
+      "word": "chtërnym",
+      "frequency": 81
+    },
+    {
+      "rank": 651,
+      "word": "should",
+      "frequency": 81
+    },
+    {
+      "rank": 652,
+      "word": "mòżna",
+      "frequency": 81
+    },
+    {
+      "rank": 653,
+      "word": "gray",
+      "frequency": 81
+    },
+    {
+      "rank": 654,
+      "word": "wszëtczim",
+      "frequency": 80
+    },
+    {
+      "rank": 655,
+      "word": "łac",
+      "frequency": 80
+    },
+    {
+      "rank": 656,
+      "word": "pòlsczégò",
+      "frequency": 80
+    },
+    {
+      "rank": 657,
+      "word": "jãzëkã",
+      "frequency": 80
+    },
+    {
+      "rank": 658,
+      "word": "òno",
+      "frequency": 80
+    },
+    {
+      "rank": 659,
+      "word": "stalata",
+      "frequency": 80
+    },
+    {
+      "rank": 660,
+      "word": "pòtemù",
+      "frequency": 80
+    },
+    {
+      "rank": 661,
+      "word": "create",
+      "frequency": 80
+    },
+    {
+      "rank": 662,
+      "word": "content",
+      "frequency": 79
+    },
+    {
+      "rank": 663,
+      "word": "wiekù",
+      "frequency": 79
+    },
+    {
+      "rank": 664,
+      "word": "mùzeùm",
+      "frequency": 79
+    },
+    {
+      "rank": 665,
+      "word": "tréder",
+      "frequency": 79
+    },
+    {
+      "rank": 666,
+      "word": "warszawie",
+      "frequency": 79
+    },
+    {
+      "rank": 667,
+      "word": "jako",
+      "frequency": 79
+    },
+    {
+      "rank": 668,
+      "word": "czedë",
+      "frequency": 79
+    },
+    {
+      "rank": 669,
+      "word": "set",
+      "frequency": 79
+    },
+    {
+      "rank": 670,
+      "word": "newsletter",
+      "frequency": 79
+    },
+    {
+      "rank": 671,
+      "word": "wikidata",
+      "frequency": 79
+    },
+    {
+      "rank": 672,
+      "word": "fi",
+      "frequency": 79
+    },
+    {
+      "rank": 673,
+      "word": "mw",
+      "frequency": 79
+    },
+    {
+      "rank": 674,
+      "word": "most",
+      "frequency": 78
+    },
+    {
+      "rank": 675,
+      "word": "miec",
+      "frequency": 78
+    },
+    {
+      "rank": 676,
+      "word": "czôrnô",
+      "frequency": 78
+    },
+    {
+      "rank": 677,
+      "word": "von",
+      "frequency": 78
+    },
+    {
+      "rank": 678,
+      "word": "der",
+      "frequency": 78
+    },
+    {
+      "rank": 679,
+      "word": "st",
+      "frequency": 78
+    },
+    {
+      "rank": 680,
+      "word": "swòje",
+      "frequency": 78
+    },
+    {
+      "rank": 681,
+      "word": "share",
+      "frequency": 78
+    },
+    {
+      "rank": 682,
+      "word": "roscënów",
+      "frequency": 78
+    },
+    {
+      "rank": 683,
+      "word": "pazdzérznika",
+      "frequency": 78
+    },
+    {
+      "rank": 684,
+      "word": "access",
+      "frequency": 78
+    },
+    {
+      "rank": 685,
+      "word": "przede",
+      "frequency": 77
+    },
+    {
+      "rank": 686,
+      "word": "nowô",
+      "frequency": 77
+    },
+    {
+      "rank": 687,
+      "word": "id",
+      "frequency": 77
+    },
+    {
+      "rank": 688,
+      "word": "nr",
+      "frequency": 77
+    },
+    {
+      "rank": 689,
+      "word": "bloomsbury",
+      "frequency": 77
+    },
+    {
+      "rank": 690,
+      "word": "lëdztwa",
+      "frequency": 76
+    },
+    {
+      "rank": 691,
+      "word": "amerikańsczi",
+      "frequency": 76
+    },
+    {
+      "rank": 692,
+      "word": "azëji",
+      "frequency": 76
+    },
+    {
+      "rank": 693,
+      "word": "und",
+      "frequency": 76
+    },
+    {
+      "rank": 694,
+      "word": "la",
+      "frequency": 76
+    },
+    {
+      "rank": 695,
+      "word": "wòjewództwò",
+      "frequency": 75
+    },
+    {
+      "rank": 696,
+      "word": "tëch",
+      "frequency": 75
+    },
+    {
+      "rank": 697,
+      "word": "trzë",
+      "frequency": 75
+    },
+    {
+      "rank": 698,
+      "word": "wsą",
+      "frequency": 75
+    },
+    {
+      "rank": 699,
+      "word": "człowieka",
+      "frequency": 75
+    },
+    {
+      "rank": 700,
+      "word": "folklore",
+      "frequency": 75
+    },
+    {
+      "rank": 701,
+      "word": "zemia",
+      "frequency": 74
+    },
+    {
+      "rank": 702,
+      "word": "eùropejsczi",
+      "frequency": 74
+    },
+    {
+      "rank": 703,
+      "word": "czile",
+      "frequency": 74
+    },
+    {
+      "rank": 704,
+      "word": "całi",
+      "frequency": 74
+    },
+    {
+      "rank": 705,
+      "word": "wòdë",
+      "frequency": 74
+    },
+    {
+      "rank": 706,
+      "word": "chtërnëch",
+      "frequency": 74
+    },
+    {
+      "rank": 707,
+      "word": "stôri",
+      "frequency": 74
+    },
+    {
+      "rank": 708,
+      "word": "zrzeszenie",
+      "frequency": 74
+    },
+    {
+      "rank": 709,
+      "word": "article",
+      "frequency": 74
+    },
+    {
+      "rank": 710,
+      "word": "than",
+      "frequency": 74
+    },
+    {
+      "rank": 711,
+      "word": "pt",
+      "frequency": 74
+    },
+    {
+      "rank": 712,
+      "word": "via",
+      "frequency": 74
+    },
+    {
+      "rank": 713,
+      "word": "free",
+      "frequency": 73
+    },
+    {
+      "rank": 714,
+      "word": "smiercë",
+      "frequency": 73
+    },
+    {
+      "rank": 715,
+      "word": "colemało",
+      "frequency": 73
+    },
+    {
+      "rank": 716,
+      "word": "lub",
+      "frequency": 73
+    },
+    {
+      "rank": 717,
+      "word": "members",
+      "frequency": 73
+    },
+    {
+      "rank": 718,
+      "word": "already",
+      "frequency": 73
+    },
+    {
+      "rank": 719,
+      "word": "research",
+      "frequency": 73
+    },
+    {
+      "rank": 720,
+      "word": "wikipediji",
+      "frequency": 72
+    },
+    {
+      "rank": 721,
+      "word": "pierszô",
+      "frequency": 72
+    },
+    {
+      "rank": 722,
+      "word": "polsko",
+      "frequency": 72
+    },
+    {
+      "rank": 723,
+      "word": "szkòłë",
+      "frequency": 72
+    },
+    {
+      "rank": 724,
+      "word": "me",
+      "frequency": 72
+    },
+    {
+      "rank": 725,
+      "word": "find",
+      "frequency": 72
+    },
+    {
+      "rank": 726,
+      "word": "thanks",
+      "frequency": 72
+    },
+    {
+      "rank": 727,
+      "word": "wszëtczé",
+      "frequency": 71
+    },
+    {
+      "rank": 728,
+      "word": "prawie",
+      "frequency": 71
+    },
+    {
+      "rank": 729,
+      "word": "rozmajitëch",
+      "frequency": 71
+    },
+    {
+      "rank": 730,
+      "word": "lëniô",
+      "frequency": 71
+    },
+    {
+      "rank": 731,
+      "word": "wikitable",
+      "frequency": 71
+    },
+    {
+      "rank": 732,
+      "word": "beta",
+      "frequency": 71
+    },
+    {
+      "rank": 733,
+      "word": "bot",
+      "frequency": 71
+    },
+    {
+      "rank": 734,
+      "word": "open",
+      "frequency": 70
+    },
+    {
+      "rank": 735,
+      "word": "barżi",
+      "frequency": 70
+    },
+    {
+      "rank": 736,
+      "word": "òsoblëwie",
+      "frequency": 70
+    },
+    {
+      "rank": 737,
+      "word": "temù",
+      "frequency": 70
+    },
+    {
+      "rank": 738,
+      "word": "dzecy",
+      "frequency": 70
+    },
+    {
+      "rank": 739,
+      "word": "es",
+      "frequency": 70
+    },
+    {
+      "rank": 740,
+      "word": "pod",
+      "frequency": 69
+    },
+    {
+      "rank": 741,
+      "word": "swòjim",
+      "frequency": 69
+    },
+    {
+      "rank": 742,
+      "word": "teatrownica",
+      "frequency": 69
+    },
+    {
+      "rank": 743,
+      "word": "amerikańskô",
+      "frequency": 69
+    },
+    {
+      "rank": 744,
+      "word": "dakar",
+      "frequency": 69
+    },
+    {
+      "rank": 745,
+      "word": "dzélã",
+      "frequency": 69
+    },
+    {
+      "rank": 746,
+      "word": "tich",
+      "frequency": 69
+    },
+    {
+      "rank": 747,
+      "word": "writing",
+      "frequency": 69
+    },
+    {
+      "rank": 748,
+      "word": "lëtra",
+      "frequency": 69
+    },
+    {
+      "rank": 749,
+      "word": "szpańsczi",
+      "frequency": 68
+    },
+    {
+      "rank": 750,
+      "word": "prawa",
+      "frequency": 68
+    },
+    {
+      "rank": 751,
+      "word": "słowò",
+      "frequency": 68
+    },
+    {
+      "rank": 752,
+      "word": "majkòwsczi",
+      "frequency": 68
+    },
+    {
+      "rank": 753,
+      "word": "gduńsczi",
+      "frequency": 68
+    },
+    {
+      "rank": 754,
+      "word": "francësczi",
+      "frequency": 68
+    },
+    {
+      "rank": 755,
+      "word": "americzi",
+      "frequency": 68
+    },
+    {
+      "rank": 756,
+      "word": "swój",
+      "frequency": 68
+    },
+    {
+      "rank": 757,
+      "word": "mòrze",
+      "frequency": 68
+    },
+    {
+      "rank": 758,
+      "word": "poznań",
+      "frequency": 68
+    },
+    {
+      "rank": 759,
+      "word": "wydawnictwo",
+      "frequency": 68
+    },
+    {
+      "rank": 760,
+      "word": "nas",
+      "frequency": 67
+    },
+    {
+      "rank": 761,
+      "word": "chtërné",
+      "frequency": 67
+    },
+    {
+      "rank": 762,
+      "word": "gdini",
+      "frequency": 67
+    },
+    {
+      "rank": 763,
+      "word": "dzãka",
+      "frequency": 67
+    },
+    {
+      "rank": 764,
+      "word": "szkòła",
+      "frequency": 67
+    },
+    {
+      "rank": 765,
+      "word": "geografia",
+      "frequency": 67
+    },
+    {
+      "rank": 766,
+      "word": "westrzód",
+      "frequency": 67
+    },
+    {
+      "rank": 767,
+      "word": "znóny",
+      "frequency": 67
+    },
+    {
+      "rank": 768,
+      "word": "cz",
+      "frequency": 67
+    },
+    {
+      "rank": 769,
+      "word": "per",
+      "frequency": 67
+    },
+    {
+      "rank": 770,
+      "word": "dëcha",
+      "frequency": 67
+    },
+    {
+      "rank": 771,
+      "word": "mało",
+      "frequency": 67
+    },
+    {
+      "rank": 772,
+      "word": "ją",
+      "frequency": 67
+    },
+    {
+      "rank": 773,
+      "word": "working",
+      "frequency": 67
+    },
+    {
+      "rank": 774,
+      "word": "bòga",
+      "frequency": 67
+    },
+    {
+      "rank": 775,
+      "word": "nôwikszim",
+      "frequency": 66
+    },
+    {
+      "rank": 776,
+      "word": "wejrowie",
+      "frequency": 66
+    },
+    {
+      "rank": 777,
+      "word": "żëją",
+      "frequency": 66
+    },
+    {
+      "rank": 778,
+      "word": "pùcczim",
+      "frequency": 66
+    },
+    {
+      "rank": 779,
+      "word": "tools",
+      "frequency": 66
+    },
+    {
+      "rank": 780,
+      "word": "everyone",
+      "frequency": 66
+    },
+    {
+      "rank": 781,
+      "word": "people",
+      "frequency": 66
+    },
+    {
+      "rank": 782,
+      "word": "lëczba",
+      "frequency": 66
+    },
+    {
+      "rank": 783,
+      "word": "më",
+      "frequency": 65
+    },
+    {
+      "rank": 784,
+      "word": "maria",
+      "frequency": 65
+    },
+    {
+      "rank": 785,
+      "word": "òficjalnô",
+      "frequency": 65
+    },
+    {
+      "rank": 786,
+      "word": "jãzëczi",
+      "frequency": 65
+    },
+    {
+      "rank": 787,
+      "word": "zajimô",
+      "frequency": 65
+    },
+    {
+      "rank": 788,
+      "word": "another",
+      "frequency": 65
+    },
+    {
+      "rank": 789,
+      "word": "wikipedias",
+      "frequency": 65
+    },
+    {
+      "rank": 790,
+      "word": "gduńsczim",
+      "frequency": 65
+    },
+    {
+      "rank": 791,
+      "word": "vertical",
+      "frequency": 65
+    },
+    {
+      "rank": 792,
+      "word": "chto",
+      "frequency": 64
+    },
+    {
+      "rank": 793,
+      "word": "garc",
+      "frequency": 64
+    },
+    {
+      "rank": 794,
+      "word": "góra",
+      "frequency": 64
+    },
+    {
+      "rank": 795,
+      "word": "geògrafia",
+      "frequency": 64
+    },
+    {
+      "rank": 796,
+      "word": "jedna",
+      "frequency": 64
+    },
+    {
+      "rank": 797,
+      "word": "history",
+      "frequency": 64
+    },
+    {
+      "rank": 798,
+      "word": "kòscérsczim",
+      "frequency": 64
+    },
+    {
+      "rank": 799,
+      "word": "including",
+      "frequency": 64
+    },
+    {
+      "rank": 800,
+      "word": "wielelatnô",
+      "frequency": 64
+    },
+    {
+      "rank": 801,
+      "word": "diskùsëjô",
+      "frequency": 63
+    },
+    {
+      "rank": 802,
+      "word": "robił",
+      "frequency": 63
+    },
+    {
+      "rank": 803,
+      "word": "pòrénkòwi",
+      "frequency": 63
+    },
+    {
+      "rank": 804,
+      "word": "dzejôrz",
+      "frequency": 63
+    },
+    {
+      "rank": 805,
+      "word": "dłudżi",
+      "frequency": 63
+    },
+    {
+      "rank": 806,
+      "word": "uk",
+      "frequency": 63
+    },
+    {
+      "rank": 807,
+      "word": "leżi",
+      "frequency": 63
+    },
+    {
+      "rank": 808,
+      "word": "join",
+      "frequency": 63
+    },
+    {
+      "rank": 809,
+      "word": "ccc",
+      "frequency": 63
+    },
+    {
+      "rank": 810,
+      "word": "òbczas",
+      "frequency": 63
+    },
+    {
+      "rank": 811,
+      "word": "jã",
+      "frequency": 62
+    },
+    {
+      "rank": 812,
+      "word": "zôpadny",
+      "frequency": 62
+    },
+    {
+      "rank": 813,
+      "word": "taczé",
+      "frequency": 62
+    },
+    {
+      "rank": 814,
+      "word": "dnia",
+      "frequency": 62
+    },
+    {
+      "rank": 815,
+      "word": "dzecë",
+      "frequency": 62
+    },
+    {
+      "rank": 816,
+      "word": "mieszkô",
+      "frequency": 62
+    },
+    {
+      "rank": 817,
+      "word": "sign",
+      "frequency": 62
+    },
+    {
+      "rank": 818,
+      "word": "uest",
+      "frequency": 62
+    },
+    {
+      "rank": 819,
+      "word": "two",
+      "frequency": 62
+    },
+    {
+      "rank": 820,
+      "word": "after",
+      "frequency": 62
+    },
+    {
+      "rank": 821,
+      "word": "të",
+      "frequency": 61
+    },
+    {
+      "rank": 822,
+      "word": "swòją",
+      "frequency": 61
+    },
+    {
+      "rank": 823,
+      "word": "bôłtu",
+      "frequency": 61
+    },
+    {
+      "rank": 824,
+      "word": "kartuzë",
+      "frequency": 61
+    },
+    {
+      "rank": 825,
+      "word": "wejrowò",
+      "frequency": 61
+    },
+    {
+      "rank": 826,
+      "word": "człowiek",
+      "frequency": 61
+    },
+    {
+      "rank": 827,
+      "word": "tzw",
+      "frequency": 61
+    },
+    {
+      "rank": 828,
+      "word": "ich",
+      "frequency": 61
+    },
+    {
+      "rank": 829,
+      "word": "kòd",
+      "frequency": 61
+    },
+    {
+      "rank": 830,
+      "word": "messages",
+      "frequency": 61
+    },
+    {
+      "rank": 831,
+      "word": "razy",
+      "frequency": 61
+    },
+    {
+      "rank": 832,
+      "word": "gje",
+      "frequency": 61
+    },
+    {
+      "rank": 833,
+      "word": "wierã",
+      "frequency": 61
+    },
+    {
+      "rank": 834,
+      "word": "library",
+      "frequency": 61
+    },
+    {
+      "rank": 835,
+      "word": "currently",
+      "frequency": 60
+    },
+    {
+      "rank": 836,
+      "word": "jãzëkach",
+      "frequency": 60
+    },
+    {
+      "rank": 837,
+      "word": "trepczik",
+      "frequency": 60
+    },
+    {
+      "rank": 838,
+      "word": "kùńc",
+      "frequency": 60
+    },
+    {
+      "rank": 839,
+      "word": "lato",
+      "frequency": 60
+    },
+    {
+      "rank": 840,
+      "word": "tego",
+      "frequency": 60
+    },
+    {
+      "rank": 841,
+      "word": "swòji",
+      "frequency": 60
+    },
+    {
+      "rank": 842,
+      "word": "mieszkało",
+      "frequency": 60
+    },
+    {
+      "rank": 843,
+      "word": "lãbòrsczim",
+      "frequency": 60
+    },
+    {
+      "rank": 844,
+      "word": "tës",
+      "frequency": 60
+    },
+    {
+      "rank": 845,
+      "word": "participate",
+      "frequency": 60
+    },
+    {
+      "rank": 846,
+      "word": "last",
+      "frequency": 60
+    },
+    {
+      "rank": 847,
+      "word": "title",
+      "frequency": 60
+    },
+    {
+      "rank": 848,
+      "word": "made",
+      "frequency": 60
+    },
+    {
+      "rank": 849,
+      "word": "full",
+      "frequency": 60
+    },
+    {
+      "rank": 850,
+      "word": "ruchu",
+      "frequency": 60
+    },
+    {
+      "rank": 851,
+      "word": "version",
+      "frequency": 60
+    },
+    {
+      "rank": 852,
+      "word": "starna",
+      "frequency": 59
+    },
+    {
+      "rank": 853,
+      "word": "valign",
+      "frequency": 59
+    },
+    {
+      "rank": 854,
+      "word": "pòlskù",
+      "frequency": 59
+    },
+    {
+      "rank": 855,
+      "word": "mòrdawsczi",
+      "frequency": 59
+    },
+    {
+      "rank": 856,
+      "word": "kategòrëji",
+      "frequency": 59
+    },
+    {
+      "rank": 857,
+      "word": "rzéka",
+      "frequency": 59
+    },
+    {
+      "rank": 858,
+      "word": "widzec",
+      "frequency": 59
+    },
+    {
+      "rank": 859,
+      "word": "through",
+      "frequency": 59
+    },
+    {
+      "rank": 860,
+      "word": "review",
+      "frequency": 59
+    },
+    {
+      "rank": 861,
+      "word": "technical",
+      "frequency": 59
+    },
+    {
+      "rank": 862,
+      "word": "april",
+      "frequency": 59
+    },
+    {
+      "rank": 863,
+      "word": "better",
+      "frequency": 59
+    },
+    {
+      "rank": 864,
+      "word": "images",
+      "frequency": 59
+    },
+    {
+      "rank": 865,
+      "word": "syn",
+      "frequency": 59
+    },
+    {
+      "rank": 866,
+      "word": "cała",
+      "frequency": 59
+    },
+    {
+      "rank": 867,
+      "word": "rezerwat",
+      "frequency": 59
+    },
+    {
+      "rank": 868,
+      "word": "below",
+      "frequency": 58
+    },
+    {
+      "rank": 869,
+      "word": "pòlsczim",
+      "frequency": 58
+    },
+    {
+      "rank": 870,
+      "word": "im",
+      "frequency": 58
+    },
+    {
+      "rank": 871,
+      "word": "procëm",
+      "frequency": 58
+    },
+    {
+      "rank": 872,
+      "word": "wôżnym",
+      "frequency": 58
+    },
+    {
+      "rank": 873,
+      "word": "international",
+      "frequency": 58
+    },
+    {
+      "rank": 874,
+      "word": "apologies",
+      "frequency": 58
+    },
+    {
+      "rank": 875,
+      "word": "during",
+      "frequency": 58
+    },
+    {
+      "rank": 876,
+      "word": "non",
+      "frequency": 58
+    },
+    {
+      "rank": 877,
+      "word": "chònicczim",
+      "frequency": 58
+    },
+    {
+      "rank": 878,
+      "word": "przëmiôr",
+      "frequency": 58
+    },
+    {
+      "rank": 879,
+      "word": "alfabétu",
+      "frequency": 58
+    },
+    {
+      "rank": 880,
+      "word": "bar",
+      "frequency": 58
+    },
+    {
+      "rank": 881,
+      "word": "artiklów",
+      "frequency": 57
+    },
+    {
+      "rank": 882,
+      "word": "pòmòrsczé",
+      "frequency": 57
+    },
+    {
+      "rank": 883,
+      "word": "documentation",
+      "frequency": 57
+    },
+    {
+      "rank": 884,
+      "word": "dwie",
+      "frequency": 57
+    },
+    {
+      "rank": 885,
+      "word": "pòrénkù",
+      "frequency": 57
+    },
+    {
+      "rank": 886,
+      "word": "system",
+      "frequency": 57
+    },
+    {
+      "rank": 887,
+      "word": "noc",
+      "frequency": 57
+    },
+    {
+      "rank": 888,
+      "word": "król",
+      "frequency": 57
+    },
+    {
+      "rank": 889,
+      "word": "adam",
+      "frequency": 57
+    },
+    {
+      "rank": 890,
+      "word": "nowégò",
+      "frequency": 57
+    },
+    {
+      "rank": 891,
+      "word": "biwô",
+      "frequency": 57
+    },
+    {
+      "rank": 892,
+      "word": "zôpadnopòmòrsczim",
+      "frequency": 57
+    },
+    {
+      "rank": 893,
+      "word": "my",
+      "frequency": 57
+    },
+    {
+      "rank": 894,
+      "word": "features",
+      "frequency": 57
+    },
+    {
+      "rank": 895,
+      "word": "sychta",
+      "frequency": 57
+    },
+    {
+      "rank": 896,
+      "word": "reading",
+      "frequency": 57
+    },
+    {
+      "rank": 897,
+      "word": "nôwikszi",
+      "frequency": 56
+    },
+    {
+      "rank": 898,
+      "word": "go",
+      "frequency": 56
+    },
+    {
+      "rank": 899,
+      "word": "żëcégò",
+      "frequency": 56
+    },
+    {
+      "rank": 900,
+      "word": "brusë",
+      "frequency": 56
+    },
+    {
+      "rank": 901,
+      "word": "robi",
+      "frequency": 56
+    },
+    {
+      "rank": 902,
+      "word": "róman",
+      "frequency": 56
+    },
+    {
+      "rank": 903,
+      "word": "ruskô",
+      "frequency": 56
+    },
+    {
+      "rank": 904,
+      "word": "język",
+      "frequency": 56
+    },
+    {
+      "rank": 905,
+      "word": "central",
+      "frequency": 56
+    },
+    {
+      "rank": 906,
+      "word": "dostôł",
+      "frequency": 56
+    },
+    {
+      "rank": 907,
+      "word": "wiéchrzëznie",
+      "frequency": 56
+    },
+    {
+      "rank": 908,
+      "word": "universal",
+      "frequency": 56
+    },
+    {
+      "rank": 909,
+      "word": "conduct",
+      "frequency": 56
+    },
+    {
+      "rank": 910,
+      "word": "learn",
+      "frequency": 56
+    },
+    {
+      "rank": 911,
+      "word": "account",
+      "frequency": 56
+    },
+    {
+      "rank": 912,
+      "word": "each",
+      "frequency": 56
+    },
+    {
+      "rank": 913,
+      "word": "guide",
+      "frequency": 56
+    },
+    {
+      "rank": 914,
+      "word": "program",
+      "frequency": 56
+    },
+    {
+      "rank": 915,
+      "word": "mod",
+      "frequency": 56
+    },
+    {
+      "rank": 916,
+      "word": "pierszé",
+      "frequency": 55
+    },
+    {
+      "rank": 917,
+      "word": "trzech",
+      "frequency": 55
+    },
+    {
+      "rank": 918,
+      "word": "brëkòwnicë",
+      "frequency": 55
+    },
+    {
+      "rank": 919,
+      "word": "wiôldżim",
+      "frequency": 55
+    },
+    {
+      "rank": 920,
+      "word": "well",
+      "frequency": 55
+    },
+    {
+      "rank": 921,
+      "word": "th",
+      "frequency": 55
+    },
+    {
+      "rank": 922,
+      "word": "its",
+      "frequency": 55
+    },
+    {
+      "rank": 923,
+      "word": "today",
+      "frequency": 55
+    },
+    {
+      "rank": 924,
+      "word": "szôłtëstwa",
+      "frequency": 55
+    },
+    {
+      "rank": 925,
+      "word": "jidze",
+      "frequency": 54
+    },
+    {
+      "rank": 926,
+      "word": "pòchòdzy",
+      "frequency": 54
+    },
+    {
+      "rank": 927,
+      "word": "cząd",
+      "frequency": 54
+    },
+    {
+      "rank": 928,
+      "word": "marian",
+      "frequency": 54
+    },
+    {
+      "rank": 929,
+      "word": "rësznotë",
+      "frequency": 54
+    },
+    {
+      "rank": 930,
+      "word": "kanadze",
+      "frequency": 54
+    },
+    {
+      "rank": 931,
+      "word": "wiôlgą",
+      "frequency": 54
+    },
+    {
+      "rank": 932,
+      "word": "tym",
+      "frequency": 54
+    },
+    {
+      "rank": 933,
+      "word": "americe",
+      "frequency": 54
+    },
+    {
+      "rank": 934,
+      "word": "robòtë",
+      "frequency": 54
+    },
+    {
+      "rank": 935,
+      "word": "vote",
+      "frequency": 54
+    },
+    {
+      "rank": 936,
+      "word": "election",
+      "frequency": 54
+    },
+    {
+      "rank": 937,
+      "word": "possible",
+      "frequency": 54
+    },
+    {
+      "rank": 938,
+      "word": "iron",
+      "frequency": 54
+    },
+    {
+      "rank": 939,
+      "word": "maiden",
+      "frequency": 54
+    },
+    {
+      "rank": 940,
+      "word": "jezësa",
+      "frequency": 54
+    },
+    {
+      "rank": 941,
+      "word": "nôtërë",
+      "frequency": 54
+    },
+    {
+      "rank": 942,
+      "word": "òkróm",
+      "frequency": 53
+    },
+    {
+      "rank": 943,
+      "word": "pùck",
+      "frequency": 53
+    },
+    {
+      "rank": 944,
+      "word": "rowspan",
+      "frequency": 53
+    },
+    {
+      "rank": 945,
+      "word": "drzéżdżón",
+      "frequency": 53
+    },
+    {
+      "rank": 946,
+      "word": "matczi",
+      "frequency": 53
+    },
+    {
+      "rank": 947,
+      "word": "zëmã",
+      "frequency": 53
+    },
+    {
+      "rank": 948,
+      "word": "borzyszkowski",
+      "frequency": 53
+    },
+    {
+      "rank": 949,
+      "word": "gôdô",
+      "frequency": 53
+    },
+    {
+      "rank": 950,
+      "word": "different",
+      "frequency": 53
+    },
+    {
+      "rank": 951,
+      "word": "ask",
+      "frequency": 53
+    },
+    {
+      "rank": 952,
+      "word": "start",
+      "frequency": 53
+    },
+    {
+      "rank": 953,
+      "word": "could",
+      "frequency": 53
+    },
+    {
+      "rank": 954,
+      "word": "were",
+      "frequency": 53
+    },
+    {
+      "rank": 955,
+      "word": "strategy",
+      "frequency": 53
+    },
+    {
+      "rank": 956,
+      "word": "epitaph",
+      "frequency": 53
+    },
+    {
+      "rank": 957,
+      "word": "wid",
+      "frequency": 53
+    },
+    {
+      "rank": 958,
+      "word": "roscą",
+      "frequency": 53
+    },
+    {
+      "rank": 959,
+      "word": "lëst",
+      "frequency": 52
+    },
+    {
+      "rank": 960,
+      "word": "rozwiju",
+      "frequency": 52
+    },
+    {
+      "rank": 961,
+      "word": "miastkò",
+      "frequency": 52
+    },
+    {
+      "rank": 962,
+      "word": "też",
+      "frequency": 52
+    },
+    {
+      "rank": 963,
+      "word": "jinszé",
+      "frequency": 52
+    },
+    {
+      "rank": 964,
+      "word": "òstałë",
+      "frequency": 52
+    },
+    {
+      "rank": 965,
+      "word": "let",
+      "frequency": 52
+    },
+    {
+      "rank": 966,
+      "word": "africe",
+      "frequency": 52
+    },
+    {
+      "rank": 967,
+      "word": "dyskusja",
+      "frequency": 52
+    },
+    {
+      "rank": 968,
+      "word": "kòpijô",
+      "frequency": 52
+    },
+    {
+      "rank": 969,
+      "word": "str",
+      "frequency": 52
+    },
+    {
+      "rank": 970,
+      "word": "ff",
+      "frequency": 52
+    },
+    {
+      "rank": 971,
+      "word": "contact",
+      "frequency": 52
+    },
+    {
+      "rank": 972,
+      "word": "łacyńsczégò",
+      "frequency": 52
+    },
+    {
+      "rank": 973,
+      "word": "amerikańską",
+      "frequency": 52
+    },
+    {
+      "rank": 974,
+      "word": "brzôd",
+      "frequency": 52
+    },
+    {
+      "rank": 975,
+      "word": "jezës",
+      "frequency": 52
+    },
+    {
+      "rank": 976,
+      "word": "człëchòwsczim",
+      "frequency": 52
+    },
+    {
+      "rank": 977,
+      "word": "gardë",
+      "frequency": 51
+    },
+    {
+      "rank": 978,
+      "word": "da",
+      "frequency": 51
+    },
+    {
+      "rank": 979,
+      "word": "lëstë",
+      "frequency": 51
+    },
+    {
+      "rank": 980,
+      "word": "jedną",
+      "frequency": 51
+    },
+    {
+      "rank": 981,
+      "word": "króla",
+      "frequency": 51
+    },
+    {
+      "rank": 982,
+      "word": "current",
+      "frequency": 51
+    },
+    {
+      "rank": 983,
+      "word": "môrcën",
+      "frequency": 51
+    },
+    {
+      "rank": 984,
+      "word": "mcm",
+      "frequency": 51
+    },
+    {
+      "rank": 985,
+      "word": "mdccc",
+      "frequency": 51
+    },
+    {
+      "rank": 986,
+      "word": "ideas",
+      "frequency": 51
+    },
+    {
+      "rank": 987,
+      "word": "mylanguage",
+      "frequency": 51
+    },
+    {
+      "rank": 988,
+      "word": "mdcc",
+      "frequency": 51
+    },
+    {
+      "rank": 989,
+      "word": "teatrownicą",
+      "frequency": 51
+    },
+    {
+      "rank": 990,
+      "word": "dccc",
+      "frequency": 51
+    },
+    {
+      "rank": 991,
+      "word": "kòżdi",
+      "frequency": 50
+    },
+    {
+      "rank": 992,
+      "word": "ôrtu",
+      "frequency": 50
+    },
+    {
+      "rank": 993,
+      "word": "jaczim",
+      "frequency": 50
+    },
+    {
+      "rank": 994,
+      "word": "òstała",
+      "frequency": 50
+    },
+    {
+      "rank": 995,
+      "word": "dr",
+      "frequency": 50
+    },
+    {
+      "rank": 996,
+      "word": "chtërno",
+      "frequency": 50
+    },
+    {
+      "rank": 997,
+      "word": "strzédny",
+      "frequency": 50
+    },
+    {
+      "rank": 998,
+      "word": "london",
+      "frequency": 50
+    },
+    {
+      "rank": 999,
+      "word": "swiãtô",
+      "frequency": 50
+    },
+    {
+      "rank": 1000,
+      "word": "ch",
+      "frequency": 50
+    }
+  ],
+  "log_log_data": [
+    {
+      "log_rank": 0.0,
+      "log_frequency": 4.229477058873163
+    },
+    {
+      "log_rank": 0.3010299956639812,
+      "log_frequency": 3.9089137400209713
+    },
+    {
+      "log_rank": 0.47712125471966244,
+      "log_frequency": 3.879267956824613
+    },
+    {
+      "log_rank": 0.6020599913279624,
+      "log_frequency": 3.855761372339948
+    },
+    {
+      "log_rank": 0.6989700043360189,
+      "log_frequency": 3.846955325019824
+    },
+    {
+      "log_rank": 0.7781512503836436,
+      "log_frequency": 3.714413592287121
+    },
+    {
+      "log_rank": 0.8450980400142568,
+      "log_frequency": 3.7044936970092985
+    },
+    {
+      "log_rank": 0.9030899869919435,
+      "log_frequency": 3.6026025204202563
+    },
+    {
+      "log_rank": 0.9542425094393249,
+      "log_frequency": 3.573683693093798
+    },
+    {
+      "log_rank": 1.0,
+      "log_frequency": 3.503790683057181
+    },
+    {
+      "log_rank": 1.041392685158225,
+      "log_frequency": 3.441538038702161
+    },
+    {
+      "log_rank": 1.0791812460476249,
+      "log_frequency": 3.372175286115064
+    },
+    {
+      "log_rank": 1.1139433523068367,
+      "log_frequency": 3.325515663363148
+    },
+    {
+      "log_rank": 1.146128035678238,
+      "log_frequency": 3.3092041796704077
+    },
+    {
+      "log_rank": 1.1760912590556813,
+      "log_frequency": 3.244524511570084
+    },
+    {
+      "log_rank": 1.2041199826559248,
+      "log_frequency": 3.2242740142942576
+    },
+    {
+      "log_rank": 1.2304489213782739,
+      "log_frequency": 3.1812717715594614
+    },
+    {
+      "log_rank": 1.255272505103306,
+      "log_frequency": 3.178113252314632
+    },
+    {
+      "log_rank": 1.2787536009528289,
+      "log_frequency": 3.173186268412274
+    },
+    {
+      "log_rank": 1.3010299956639813,
+      "log_frequency": 3.1728946977521764
+    },
+    {
+      "log_rank": 1.3222192947339193,
+      "log_frequency": 3.1604685311190375
+    },
+    {
+      "log_rank": 1.3424226808222062,
+      "log_frequency": 3.1414497734004674
+    },
+    {
+      "log_rank": 1.3617278360175928,
+      "log_frequency": 3.130333768495006
+    },
+    {
+      "log_rank": 1.380211241711606,
+      "log_frequency": 3.127428777851599
+    },
+    {
+      "log_rank": 1.3979400086720377,
+      "log_frequency": 3.125481265700594
+    },
+    {
+      "log_rank": 1.414973347970818,
+      "log_frequency": 3.089551882886454
+    },
+    {
+      "log_rank": 1.4313637641589874,
+      "log_frequency": 3.083860800866573
+    },
+    {
+      "log_rank": 1.4471580313422192,
+      "log_frequency": 3.0835026198302673
+    },
+    {
+      "log_rank": 1.462397997898956,
+      "log_frequency": 3.076640443670342
+    },
+    {
+      "log_rank": 1.4771212547196624,
+      "log_frequency": 3.0637085593914173
+    },
+    {
+      "log_rank": 1.4913616938342726,
+      "log_frequency": 3.0549958615291417
+    },
+    {
+      "log_rank": 1.505149978319906,
+      "log_frequency": 3.0354297381845483
+    },
+    {
+      "log_rank": 1.5185139398778875,
+      "log_frequency": 3.0322157032979815
+    },
+    {
+      "log_rank": 1.5314789170422551,
+      "log_frequency": 3.0136796972911926
+    },
+    {
+      "log_rank": 1.5440680443502757,
+      "log_frequency": 3.0017337128090005
+    },
+    {
+      "log_rank": 1.5563025007672873,
+      "log_frequency": 3.001300933020418
+    },
+    {
+      "log_rank": 1.568201724066995,
+      "log_frequency": 3.000434077479319
+    },
+    {
+      "log_rank": 1.5797835966168101,
+      "log_frequency": 2.9965116721541785
+    },
+    {
+      "log_rank": 1.591064607026499,
+      "log_frequency": 2.9827233876685453
+    },
+    {
+      "log_rank": 1.6020599913279625,
+      "log_frequency": 2.9745116927373285
+    },
+    {
+      "log_rank": 1.6127838567197355,
+      "log_frequency": 2.9708116108725178
+    },
+    {
+      "log_rank": 1.6232492903979006,
+      "log_frequency": 2.9633155113861114
+    },
+    {
+      "log_rank": 1.6334684555795866,
+      "log_frequency": 2.9628426812012423
+    },
+    {
+      "log_rank": 1.6434526764861874,
+      "log_frequency": 2.9425041061680806
+    },
+    {
+      "log_rank": 1.6532125137753437,
+      "log_frequency": 2.9370161074648142
+    },
+    {
+      "log_rank": 1.662757831681574,
+      "log_frequency": 2.9355072658247128
+    },
+    {
+      "log_rank": 1.6720978579357175,
+      "log_frequency": 2.930949031167523
+    },
+    {
+      "log_rank": 1.6812412373755872,
+      "log_frequency": 2.929929560084588
+    },
+    {
+      "log_rank": 1.6901960800285136,
+      "log_frequency": 2.9206450014067875
+    },
+    {
+      "log_rank": 1.6989700043360187,
+      "log_frequency": 2.920123326290724
+    },
+    {
+      "log_rank": 1.7075701760979363,
+      "log_frequency": 2.919601023784111
+    },
+    {
+      "log_rank": 1.7160033436347992,
+      "log_frequency": 2.9030899869919438
+    },
+    {
+      "log_rank": 1.7242758696007892,
+      "log_frequency": 2.8987251815894934
+    },
+    {
+      "log_rank": 1.7323937598229686,
+      "log_frequency": 2.89707700320942
+    },
+    {
+      "log_rank": 1.7403626894942439,
+      "log_frequency": 2.8937617620579434
+    },
+    {
+      "log_rank": 1.7481880270062005,
+      "log_frequency": 2.8926510338773004
+    },
+    {
+      "log_rank": 1.7558748556724915,
+      "log_frequency": 2.8739015978644615
+    },
+    {
+      "log_rank": 1.7634279935629373,
+      "log_frequency": 2.869818207979328
+    },
+    {
+      "log_rank": 1.7708520116421442,
+      "log_frequency": 2.864511081058392
+    },
+    {
+      "log_rank": 1.7781512503836436,
+      "log_frequency": 2.858537197569639
+    },
+    {
+      "log_rank": 1.7853298350107671,
+      "log_frequency": 2.8567288903828825
+    },
+    {
+      "log_rank": 1.792391689498254,
+      "log_frequency": 2.8536982117761744
+    },
+    {
+      "log_rank": 1.7993405494535817,
+      "log_frequency": 2.8494194137968996
+    },
+    {
+      "log_rank": 1.806179973983887,
+      "log_frequency": 2.842609239610562
+    },
+    {
+      "log_rank": 1.8129133566428555,
+      "log_frequency": 2.8407332346118066
+    },
+    {
+      "log_rank": 1.8195439355418688,
+      "log_frequency": 2.835056101720116
+    },
+    {
+      "log_rank": 1.8260748027008264,
+      "log_frequency": 2.8344207036815323
+    },
+    {
+      "log_rank": 1.8325089127062364,
+      "log_frequency": 2.824125833916549
+    },
+    {
+      "log_rank": 1.8388490907372552,
+      "log_frequency": 2.8135809885681917
+    },
+    {
+      "log_rank": 1.845098040014257,
+      "log_frequency": 2.812244696800369
+    },
+    {
+      "log_rank": 1.8512583487190752,
+      "log_frequency": 2.806179973983887
+    },
+    {
+      "log_rank": 1.8573324964312685,
+      "log_frequency": 2.8020892578817325
+    },
+    {
+      "log_rank": 1.863322860120456,
+      "log_frequency": 2.800717078282385
+    },
+    {
+      "log_rank": 1.8692317197309762,
+      "log_frequency": 2.8000293592441343
+    },
+    {
+      "log_rank": 1.8750612633917,
+      "log_frequency": 2.7993405494535817
+    },
+    {
+      "log_rank": 1.8808135922807914,
+      "log_frequency": 2.797959643737196
+    },
+    {
+      "log_rank": 1.8864907251724818,
+      "log_frequency": 2.7972675408307164
+    },
+    {
+      "log_rank": 1.8920946026904804,
+      "log_frequency": 2.7965743332104296
+    },
+    {
+      "log_rank": 1.8976270912904414,
+      "log_frequency": 2.7965743332104296
+    },
+    {
+      "log_rank": 1.9030899869919435,
+      "log_frequency": 2.7867514221455614
+    },
+    {
+      "log_rank": 1.9084850188786497,
+      "log_frequency": 2.77232170672292
+    },
+    {
+      "log_rank": 1.9138138523837167,
+      "log_frequency": 2.7649229846498886
+    },
+    {
+      "log_rank": 1.919078092376074,
+      "log_frequency": 2.7535830588929064
+    },
+    {
+      "log_rank": 1.9242792860618816,
+      "log_frequency": 2.7520484478194387
+    },
+    {
+      "log_rank": 1.9294189257142929,
+      "log_frequency": 2.751279103983342
+    },
+    {
+      "log_rank": 1.9344984512435677,
+      "log_frequency": 2.745855195173729
+    },
+    {
+      "log_rank": 1.9395192526186185,
+      "log_frequency": 2.741939077729199
+    },
+    {
+      "log_rank": 1.9444826721501687,
+      "log_frequency": 2.734799829588847
+    },
+    {
+      "log_rank": 1.9493900066449128,
+      "log_frequency": 2.7323937598229686
+    },
+    {
+      "log_rank": 1.9542425094393248,
+      "log_frequency": 2.7259116322950483
+    },
+    {
+      "log_rank": 1.9590413923210936,
+      "log_frequency": 2.7218106152125467
+    },
+    {
+      "log_rank": 1.9637878273455553,
+      "log_frequency": 2.718501688867274
+    },
+    {
+      "log_rank": 1.968482948553935,
+      "log_frequency": 2.7168377232995247
+    },
+    {
+      "log_rank": 1.9731278535996986,
+      "log_frequency": 2.716003343634799
+    },
+    {
+      "log_rank": 1.9777236052888478,
+      "log_frequency": 2.714329759745233
+    },
+    {
+      "log_rank": 1.9822712330395684,
+      "log_frequency": 2.711807229041191
+    },
+    {
+      "log_rank": 1.9867717342662448,
+      "log_frequency": 2.710963118995276
+    },
+    {
+      "log_rank": 1.9912260756924949,
+      "log_frequency": 2.708420900134713
+    },
+    {
+      "log_rank": 1.99563519459755,
+      "log_frequency": 2.699837725867246
+    },
+    {
+      "log_rank": 2.0,
+      "log_frequency": 2.6972293427597176
+    },
+    {
+      "log_rank": 2.0043213737826426,
+      "log_frequency": 2.6893088591236203
+    },
+    {
+      "log_rank": 2.0086001717619175,
+      "log_frequency": 2.6857417386022635
+    },
+    {
+      "log_rank": 2.012837224705172,
+      "log_frequency": 2.6830470382388496
+    },
+    {
+      "log_rank": 2.0170333392987803,
+      "log_frequency": 2.681241237375587
+    },
+    {
+      "log_rank": 2.0211892990699383,
+      "log_frequency": 2.681241237375587
+    },
+    {
+      "log_rank": 2.0253058652647704,
+      "log_frequency": 2.680335513414563
+    },
+    {
+      "log_rank": 2.0293837776852097,
+      "log_frequency": 2.680335513414563
+    },
+    {
+      "log_rank": 2.03342375548695,
+      "log_frequency": 2.680335513414563
+    },
+    {
+      "log_rank": 2.037426497940624,
+      "log_frequency": 2.678518379040114
+    },
+    {
+      "log_rank": 2.041392685158225,
+      "log_frequency": 2.678518379040114
+    },
+    {
+      "log_rank": 2.0453229787866576,
+      "log_frequency": 2.678518379040114
+    },
+    {
+      "log_rank": 2.0492180226701815,
+      "log_frequency": 2.677606952720493
+    },
+    {
+      "log_rank": 2.05307844348342,
+      "log_frequency": 2.677606952720493
+    },
+    {
+      "log_rank": 2.0569048513364727,
+      "log_frequency": 2.673941998634088
+    },
+    {
+      "log_rank": 2.060697840353612,
+      "log_frequency": 2.673020907128896
+    },
+    {
+      "log_rank": 2.0644579892269186,
+      "log_frequency": 2.6720978579357175
+    },
+    {
+      "log_rank": 2.0681858617461617,
+      "log_frequency": 2.6693168805661123
+    },
+    {
+      "log_rank": 2.0718820073061255,
+      "log_frequency": 2.6693168805661123
+    },
+    {
+      "log_rank": 2.075546961392531,
+      "log_frequency": 2.6655809910179533
+    },
+    {
+      "log_rank": 2.0791812460476247,
+      "log_frequency": 2.6589648426644352
+    },
+    {
+      "log_rank": 2.08278537031645,
+      "log_frequency": 2.6483600109809315
+    },
+    {
+      "log_rank": 2.0863598306747484,
+      "log_frequency": 2.6414741105040993
+    },
+    {
+      "log_rank": 2.089905111439398,
+      "log_frequency": 2.635483746814912
+    },
+    {
+      "log_rank": 2.093421685162235,
+      "log_frequency": 2.6334684555795866
+    },
+    {
+      "log_rank": 2.0969100130080562,
+      "log_frequency": 2.6314437690131722
+    },
+    {
+      "log_rank": 2.100370545117563,
+      "log_frequency": 2.630427875025024
+    },
+    {
+      "log_rank": 2.103803720955957,
+      "log_frequency": 2.629409599102719
+    },
+    {
+      "log_rank": 2.1072099696478683,
+      "log_frequency": 2.6273658565927325
+    },
+    {
+      "log_rank": 2.110589710299249,
+      "log_frequency": 2.621176281775035
+    },
+    {
+      "log_rank": 2.113943352306837,
+      "log_frequency": 2.6201360549737576
+    },
+    {
+      "log_rank": 2.1172712956557644,
+      "log_frequency": 2.606381365110605
+    },
+    {
+      "log_rank": 2.12057393120585,
+      "log_frequency": 2.6009728956867484
+    },
+    {
+      "log_rank": 2.123851640967086,
+      "log_frequency": 2.6009728956867484
+    },
+    {
+      "log_rank": 2.1271047983648077,
+      "log_frequency": 2.598790506763115
+    },
+    {
+      "log_rank": 2.130333768495006,
+      "log_frequency": 2.5943925503754266
+    },
+    {
+      "log_rank": 2.1335389083702174,
+      "log_frequency": 2.593286067020457
+    },
+    {
+      "log_rank": 2.1367205671564067,
+      "log_frequency": 2.586587304671755
+    },
+    {
+      "log_rank": 2.1398790864012365,
+      "log_frequency": 2.586587304671755
+    },
+    {
+      "log_rank": 2.143014800254095,
+      "log_frequency": 2.582063362911709
+    },
+    {
+      "log_rank": 2.146128035678238,
+      "log_frequency": 2.57978359661681
+    },
+    {
+      "log_rank": 2.1492191126553797,
+      "log_frequency": 2.57978359661681
+    },
+    {
+      "log_rank": 2.1522883443830563,
+      "log_frequency": 2.576341350205793
+    },
+    {
+      "log_rank": 2.155336037465062,
+      "log_frequency": 2.571708831808688
+    },
+    {
+      "log_rank": 2.1583624920952498,
+      "log_frequency": 2.571708831808688
+    },
+    {
+      "log_rank": 2.161368002234975,
+      "log_frequency": 2.571708831808688
+    },
+    {
+      "log_rank": 2.164352855784437,
+      "log_frequency": 2.5705429398818973
+    },
+    {
+      "log_rank": 2.167317334748176,
+      "log_frequency": 2.569373909615046
+    },
+    {
+      "log_rank": 2.1702617153949575,
+      "log_frequency": 2.568201724066995
+    },
+    {
+      "log_rank": 2.173186268412274,
+      "log_frequency": 2.5646660642520893
+    },
+    {
+      "log_rank": 2.1760912590556813,
+      "log_frequency": 2.5599066250361124
+    },
+    {
+      "log_rank": 2.1789769472931693,
+      "log_frequency": 2.5550944485783194
+    },
+    {
+      "log_rank": 2.1818435879447726,
+      "log_frequency": 2.5538830266438746
+    },
+    {
+      "log_rank": 2.184691430817599,
+      "log_frequency": 2.5538830266438746
+    },
+    {
+      "log_rank": 2.187520720836463,
+      "log_frequency": 2.552668216112193
+    },
+    {
+      "log_rank": 2.1903316981702914,
+      "log_frequency": 2.550228353055094
+    },
+    {
+      "log_rank": 2.1931245983544616,
+      "log_frequency": 2.5490032620257876
+    },
+    {
+      "log_rank": 2.1958996524092336,
+      "log_frequency": 2.546542663478131
+    },
+    {
+      "log_rank": 2.1986570869544226,
+      "log_frequency": 2.5415792439465807
+    },
+    {
+      "log_rank": 2.2013971243204513,
+      "log_frequency": 2.5403294747908736
+    },
+    {
+      "log_rank": 2.204119982655925,
+      "log_frequency": 2.534026106056135
+    },
+    {
+      "log_rank": 2.2068258760318495,
+      "log_frequency": 2.5327543789924976
+    },
+    {
+      "log_rank": 2.2095150145426308,
+      "log_frequency": 2.5289167002776547
+    },
+    {
+      "log_rank": 2.2121876044039577,
+      "log_frequency": 2.5276299008713385
+    },
+    {
+      "log_rank": 2.214843848047698,
+      "log_frequency": 2.526339277389844
+    },
+    {
+      "log_rank": 2.2174839442139063,
+      "log_frequency": 2.5171958979499744
+    },
+    {
+      "log_rank": 2.220108088040055,
+      "log_frequency": 2.5171958979499744
+    },
+    {
+      "log_rank": 2.2227164711475833,
+      "log_frequency": 2.515873843711679
+    },
+    {
+      "log_rank": 2.225309281725863,
+      "log_frequency": 2.510545010206612
+    },
+    {
+      "log_rank": 2.2278867046136734,
+      "log_frequency": 2.510545010206612
+    },
+    {
+      "log_rank": 2.230448921378274,
+      "log_frequency": 2.506505032404872
+    },
+    {
+      "log_rank": 2.2329961103921536,
+      "log_frequency": 2.505149978319906
+    },
+    {
+      "log_rank": 2.2355284469075487,
+      "log_frequency": 2.503790683057181
+    },
+    {
+      "log_rank": 2.2380461031287955,
+      "log_frequency": 2.503790683057181
+    },
+    {
+      "log_rank": 2.2405492482825995,
+      "log_frequency": 2.496929648073215
+    },
+    {
+      "log_rank": 2.2430380486862944,
+      "log_frequency": 2.496929648073215
+    },
+    {
+      "log_rank": 2.24551266781415,
+      "log_frequency": 2.496929648073215
+    },
+    {
+      "log_rank": 2.2479732663618064,
+      "log_frequency": 2.482873583608754
+    },
+    {
+      "log_rank": 2.250420002308894,
+      "log_frequency": 2.482873583608754
+    },
+    {
+      "log_rank": 2.2528530309798933,
+      "log_frequency": 2.478566495593843
+    },
+    {
+      "log_rank": 2.255272505103306,
+      "log_frequency": 2.478566495593843
+    },
+    {
+      "log_rank": 2.2576785748691846,
+      "log_frequency": 2.4742162640762553
+    },
+    {
+      "log_rank": 2.2600713879850747,
+      "log_frequency": 2.4727564493172123
+    },
+    {
+      "log_rank": 2.2624510897304293,
+      "log_frequency": 2.4712917110589387
+    },
+    {
+      "log_rank": 2.2648178230095364,
+      "log_frequency": 2.4653828514484184
+    },
+    {
+      "log_rank": 2.2671717284030137,
+      "log_frequency": 2.4653828514484184
+    },
+    {
+      "log_rank": 2.2695129442179165,
+      "log_frequency": 2.4638929889859074
+    },
+    {
+      "log_rank": 2.271841606536499,
+      "log_frequency": 2.462397997898956
+    },
+    {
+      "log_rank": 2.27415784926368,
+      "log_frequency": 2.459392487759231
+    },
+    {
+      "log_rank": 2.2764618041732443,
+      "log_frequency": 2.4578818967339924
+    },
+    {
+      "log_rank": 2.278753600952829,
+      "log_frequency": 2.4471580313422194
+    },
+    {
+      "log_rank": 2.2810333672477277,
+      "log_frequency": 2.4471580313422194
+    },
+    {
+      "log_rank": 2.2833012287035497,
+      "log_frequency": 2.4456042032735974
+    },
+    {
+      "log_rank": 2.285557309007774,
+      "log_frequency": 2.444044795918076
+    },
+    {
+      "log_rank": 2.287801729930226,
+      "log_frequency": 2.444044795918076
+    },
+    {
+      "log_rank": 2.290034611362518,
+      "log_frequency": 2.439332693830263
+    },
+    {
+      "log_rank": 2.292256071356476,
+      "log_frequency": 2.439332693830263
+    },
+    {
+      "log_rank": 2.294466226161593,
+      "log_frequency": 2.4345689040341987
+    },
+    {
+      "log_rank": 2.296665190261531,
+      "log_frequency": 2.432969290874406
+    },
+    {
+      "log_rank": 2.298853076409707,
+      "log_frequency": 2.429752280002408
+    },
+    {
+      "log_rank": 2.3010299956639813,
+      "log_frequency": 2.428134794028789
+    },
+    {
+      "log_rank": 2.303196057420489,
+      "log_frequency": 2.423245873936808
+    },
+    {
+      "log_rank": 2.305351369446624,
+      "log_frequency": 2.423245873936808
+    },
+    {
+      "log_rank": 2.307496037913213,
+      "log_frequency": 2.4216039268698313
+    },
+    {
+      "log_rank": 2.3096301674258988,
+      "log_frequency": 2.419955748489758
+    },
+    {
+      "log_rank": 2.311753861055754,
+      "log_frequency": 2.416640507338281
+    },
+    {
+      "log_rank": 2.3138672203691533,
+      "log_frequency": 2.416640507338281
+    },
+    {
+      "log_rank": 2.315970345456918,
+      "log_frequency": 2.416640507338281
+    },
+    {
+      "log_rank": 2.3180633349627615,
+      "log_frequency": 2.413299764081252
+    },
+    {
+      "log_rank": 2.320146286111054,
+      "log_frequency": 2.413299764081252
+    },
+    {
+      "log_rank": 2.322219294733919,
+      "log_frequency": 2.41161970596323
+    },
+    {
+      "log_rank": 2.3242824552976926,
+      "log_frequency": 2.4099331233312946
+    },
+    {
+      "log_rank": 2.3263358609287517,
+      "log_frequency": 2.4082399653118496
+    },
+    {
+      "log_rank": 2.3283796034387376,
+      "log_frequency": 2.4082399653118496
+    },
+    {
+      "log_rank": 2.330413773349191,
+      "log_frequency": 2.406540180433955
+    },
+    {
+      "log_rank": 2.3324384599156054,
+      "log_frequency": 2.404833716619938
+    },
+    {
+      "log_rank": 2.3344537511509307,
+      "log_frequency": 2.404833716619938
+    },
+    {
+      "log_rank": 2.3364597338485296,
+      "log_frequency": 2.399673721481038
+    },
+    {
+      "log_rank": 2.3384564936046046,
+      "log_frequency": 2.3944516808262164
+    },
+    {
+      "log_rank": 2.3404441148401185,
+      "log_frequency": 2.3891660843645326
+    },
+    {
+      "log_rank": 2.342422680822206,
+      "log_frequency": 2.3891660843645326
+    },
+    {
+      "log_rank": 2.3443922736851106,
+      "log_frequency": 2.383815365980431
+    },
+    {
+      "log_rank": 2.346352974450639,
+      "log_frequency": 2.3820170425748683
+    },
+    {
+      "log_rank": 2.3483048630481607,
+      "log_frequency": 2.3820170425748683
+    },
+    {
+      "log_rank": 2.3502480183341627,
+      "log_frequency": 2.380211241711606
+    },
+    {
+      "log_rank": 2.3521825181113627,
+      "log_frequency": 2.380211241711606
+    },
+    {
+      "log_rank": 2.3541084391474008,
+      "log_frequency": 2.380211241711606
+    },
+    {
+      "log_rank": 2.3560258571931225,
+      "log_frequency": 2.3783979009481375
+    },
+    {
+      "log_rank": 2.357934847000454,
+      "log_frequency": 2.3783979009481375
+    },
+    {
+      "log_rank": 2.359835482339888,
+      "log_frequency": 2.3710678622717363
+    },
+    {
+      "log_rank": 2.361727836017593,
+      "log_frequency": 2.3710678622717363
+    },
+    {
+      "log_rank": 2.3636119798921444,
+      "log_frequency": 2.369215857410143
+    },
+    {
+      "log_rank": 2.3654879848909,
+      "log_frequency": 2.369215857410143
+    },
+    {
+      "log_rank": 2.367355921026019,
+      "log_frequency": 2.369215857410143
+    },
+    {
+      "log_rank": 2.369215857410143,
+      "log_frequency": 2.3654879848909
+    },
+    {
+      "log_rank": 2.3710678622717363,
+      "log_frequency": 2.3636119798921444
+    },
+    {
+      "log_rank": 2.3729120029701067,
+      "log_frequency": 2.3636119798921444
+    },
+    {
+      "log_rank": 2.374748346010104,
+      "log_frequency": 2.361727836017593
+    },
+    {
+      "log_rank": 2.376576957056512,
+      "log_frequency": 2.359835482339888
+    },
+    {
+      "log_rank": 2.3783979009481375,
+      "log_frequency": 2.357934847000454
+    },
+    {
+      "log_rank": 2.380211241711606,
+      "log_frequency": 2.3560258571931225
+    },
+    {
+      "log_rank": 2.3820170425748683,
+      "log_frequency": 2.3560258571931225
+    },
+    {
+      "log_rank": 2.383815365980431,
+      "log_frequency": 2.3541084391474008
+    },
+    {
+      "log_rank": 2.385606273598312,
+      "log_frequency": 2.3541084391474008
+    },
+    {
+      "log_rank": 2.3873898263387296,
+      "log_frequency": 2.3541084391474008
+    },
+    {
+      "log_rank": 2.3891660843645326,
+      "log_frequency": 2.3541084391474008
+    },
+    {
+      "log_rank": 2.3909351071033793,
+      "log_frequency": 2.3541084391474008
+    },
+    {
+      "log_rank": 2.392696953259666,
+      "log_frequency": 2.3541084391474008
+    },
+    {
+      "log_rank": 2.3944516808262164,
+      "log_frequency": 2.3521825181113627
+    },
+    {
+      "log_rank": 2.3961993470957363,
+      "log_frequency": 2.3483048630481607
+    },
+    {
+      "log_rank": 2.3979400086720375,
+      "log_frequency": 2.342422680822206
+    },
+    {
+      "log_rank": 2.399673721481038,
+      "log_frequency": 2.3404441148401185
+    },
+    {
+      "log_rank": 2.401400540781544,
+      "log_frequency": 2.3364597338485296
+    },
+    {
+      "log_rank": 2.403120521175818,
+      "log_frequency": 2.3364597338485296
+    },
+    {
+      "log_rank": 2.404833716619938,
+      "log_frequency": 2.3364597338485296
+    },
+    {
+      "log_rank": 2.406540180433955,
+      "log_frequency": 2.3324384599156054
+    },
+    {
+      "log_rank": 2.4082399653118496,
+      "log_frequency": 2.3324384599156054
+    },
+    {
+      "log_rank": 2.4099331233312946,
+      "log_frequency": 2.330413773349191
+    },
+    {
+      "log_rank": 2.41161970596323,
+      "log_frequency": 2.3283796034387376
+    },
+    {
+      "log_rank": 2.413299764081252,
+      "log_frequency": 2.322219294733919
+    },
+    {
+      "log_rank": 2.4149733479708178,
+      "log_frequency": 2.322219294733919
+    },
+    {
+      "log_rank": 2.416640507338281,
+      "log_frequency": 2.3180633349627615
+    },
+    {
+      "log_rank": 2.4183012913197452,
+      "log_frequency": 2.315970345456918
+    },
+    {
+      "log_rank": 2.419955748489758,
+      "log_frequency": 2.3138672203691533
+    },
+    {
+      "log_rank": 2.4216039268698313,
+      "log_frequency": 2.3096301674258988
+    },
+    {
+      "log_rank": 2.423245873936808,
+      "log_frequency": 2.303196057420489
+    },
+    {
+      "log_rank": 2.424881636631067,
+      "log_frequency": 2.303196057420489
+    },
+    {
+      "log_rank": 2.4265112613645754,
+      "log_frequency": 2.3010299956639813
+    },
+    {
+      "log_rank": 2.428134794028789,
+      "log_frequency": 2.3010299956639813
+    },
+    {
+      "log_rank": 2.429752280002408,
+      "log_frequency": 2.298853076409707
+    },
+    {
+      "log_rank": 2.4313637641589874,
+      "log_frequency": 2.296665190261531
+    },
+    {
+      "log_rank": 2.432969290874406,
+      "log_frequency": 2.296665190261531
+    },
+    {
+      "log_rank": 2.4345689040341987,
+      "log_frequency": 2.296665190261531
+    },
+    {
+      "log_rank": 2.436162647040756,
+      "log_frequency": 2.292256071356476
+    },
+    {
+      "log_rank": 2.437750562820388,
+      "log_frequency": 2.287801729930226
+    },
+    {
+      "log_rank": 2.439332693830263,
+      "log_frequency": 2.285557309007774
+    },
+    {
+      "log_rank": 2.4409090820652177,
+      "log_frequency": 2.2810333672477277
+    },
+    {
+      "log_rank": 2.4424797690644486,
+      "log_frequency": 2.2810333672477277
+    },
+    {
+      "log_rank": 2.444044795918076,
+      "log_frequency": 2.2810333672477277
+    },
+    {
+      "log_rank": 2.4456042032735974,
+      "log_frequency": 2.278753600952829
+    },
+    {
+      "log_rank": 2.4471580313422194,
+      "log_frequency": 2.278753600952829
+    },
+    {
+      "log_rank": 2.44870631990508,
+      "log_frequency": 2.278753600952829
+    },
+    {
+      "log_rank": 2.450249108319361,
+      "log_frequency": 2.278753600952829
+    },
+    {
+      "log_rank": 2.45178643552429,
+      "log_frequency": 2.2764618041732443
+    },
+    {
+      "log_rank": 2.4533183400470375,
+      "log_frequency": 2.27415784926368
+    },
+    {
+      "log_rank": 2.45484486000851,
+      "log_frequency": 2.27415784926368
+    },
+    {
+      "log_rank": 2.456366033129043,
+      "log_frequency": 2.271841606536499
+    },
+    {
+      "log_rank": 2.4578818967339924,
+      "log_frequency": 2.2695129442179165
+    },
+    {
+      "log_rank": 2.459392487759231,
+      "log_frequency": 2.2695129442179165
+    },
+    {
+      "log_rank": 2.4608978427565478,
+      "log_frequency": 2.2671717284030137
+    },
+    {
+      "log_rank": 2.462397997898956,
+      "log_frequency": 2.2671717284030137
+    },
+    {
+      "log_rank": 2.4638929889859074,
+      "log_frequency": 2.2671717284030137
+    },
+    {
+      "log_rank": 2.4653828514484184,
+      "log_frequency": 2.2624510897304293
+    },
+    {
+      "log_rank": 2.4668676203541096,
+      "log_frequency": 2.2600713879850747
+    },
+    {
+      "log_rank": 2.4683473304121573,
+      "log_frequency": 2.2576785748691846
+    },
+    {
+      "log_rank": 2.469822015978163,
+      "log_frequency": 2.2528530309798933
+    },
+    {
+      "log_rank": 2.4712917110589387,
+      "log_frequency": 2.2528530309798933
+    },
+    {
+      "log_rank": 2.4727564493172123,
+      "log_frequency": 2.250420002308894
+    },
+    {
+      "log_rank": 2.4742162640762553,
+      "log_frequency": 2.2479732663618064
+    },
+    {
+      "log_rank": 2.4756711883244296,
+      "log_frequency": 2.24551266781415
+    },
+    {
+      "log_rank": 2.4771212547196626,
+      "log_frequency": 2.2430380486862944
+    },
+    {
+      "log_rank": 2.478566495593843,
+      "log_frequency": 2.2430380486862944
+    },
+    {
+      "log_rank": 2.4800069429571505,
+      "log_frequency": 2.2405492482825995
+    },
+    {
+      "log_rank": 2.481442628502305,
+      "log_frequency": 2.2405492482825995
+    },
+    {
+      "log_rank": 2.482873583608754,
+      "log_frequency": 2.2405492482825995
+    },
+    {
+      "log_rank": 2.484299839346786,
+      "log_frequency": 2.2380461031287955
+    },
+    {
+      "log_rank": 2.48572142648158,
+      "log_frequency": 2.2355284469075487
+    },
+    {
+      "log_rank": 2.4871383754771865,
+      "log_frequency": 2.2329961103921536
+    },
+    {
+      "log_rank": 2.4885507165004443,
+      "log_frequency": 2.2329961103921536
+    },
+    {
+      "log_rank": 2.4899584794248346,
+      "log_frequency": 2.2329961103921536
+    },
+    {
+      "log_rank": 2.4913616938342726,
+      "log_frequency": 2.230448921378274
+    },
+    {
+      "log_rank": 2.4927603890268375,
+      "log_frequency": 2.230448921378274
+    },
+    {
+      "log_rank": 2.494154594018443,
+      "log_frequency": 2.225309281725863
+    },
+    {
+      "log_rank": 2.4955443375464483,
+      "log_frequency": 2.225309281725863
+    },
+    {
+      "log_rank": 2.496929648073215,
+      "log_frequency": 2.2227164711475833
+    },
+    {
+      "log_rank": 2.4983105537896004,
+      "log_frequency": 2.2227164711475833
+    },
+    {
+      "log_rank": 2.499687082618404,
+      "log_frequency": 2.2227164711475833
+    },
+    {
+      "log_rank": 2.5010592622177517,
+      "log_frequency": 2.2227164711475833
+    },
+    {
+      "log_rank": 2.5024271199844326,
+      "log_frequency": 2.2227164711475833
+    },
+    {
+      "log_rank": 2.503790683057181,
+      "log_frequency": 2.2227164711475833
+    },
+    {
+      "log_rank": 2.505149978319906,
+      "log_frequency": 2.2227164711475833
+    },
+    {
+      "log_rank": 2.506505032404872,
+      "log_frequency": 2.220108088040055
+    },
+    {
+      "log_rank": 2.507855871695831,
+      "log_frequency": 2.220108088040055
+    },
+    {
+      "log_rank": 2.509202522331103,
+      "log_frequency": 2.220108088040055
+    },
+    {
+      "log_rank": 2.510545010206612,
+      "log_frequency": 2.220108088040055
+    },
+    {
+      "log_rank": 2.5118833609788744,
+      "log_frequency": 2.2174839442139063
+    },
+    {
+      "log_rank": 2.513217600067939,
+      "log_frequency": 2.214843848047698
+    },
+    {
+      "log_rank": 2.514547752660286,
+      "log_frequency": 2.214843848047698
+    },
+    {
+      "log_rank": 2.515873843711679,
+      "log_frequency": 2.214843848047698
+    },
+    {
+      "log_rank": 2.5171958979499744,
+      "log_frequency": 2.214843848047698
+    },
+    {
+      "log_rank": 2.5185139398778875,
+      "log_frequency": 2.214843848047698
+    },
+    {
+      "log_rank": 2.519827993775719,
+      "log_frequency": 2.214843848047698
+    },
+    {
+      "log_rank": 2.5211380837040362,
+      "log_frequency": 2.2121876044039577
+    },
+    {
+      "log_rank": 2.5224442335063197,
+      "log_frequency": 2.2121876044039577
+    },
+    {
+      "log_rank": 2.5237464668115646,
+      "log_frequency": 2.2121876044039577
+    },
+    {
+      "log_rank": 2.525044807036845,
+      "log_frequency": 2.2095150145426308
+    },
+    {
+      "log_rank": 2.526339277389844,
+      "log_frequency": 2.2095150145426308
+    },
+    {
+      "log_rank": 2.5276299008713385,
+      "log_frequency": 2.2095150145426308
+    },
+    {
+      "log_rank": 2.5289167002776547,
+      "log_frequency": 2.2095150145426308
+    },
+    {
+      "log_rank": 2.530199698203082,
+      "log_frequency": 2.2068258760318495
+    },
+    {
+      "log_rank": 2.531478917042255,
+      "log_frequency": 2.2068258760318495
+    },
+    {
+      "log_rank": 2.5327543789924976,
+      "log_frequency": 2.2068258760318495
+    },
+    {
+      "log_rank": 2.534026106056135,
+      "log_frequency": 2.2068258760318495
+    },
+    {
+      "log_rank": 2.5352941200427703,
+      "log_frequency": 2.204119982655925
+    },
+    {
+      "log_rank": 2.53655844257153,
+      "log_frequency": 2.204119982655925
+    },
+    {
+      "log_rank": 2.537819095073274,
+      "log_frequency": 2.2013971243204513
+    },
+    {
+      "log_rank": 2.5390760987927767,
+      "log_frequency": 2.1986570869544226
+    },
+    {
+      "log_rank": 2.5403294747908736,
+      "log_frequency": 2.1958996524092336
+    },
+    {
+      "log_rank": 2.5415792439465807,
+      "log_frequency": 2.1958996524092336
+    },
+    {
+      "log_rank": 2.5428254269591797,
+      "log_frequency": 2.1958996524092336
+    },
+    {
+      "log_rank": 2.5440680443502757,
+      "log_frequency": 2.1931245983544616
+    },
+    {
+      "log_rank": 2.545307116465824,
+      "log_frequency": 2.1903316981702914
+    },
+    {
+      "log_rank": 2.546542663478131,
+      "log_frequency": 2.1903316981702914
+    },
+    {
+      "log_rank": 2.5477747053878224,
+      "log_frequency": 2.184691430817599
+    },
+    {
+      "log_rank": 2.5490032620257876,
+      "log_frequency": 2.184691430817599
+    },
+    {
+      "log_rank": 2.550228353055094,
+      "log_frequency": 2.184691430817599
+    },
+    {
+      "log_rank": 2.5514499979728753,
+      "log_frequency": 2.184691430817599
+    },
+    {
+      "log_rank": 2.552668216112193,
+      "log_frequency": 2.1818435879447726
+    },
+    {
+      "log_rank": 2.5538830266438746,
+      "log_frequency": 2.1818435879447726
+    },
+    {
+      "log_rank": 2.5550944485783194,
+      "log_frequency": 2.1818435879447726
+    },
+    {
+      "log_rank": 2.5563025007672873,
+      "log_frequency": 2.1789769472931693
+    },
+    {
+      "log_rank": 2.5575072019056577,
+      "log_frequency": 2.173186268412274
+    },
+    {
+      "log_rank": 2.558708570533166,
+      "log_frequency": 2.1702617153949575
+    },
+    {
+      "log_rank": 2.5599066250361124,
+      "log_frequency": 2.164352855784437
+    },
+    {
+      "log_rank": 2.561101383649056,
+      "log_frequency": 2.164352855784437
+    },
+    {
+      "log_rank": 2.5622928644564746,
+      "log_frequency": 2.161368002234975
+    },
+    {
+      "log_rank": 2.5634810853944106,
+      "log_frequency": 2.161368002234975
+    },
+    {
+      "log_rank": 2.5646660642520893,
+      "log_frequency": 2.1583624920952498
+    },
+    {
+      "log_rank": 2.5658478186735176,
+      "log_frequency": 2.1583624920952498
+    },
+    {
+      "log_rank": 2.56702636615906,
+      "log_frequency": 2.155336037465062
+    },
+    {
+      "log_rank": 2.568201724066995,
+      "log_frequency": 2.1492191126553797
+    },
+    {
+      "log_rank": 2.569373909615046,
+      "log_frequency": 2.146128035678238
+    },
+    {
+      "log_rank": 2.5705429398818973,
+      "log_frequency": 2.143014800254095
+    },
+    {
+      "log_rank": 2.571708831808688,
+      "log_frequency": 2.143014800254095
+    },
+    {
+      "log_rank": 2.5728716022004803,
+      "log_frequency": 2.143014800254095
+    },
+    {
+      "log_rank": 2.574031267727719,
+      "log_frequency": 2.143014800254095
+    },
+    {
+      "log_rank": 2.575187844927661,
+      "log_frequency": 2.143014800254095
+    },
+    {
+      "log_rank": 2.576341350205793,
+      "log_frequency": 2.143014800254095
+    },
+    {
+      "log_rank": 2.577491799837225,
+      "log_frequency": 2.143014800254095
+    },
+    {
+      "log_rank": 2.578639209968072,
+      "log_frequency": 2.1398790864012365
+    },
+    {
+      "log_rank": 2.57978359661681,
+      "log_frequency": 2.1367205671564067
+    },
+    {
+      "log_rank": 2.5809249756756194,
+      "log_frequency": 2.1367205671564067
+    },
+    {
+      "log_rank": 2.582063362911709,
+      "log_frequency": 2.1335389083702174
+    },
+    {
+      "log_rank": 2.583198773968623,
+      "log_frequency": 2.1335389083702174
+    },
+    {
+      "log_rank": 2.584331224367531,
+      "log_frequency": 2.130333768495006
+    },
+    {
+      "log_rank": 2.5854607295085006,
+      "log_frequency": 2.130333768495006
+    },
+    {
+      "log_rank": 2.586587304671755,
+      "log_frequency": 2.130333768495006
+    },
+    {
+      "log_rank": 2.5877109650189114,
+      "log_frequency": 2.130333768495006
+    },
+    {
+      "log_rank": 2.5888317255942073,
+      "log_frequency": 2.1271047983648077
+    },
+    {
+      "log_rank": 2.5899496013257077,
+      "log_frequency": 2.1271047983648077
+    },
+    {
+      "log_rank": 2.591064607026499,
+      "log_frequency": 2.1271047983648077
+    },
+    {
+      "log_rank": 2.5921767573958667,
+      "log_frequency": 2.1271047983648077
+    },
+    {
+      "log_rank": 2.593286067020457,
+      "log_frequency": 2.123851640967086
+    },
+    {
+      "log_rank": 2.5943925503754266,
+      "log_frequency": 2.123851640967086
+    },
+    {
+      "log_rank": 2.595496221825574,
+      "log_frequency": 2.123851640967086
+    },
+    {
+      "log_rank": 2.59659709562646,
+      "log_frequency": 2.123851640967086
+    },
+    {
+      "log_rank": 2.597695185925512,
+      "log_frequency": 2.123851640967086
+    },
+    {
+      "log_rank": 2.598790506763115,
+      "log_frequency": 2.123851640967086
+    },
+    {
+      "log_rank": 2.5998830720736876,
+      "log_frequency": 2.123851640967086
+    },
+    {
+      "log_rank": 2.6009728956867484,
+      "log_frequency": 2.12057393120585
+    },
+    {
+      "log_rank": 2.6020599913279625,
+      "log_frequency": 2.12057393120585
+    },
+    {
+      "log_rank": 2.603144372620182,
+      "log_frequency": 2.12057393120585
+    },
+    {
+      "log_rank": 2.60422605308447,
+      "log_frequency": 2.1172712956557644
+    },
+    {
+      "log_rank": 2.6053050461411096,
+      "log_frequency": 2.1172712956557644
+    },
+    {
+      "log_rank": 2.606381365110605,
+      "log_frequency": 2.113943352306837
+    },
+    {
+      "log_rank": 2.6074550232146687,
+      "log_frequency": 2.113943352306837
+    },
+    {
+      "log_rank": 2.6085260335771943,
+      "log_frequency": 2.113943352306837
+    },
+    {
+      "log_rank": 2.60959440922522,
+      "log_frequency": 2.113943352306837
+    },
+    {
+      "log_rank": 2.61066016308988,
+      "log_frequency": 2.110589710299249
+    },
+    {
+      "log_rank": 2.611723308007342,
+      "log_frequency": 2.110589710299249
+    },
+    {
+      "log_rank": 2.6127838567197355,
+      "log_frequency": 2.110589710299249
+    },
+    {
+      "log_rank": 2.6138418218760693,
+      "log_frequency": 2.110589710299249
+    },
+    {
+      "log_rank": 2.6148972160331345,
+      "log_frequency": 2.110589710299249
+    },
+    {
+      "log_rank": 2.615950051656401,
+      "log_frequency": 2.1072099696478683
+    },
+    {
+      "log_rank": 2.617000341120899,
+      "log_frequency": 2.1072099696478683
+    },
+    {
+      "log_rank": 2.6180480967120925,
+      "log_frequency": 2.1072099696478683
+    },
+    {
+      "log_rank": 2.6190933306267428,
+      "log_frequency": 2.1072099696478683
+    },
+    {
+      "log_rank": 2.6201360549737576,
+      "log_frequency": 2.103803720955957
+    },
+    {
+      "log_rank": 2.621176281775035,
+      "log_frequency": 2.103803720955957
+    },
+    {
+      "log_rank": 2.622214022966295,
+      "log_frequency": 2.103803720955957
+    },
+    {
+      "log_rank": 2.6232492903979003,
+      "log_frequency": 2.103803720955957
+    },
+    {
+      "log_rank": 2.6242820958356683,
+      "log_frequency": 2.103803720955957
+    },
+    {
+      "log_rank": 2.625312450961674,
+      "log_frequency": 2.100370545117563
+    },
+    {
+      "log_rank": 2.6263403673750423,
+      "log_frequency": 2.100370545117563
+    },
+    {
+      "log_rank": 2.6273658565927325,
+      "log_frequency": 2.100370545117563
+    },
+    {
+      "log_rank": 2.6283889300503116,
+      "log_frequency": 2.100370545117563
+    },
+    {
+      "log_rank": 2.629409599102719,
+      "log_frequency": 2.100370545117563
+    },
+    {
+      "log_rank": 2.630427875025024,
+      "log_frequency": 2.0969100130080562
+    },
+    {
+      "log_rank": 2.6314437690131722,
+      "log_frequency": 2.0969100130080562
+    },
+    {
+      "log_rank": 2.632457292184724,
+      "log_frequency": 2.0969100130080562
+    },
+    {
+      "log_rank": 2.6334684555795866,
+      "log_frequency": 2.0969100130080562
+    },
+    {
+      "log_rank": 2.6344772701607315,
+      "log_frequency": 2.0969100130080562
+    },
+    {
+      "log_rank": 2.635483746814912,
+      "log_frequency": 2.0969100130080562
+    },
+    {
+      "log_rank": 2.6364878963533656,
+      "log_frequency": 2.0969100130080562
+    },
+    {
+      "log_rank": 2.637489729512511,
+      "log_frequency": 2.093421685162235
+    },
+    {
+      "log_rank": 2.6384892569546374,
+      "log_frequency": 2.093421685162235
+    },
+    {
+      "log_rank": 2.639486489268586,
+      "log_frequency": 2.093421685162235
+    },
+    {
+      "log_rank": 2.640481436970422,
+      "log_frequency": 2.093421685162235
+    },
+    {
+      "log_rank": 2.6414741105040993,
+      "log_frequency": 2.093421685162235
+    },
+    {
+      "log_rank": 2.6424645202421213,
+      "log_frequency": 2.089905111439398
+    },
+    {
+      "log_rank": 2.6434526764861874,
+      "log_frequency": 2.089905111439398
+    },
+    {
+      "log_rank": 2.6444385894678386,
+      "log_frequency": 2.089905111439398
+    },
+    {
+      "log_rank": 2.645422269349092,
+      "log_frequency": 2.089905111439398
+    },
+    {
+      "log_rank": 2.6464037262230695,
+      "log_frequency": 2.089905111439398
+    },
+    {
+      "log_rank": 2.6473829701146196,
+      "log_frequency": 2.089905111439398
+    },
+    {
+      "log_rank": 2.6483600109809315,
+      "log_frequency": 2.0863598306747484
+    },
+    {
+      "log_rank": 2.649334858712142,
+      "log_frequency": 2.0863598306747484
+    },
+    {
+      "log_rank": 2.6503075231319366,
+      "log_frequency": 2.0863598306747484
+    },
+    {
+      "log_rank": 2.651278013998144,
+      "log_frequency": 2.0863598306747484
+    },
+    {
+      "log_rank": 2.6522463410033232,
+      "log_frequency": 2.08278537031645
+    },
+    {
+      "log_rank": 2.6532125137753435,
+      "log_frequency": 2.08278537031645
+    },
+    {
+      "log_rank": 2.6541765418779604,
+      "log_frequency": 2.08278537031645
+    },
+    {
+      "log_rank": 2.655138434811382,
+      "log_frequency": 2.08278537031645
+    },
+    {
+      "log_rank": 2.656098202012832,
+      "log_frequency": 2.0791812460476247
+    },
+    {
+      "log_rank": 2.6570558528571038,
+      "log_frequency": 2.0791812460476247
+    },
+    {
+      "log_rank": 2.6580113966571126,
+      "log_frequency": 2.0791812460476247
+    },
+    {
+      "log_rank": 2.6589648426644352,
+      "log_frequency": 2.075546961392531
+    },
+    {
+      "log_rank": 2.6599162000698504,
+      "log_frequency": 2.075546961392531
+    },
+    {
+      "log_rank": 2.660865478003869,
+      "log_frequency": 2.075546961392531
+    },
+    {
+      "log_rank": 2.661812685537261,
+      "log_frequency": 2.075546961392531
+    },
+    {
+      "log_rank": 2.6627578316815743,
+      "log_frequency": 2.075546961392531
+    },
+    {
+      "log_rank": 2.663700925389648,
+      "log_frequency": 2.0718820073061255
+    },
+    {
+      "log_rank": 2.6646419755561257,
+      "log_frequency": 2.0718820073061255
+    },
+    {
+      "log_rank": 2.6655809910179533,
+      "log_frequency": 2.0718820073061255
+    },
+    {
+      "log_rank": 2.6665179805548807,
+      "log_frequency": 2.0681858617461617
+    },
+    {
+      "log_rank": 2.667452952889954,
+      "log_frequency": 2.0681858617461617
+    },
+    {
+      "log_rank": 2.66838591669,
+      "log_frequency": 2.0681858617461617
+    },
+    {
+      "log_rank": 2.6693168805661123,
+      "log_frequency": 2.0681858617461617
+    },
+    {
+      "log_rank": 2.670245853074124,
+      "log_frequency": 2.0681858617461617
+    },
+    {
+      "log_rank": 2.6711728427150834,
+      "log_frequency": 2.0681858617461617
+    },
+    {
+      "log_rank": 2.6720978579357175,
+      "log_frequency": 2.0681858617461617
+    },
+    {
+      "log_rank": 2.673020907128896,
+      "log_frequency": 2.0644579892269186
+    },
+    {
+      "log_rank": 2.673941998634088,
+      "log_frequency": 2.0644579892269186
+    },
+    {
+      "log_rank": 2.6748611407378116,
+      "log_frequency": 2.0644579892269186
+    },
+    {
+      "log_rank": 2.6757783416740852,
+      "log_frequency": 2.0644579892269186
+    },
+    {
+      "log_rank": 2.6766936096248664,
+      "log_frequency": 2.060697840353612
+    },
+    {
+      "log_rank": 2.677606952720493,
+      "log_frequency": 2.060697840353612
+    },
+    {
+      "log_rank": 2.678518379040114,
+      "log_frequency": 2.060697840353612
+    },
+    {
+      "log_rank": 2.6794278966121188,
+      "log_frequency": 2.060697840353612
+    },
+    {
+      "log_rank": 2.680335513414563,
+      "log_frequency": 2.060697840353612
+    },
+    {
+      "log_rank": 2.681241237375587,
+      "log_frequency": 2.0569048513364727
+    },
+    {
+      "log_rank": 2.682145076373832,
+      "log_frequency": 2.0569048513364727
+    },
+    {
+      "log_rank": 2.6830470382388496,
+      "log_frequency": 2.0569048513364727
+    },
+    {
+      "log_rank": 2.683947130751512,
+      "log_frequency": 2.0569048513364727
+    },
+    {
+      "log_rank": 2.6848453616444123,
+      "log_frequency": 2.05307844348342
+    },
+    {
+      "log_rank": 2.6857417386022635,
+      "log_frequency": 2.0492180226701815
+    },
+    {
+      "log_rank": 2.6866362692622934,
+      "log_frequency": 2.0492180226701815
+    },
+    {
+      "log_rank": 2.6875289612146345,
+      "log_frequency": 2.0492180226701815
+    },
+    {
+      "log_rank": 2.6884198220027105,
+      "log_frequency": 2.0492180226701815
+    },
+    {
+      "log_rank": 2.6893088591236203,
+      "log_frequency": 2.0492180226701815
+    },
+    {
+      "log_rank": 2.690196080028514,
+      "log_frequency": 2.0492180226701815
+    },
+    {
+      "log_rank": 2.6910814921229687,
+      "log_frequency": 2.0492180226701815
+    },
+    {
+      "log_rank": 2.6919651027673606,
+      "log_frequency": 2.0492180226701815
+    },
+    {
+      "log_rank": 2.69284691927723,
+      "log_frequency": 2.0492180226701815
+    },
+    {
+      "log_rank": 2.693726948923647,
+      "log_frequency": 2.0492180226701815
+    },
+    {
+      "log_rank": 2.694605198933569,
+      "log_frequency": 2.0453229787866576
+    },
+    {
+      "log_rank": 2.6954816764901977,
+      "log_frequency": 2.0453229787866576
+    },
+    {
+      "log_rank": 2.6963563887333324,
+      "log_frequency": 2.041392685158225
+    },
+    {
+      "log_rank": 2.6972293427597176,
+      "log_frequency": 2.041392685158225
+    },
+    {
+      "log_rank": 2.6981005456233897,
+      "log_frequency": 2.041392685158225
+    },
+    {
+      "log_rank": 2.6989700043360187,
+      "log_frequency": 2.037426497940624
+    },
+    {
+      "log_rank": 2.699837725867246,
+      "log_frequency": 2.037426497940624
+    },
+    {
+      "log_rank": 2.7007037171450192,
+      "log_frequency": 2.037426497940624
+    },
+    {
+      "log_rank": 2.7015679850559273,
+      "log_frequency": 2.03342375548695
+    },
+    {
+      "log_rank": 2.7024305364455254,
+      "log_frequency": 2.03342375548695
+    },
+    {
+      "log_rank": 2.7032913781186614,
+      "log_frequency": 2.03342375548695
+    },
+    {
+      "log_rank": 2.7041505168397992,
+      "log_frequency": 2.03342375548695
+    },
+    {
+      "log_rank": 2.705007959333336,
+      "log_frequency": 2.0293837776852097
+    },
+    {
+      "log_rank": 2.7058637122839193,
+      "log_frequency": 2.0293837776852097
+    },
+    {
+      "log_rank": 2.7067177823367587,
+      "log_frequency": 2.0253058652647704
+    },
+    {
+      "log_rank": 2.7075701760979363,
+      "log_frequency": 2.0253058652647704
+    },
+    {
+      "log_rank": 2.708420900134713,
+      "log_frequency": 2.0253058652647704
+    },
+    {
+      "log_rank": 2.709269960975831,
+      "log_frequency": 2.0211892990699383
+    },
+    {
+      "log_rank": 2.7101173651118162,
+      "log_frequency": 2.0211892990699383
+    },
+    {
+      "log_rank": 2.710963118995276,
+      "log_frequency": 2.0170333392987803
+    },
+    {
+      "log_rank": 2.711807229041191,
+      "log_frequency": 2.0170333392987803
+    },
+    {
+      "log_rank": 2.7126497016272113,
+      "log_frequency": 2.0170333392987803
+    },
+    {
+      "log_rank": 2.7134905430939424,
+      "log_frequency": 2.0170333392987803
+    },
+    {
+      "log_rank": 2.714329759745233,
+      "log_frequency": 2.0170333392987803
+    },
+    {
+      "log_rank": 2.7151673578484576,
+      "log_frequency": 2.0170333392987803
+    },
+    {
+      "log_rank": 2.716003343634799,
+      "log_frequency": 2.012837224705172
+    },
+    {
+      "log_rank": 2.7168377232995247,
+      "log_frequency": 2.012837224705172
+    },
+    {
+      "log_rank": 2.717670503002262,
+      "log_frequency": 2.012837224705172
+    },
+    {
+      "log_rank": 2.718501688867274,
+      "log_frequency": 2.012837224705172
+    },
+    {
+      "log_rank": 2.7193312869837265,
+      "log_frequency": 2.012837224705172
+    },
+    {
+      "log_rank": 2.720159303405957,
+      "log_frequency": 2.012837224705172
+    },
+    {
+      "log_rank": 2.7209857441537393,
+      "log_frequency": 2.012837224705172
+    },
+    {
+      "log_rank": 2.7218106152125467,
+      "log_frequency": 2.0086001717619175
+    },
+    {
+      "log_rank": 2.722633922533812,
+      "log_frequency": 2.0086001717619175
+    },
+    {
+      "log_rank": 2.7234556720351857,
+      "log_frequency": 2.0086001717619175
+    },
+    {
+      "log_rank": 2.724275869600789,
+      "log_frequency": 2.0086001717619175
+    },
+    {
+      "log_rank": 2.725094521081469,
+      "log_frequency": 2.0086001717619175
+    },
+    {
+      "log_rank": 2.7259116322950483,
+      "log_frequency": 2.0086001717619175
+    },
+    {
+      "log_rank": 2.7267272090265724,
+      "log_frequency": 2.0043213737826426
+    },
+    {
+      "log_rank": 2.727541257028556,
+      "log_frequency": 2.0043213737826426
+    },
+    {
+      "log_rank": 2.7283537820212285,
+      "log_frequency": 2.0043213737826426
+    },
+    {
+      "log_rank": 2.72916478969277,
+      "log_frequency": 2.0043213737826426
+    },
+    {
+      "log_rank": 2.7299742856995555,
+      "log_frequency": 2.0043213737826426
+    },
+    {
+      "log_rank": 2.7307822756663893,
+      "log_frequency": 2.0
+    },
+    {
+      "log_rank": 2.7315887651867388,
+      "log_frequency": 2.0
+    },
+    {
+      "log_rank": 2.7323937598229686,
+      "log_frequency": 2.0
+    },
+    {
+      "log_rank": 2.7331972651065692,
+      "log_frequency": 2.0
+    },
+    {
+      "log_rank": 2.733999286538387,
+      "log_frequency": 2.0
+    },
+    {
+      "log_rank": 2.734799829588847,
+      "log_frequency": 2.0
+    },
+    {
+      "log_rank": 2.73559889969818,
+      "log_frequency": 1.99563519459755
+    },
+    {
+      "log_rank": 2.7363965022766426,
+      "log_frequency": 1.99563519459755
+    },
+    {
+      "log_rank": 2.7371926427047373,
+      "log_frequency": 1.99563519459755
+    },
+    {
+      "log_rank": 2.737987326333431,
+      "log_frequency": 1.99563519459755
+    },
+    {
+      "log_rank": 2.738780558484369,
+      "log_frequency": 1.99563519459755
+    },
+    {
+      "log_rank": 2.739572344450092,
+      "log_frequency": 1.99563519459755
+    },
+    {
+      "log_rank": 2.7403626894942437,
+      "log_frequency": 1.99563519459755
+    },
+    {
+      "log_rank": 2.741151598851785,
+      "log_frequency": 1.99563519459755
+    },
+    {
+      "log_rank": 2.741939077729199,
+      "log_frequency": 1.9912260756924949
+    },
+    {
+      "log_rank": 2.7427251313046983,
+      "log_frequency": 1.9912260756924949
+    },
+    {
+      "log_rank": 2.74350976472843,
+      "log_frequency": 1.9912260756924949
+    },
+    {
+      "log_rank": 2.7442929831226763,
+      "log_frequency": 1.9867717342662448
+    },
+    {
+      "log_rank": 2.7450747915820575,
+      "log_frequency": 1.9867717342662448
+    },
+    {
+      "log_rank": 2.745855195173729,
+      "log_frequency": 1.9867717342662448
+    },
+    {
+      "log_rank": 2.7466341989375787,
+      "log_frequency": 1.9867717342662448
+    },
+    {
+      "log_rank": 2.747411807886423,
+      "log_frequency": 1.9867717342662448
+    },
+    {
+      "log_rank": 2.7481880270062002,
+      "log_frequency": 1.9822712330395684
+    },
+    {
+      "log_rank": 2.748962861256161,
+      "log_frequency": 1.9822712330395684
+    },
+    {
+      "log_rank": 2.749736315569061,
+      "log_frequency": 1.9822712330395684
+    },
+    {
+      "log_rank": 2.7505083948513462,
+      "log_frequency": 1.9822712330395684
+    },
+    {
+      "log_rank": 2.751279103983342,
+      "log_frequency": 1.9822712330395684
+    },
+    {
+      "log_rank": 2.7520484478194387,
+      "log_frequency": 1.9822712330395684
+    },
+    {
+      "log_rank": 2.7528164311882715,
+      "log_frequency": 1.9777236052888478
+    },
+    {
+      "log_rank": 2.7535830588929064,
+      "log_frequency": 1.9777236052888478
+    },
+    {
+      "log_rank": 2.754348335711019,
+      "log_frequency": 1.9777236052888478
+    },
+    {
+      "log_rank": 2.7551122663950713,
+      "log_frequency": 1.9777236052888478
+    },
+    {
+      "log_rank": 2.7558748556724915,
+      "log_frequency": 1.9777236052888478
+    },
+    {
+      "log_rank": 2.756636108245848,
+      "log_frequency": 1.9731278535996986
+    },
+    {
+      "log_rank": 2.7573960287930244,
+      "log_frequency": 1.9731278535996986
+    },
+    {
+      "log_rank": 2.75815462196739,
+      "log_frequency": 1.9731278535996986
+    },
+    {
+      "log_rank": 2.7589118923979736,
+      "log_frequency": 1.9731278535996986
+    },
+    {
+      "log_rank": 2.7596678446896306,
+      "log_frequency": 1.968482948553935
+    },
+    {
+      "log_rank": 2.760422483423212,
+      "log_frequency": 1.968482948553935
+    },
+    {
+      "log_rank": 2.7611758131557314,
+      "log_frequency": 1.968482948553935
+    },
+    {
+      "log_rank": 2.761927838420529,
+      "log_frequency": 1.9637878273455553
+    },
+    {
+      "log_rank": 2.762678563727436,
+      "log_frequency": 1.9637878273455553
+    },
+    {
+      "log_rank": 2.7634279935629373,
+      "log_frequency": 1.9637878273455553
+    },
+    {
+      "log_rank": 2.7641761323903307,
+      "log_frequency": 1.9637878273455553
+    },
+    {
+      "log_rank": 2.7649229846498886,
+      "log_frequency": 1.9637878273455553
+    },
+    {
+      "log_rank": 2.765668554759014,
+      "log_frequency": 1.9637878273455553
+    },
+    {
+      "log_rank": 2.7664128471123997,
+      "log_frequency": 1.9637878273455553
+    },
+    {
+      "log_rank": 2.7671558660821804,
+      "log_frequency": 1.9590413923210936
+    },
+    {
+      "log_rank": 2.767897616018091,
+      "log_frequency": 1.9590413923210936
+    },
+    {
+      "log_rank": 2.7686381012476144,
+      "log_frequency": 1.9590413923210936
+    },
+    {
+      "log_rank": 2.7693773260761385,
+      "log_frequency": 1.9590413923210936
+    },
+    {
+      "log_rank": 2.7701152947871015,
+      "log_frequency": 1.9590413923210936
+    },
+    {
+      "log_rank": 2.7708520116421442,
+      "log_frequency": 1.9590413923210936
+    },
+    {
+      "log_rank": 2.7715874808812555,
+      "log_frequency": 1.9590413923210936
+    },
+    {
+      "log_rank": 2.77232170672292,
+      "log_frequency": 1.9542425094393248
+    },
+    {
+      "log_rank": 2.7730546933642626,
+      "log_frequency": 1.9542425094393248
+    },
+    {
+      "log_rank": 2.7737864449811935,
+      "log_frequency": 1.9542425094393248
+    },
+    {
+      "log_rank": 2.7745169657285498,
+      "log_frequency": 1.9493900066449128
+    },
+    {
+      "log_rank": 2.7752462597402365,
+      "log_frequency": 1.9493900066449128
+    },
+    {
+      "log_rank": 2.775974331129369,
+      "log_frequency": 1.9493900066449128
+    },
+    {
+      "log_rank": 2.776701183988411,
+      "log_frequency": 1.9444826721501687
+    },
+    {
+      "log_rank": 2.7774268223893115,
+      "log_frequency": 1.9444826721501687
+    },
+    {
+      "log_rank": 2.7781512503836434,
+      "log_frequency": 1.9444826721501687
+    },
+    {
+      "log_rank": 2.7788744720027396,
+      "log_frequency": 1.9444826721501687
+    },
+    {
+      "log_rank": 2.7795964912578244,
+      "log_frequency": 1.9395192526186185
+    },
+    {
+      "log_rank": 2.780317312140151,
+      "log_frequency": 1.9395192526186185
+    },
+    {
+      "log_rank": 2.7810369386211318,
+      "log_frequency": 1.9395192526186185
+    },
+    {
+      "log_rank": 2.781755374652469,
+      "log_frequency": 1.9395192526186185
+    },
+    {
+      "log_rank": 2.782472624166286,
+      "log_frequency": 1.9395192526186185
+    },
+    {
+      "log_rank": 2.7831886910752575,
+      "log_frequency": 1.9344984512435677
+    },
+    {
+      "log_rank": 2.783903579272735,
+      "log_frequency": 1.9344984512435677
+    },
+    {
+      "log_rank": 2.784617292632875,
+      "log_frequency": 1.9344984512435677
+    },
+    {
+      "log_rank": 2.785329835010767,
+      "log_frequency": 1.9344984512435677
+    },
+    {
+      "log_rank": 2.786041210242554,
+      "log_frequency": 1.9344984512435677
+    },
+    {
+      "log_rank": 2.7867514221455614,
+      "log_frequency": 1.9344984512435677
+    },
+    {
+      "log_rank": 2.787460474518415,
+      "log_frequency": 1.9344984512435677
+    },
+    {
+      "log_rank": 2.788168371141168,
+      "log_frequency": 1.9344984512435677
+    },
+    {
+      "log_rank": 2.788875115775417,
+      "log_frequency": 1.9344984512435677
+    },
+    {
+      "log_rank": 2.7895807121644256,
+      "log_frequency": 1.9294189257142929
+    },
+    {
+      "log_rank": 2.7902851640332416,
+      "log_frequency": 1.9294189257142929
+    },
+    {
+      "log_rank": 2.790988475088816,
+      "log_frequency": 1.9294189257142929
+    },
+    {
+      "log_rank": 2.791690649020118,
+      "log_frequency": 1.9294189257142929
+    },
+    {
+      "log_rank": 2.792391689498254,
+      "log_frequency": 1.9294189257142929
+    },
+    {
+      "log_rank": 2.79309160017658,
+      "log_frequency": 1.9294189257142929
+    },
+    {
+      "log_rank": 2.7937903846908188,
+      "log_frequency": 1.9294189257142929
+    },
+    {
+      "log_rank": 2.7944880466591697,
+      "log_frequency": 1.9294189257142929
+    },
+    {
+      "log_rank": 2.795184589682424,
+      "log_frequency": 1.9242792860618816
+    },
+    {
+      "log_rank": 2.7958800173440754,
+      "log_frequency": 1.9242792860618816
+    },
+    {
+      "log_rank": 2.7965743332104296,
+      "log_frequency": 1.9242792860618816
+    },
+    {
+      "log_rank": 2.7972675408307164,
+      "log_frequency": 1.919078092376074
+    },
+    {
+      "log_rank": 2.797959643737196,
+      "log_frequency": 1.919078092376074
+    },
+    {
+      "log_rank": 2.798650645445269,
+      "log_frequency": 1.919078092376074
+    },
+    {
+      "log_rank": 2.7993405494535817,
+      "log_frequency": 1.919078092376074
+    },
+    {
+      "log_rank": 2.8000293592441343,
+      "log_frequency": 1.919078092376074
+    },
+    {
+      "log_rank": 2.800717078282385,
+      "log_frequency": 1.919078092376074
+    },
+    {
+      "log_rank": 2.801403710017355,
+      "log_frequency": 1.919078092376074
+    },
+    {
+      "log_rank": 2.8020892578817325,
+      "log_frequency": 1.919078092376074
+    },
+    {
+      "log_rank": 2.8027737252919755,
+      "log_frequency": 1.919078092376074
+    },
+    {
+      "log_rank": 2.803457115648414,
+      "log_frequency": 1.919078092376074
+    },
+    {
+      "log_rank": 2.8041394323353503,
+      "log_frequency": 1.9138138523837167
+    },
+    {
+      "log_rank": 2.8048206787211623,
+      "log_frequency": 1.9138138523837167
+    },
+    {
+      "log_rank": 2.8055008581584002,
+      "log_frequency": 1.9138138523837167
+    },
+    {
+      "log_rank": 2.806179973983887,
+      "log_frequency": 1.9138138523837167
+    },
+    {
+      "log_rank": 2.8068580295188172,
+      "log_frequency": 1.9138138523837167
+    },
+    {
+      "log_rank": 2.807535028068853,
+      "log_frequency": 1.9138138523837167
+    },
+    {
+      "log_rank": 2.808210972924222,
+      "log_frequency": 1.9138138523837167
+    },
+    {
+      "log_rank": 2.808885867359812,
+      "log_frequency": 1.9138138523837167
+    },
+    {
+      "log_rank": 2.8095597146352675,
+      "log_frequency": 1.9138138523837167
+    },
+    {
+      "log_rank": 2.8102325179950842,
+      "log_frequency": 1.9138138523837167
+    },
+    {
+      "log_rank": 2.8109042806687006,
+      "log_frequency": 1.9084850188786497
+    },
+    {
+      "log_rank": 2.8115750058705933,
+      "log_frequency": 1.9084850188786497
+    },
+    {
+      "log_rank": 2.812244696800369,
+      "log_frequency": 1.9084850188786497
+    },
+    {
+      "log_rank": 2.8129133566428557,
+      "log_frequency": 1.9084850188786497
+    },
+    {
+      "log_rank": 2.8135809885681917,
+      "log_frequency": 1.9084850188786497
+    },
+    {
+      "log_rank": 2.81424759573192,
+      "log_frequency": 1.9084850188786497
+    },
+    {
+      "log_rank": 2.814913181275074,
+      "log_frequency": 1.9084850188786497
+    },
+    {
+      "log_rank": 2.815577748324267,
+      "log_frequency": 1.9030899869919435
+    },
+    {
+      "log_rank": 2.816241299991783,
+      "log_frequency": 1.9030899869919435
+    },
+    {
+      "log_rank": 2.8169038393756605,
+      "log_frequency": 1.9030899869919435
+    },
+    {
+      "log_rank": 2.8175653695597807,
+      "log_frequency": 1.9030899869919435
+    },
+    {
+      "log_rank": 2.8182258936139557,
+      "log_frequency": 1.9030899869919435
+    },
+    {
+      "log_rank": 2.8188854145940097,
+      "log_frequency": 1.9030899869919435
+    },
+    {
+      "log_rank": 2.8195439355418688,
+      "log_frequency": 1.9030899869919435
+    },
+    {
+      "log_rank": 2.82020145948564,
+      "log_frequency": 1.9030899869919435
+    },
+    {
+      "log_rank": 2.8208579894397,
+      "log_frequency": 1.8976270912904414
+    },
+    {
+      "log_rank": 2.821513528404773,
+      "log_frequency": 1.8976270912904414
+    },
+    {
+      "log_rank": 2.8221680793680175,
+      "log_frequency": 1.8976270912904414
+    },
+    {
+      "log_rank": 2.8228216453031045,
+      "log_frequency": 1.8976270912904414
+    },
+    {
+      "log_rank": 2.823474229170301,
+      "log_frequency": 1.8976270912904414
+    },
+    {
+      "log_rank": 2.824125833916549,
+      "log_frequency": 1.8976270912904414
+    },
+    {
+      "log_rank": 2.824776462475546,
+      "log_frequency": 1.8976270912904414
+    },
+    {
+      "log_rank": 2.8254261177678233,
+      "log_frequency": 1.8976270912904414
+    },
+    {
+      "log_rank": 2.8260748027008264,
+      "log_frequency": 1.8976270912904414
+    },
+    {
+      "log_rank": 2.826722520168992,
+      "log_frequency": 1.8976270912904414
+    },
+    {
+      "log_rank": 2.8273692730538253,
+      "log_frequency": 1.8976270912904414
+    },
+    {
+      "log_rank": 2.828015064223977,
+      "log_frequency": 1.8976270912904414
+    },
+    {
+      "log_rank": 2.82865989653532,
+      "log_frequency": 1.8920946026904804
+    },
+    {
+      "log_rank": 2.829303772831025,
+      "log_frequency": 1.8920946026904804
+    },
+    {
+      "log_rank": 2.829946695941636,
+      "log_frequency": 1.8920946026904804
+    },
+    {
+      "log_rank": 2.8305886686851442,
+      "log_frequency": 1.8920946026904804
+    },
+    {
+      "log_rank": 2.8312296938670634,
+      "log_frequency": 1.8920946026904804
+    },
+    {
+      "log_rank": 2.8318697742805017,
+      "log_frequency": 1.8920946026904804
+    },
+    {
+      "log_rank": 2.832508912706236,
+      "log_frequency": 1.8920946026904804
+    },
+    {
+      "log_rank": 2.833147111912785,
+      "log_frequency": 1.8920946026904804
+    },
+    {
+      "log_rank": 2.833784374656479,
+      "log_frequency": 1.8920946026904804
+    },
+    {
+      "log_rank": 2.8344207036815323,
+      "log_frequency": 1.8920946026904804
+    },
+    {
+      "log_rank": 2.835056101720116,
+      "log_frequency": 1.8920946026904804
+    },
+    {
+      "log_rank": 2.8356905714924254,
+      "log_frequency": 1.8864907251724818
+    },
+    {
+      "log_rank": 2.8363241157067516,
+      "log_frequency": 1.8864907251724818
+    },
+    {
+      "log_rank": 2.8369567370595505,
+      "log_frequency": 1.8864907251724818
+    },
+    {
+      "log_rank": 2.837588438235511,
+      "log_frequency": 1.8864907251724818
+    },
+    {
+      "log_rank": 2.8382192219076257,
+      "log_frequency": 1.8864907251724818
+    },
+    {
+      "log_rank": 2.838849090737255,
+      "log_frequency": 1.8808135922807914
+    },
+    {
+      "log_rank": 2.8394780473741985,
+      "log_frequency": 1.8808135922807914
+    },
+    {
+      "log_rank": 2.840106094456758,
+      "log_frequency": 1.8808135922807914
+    },
+    {
+      "log_rank": 2.8407332346118066,
+      "log_frequency": 1.8808135922807914
+    },
+    {
+      "log_rank": 2.841359470454855,
+      "log_frequency": 1.8808135922807914
+    },
+    {
+      "log_rank": 2.8419848045901137,
+      "log_frequency": 1.8750612633917
+    },
+    {
+      "log_rank": 2.842609239610562,
+      "log_frequency": 1.8750612633917
+    },
+    {
+      "log_rank": 2.8432327780980096,
+      "log_frequency": 1.8750612633917
+    },
+    {
+      "log_rank": 2.843855422623161,
+      "log_frequency": 1.8750612633917
+    },
+    {
+      "log_rank": 2.8444771757456815,
+      "log_frequency": 1.8750612633917
+    },
+    {
+      "log_rank": 2.845098040014257,
+      "log_frequency": 1.8750612633917
+    },
+    {
+      "log_rank": 2.8457180179666586,
+      "log_frequency": 1.8692317197309762
+    },
+    {
+      "log_rank": 2.846337112129805,
+      "log_frequency": 1.8692317197309762
+    },
+    {
+      "log_rank": 2.846955325019824,
+      "log_frequency": 1.8692317197309762
+    },
+    {
+      "log_rank": 2.847572659142112,
+      "log_frequency": 1.8692317197309762
+    },
+    {
+      "log_rank": 2.848189116991399,
+      "log_frequency": 1.8692317197309762
+    },
+    {
+      "log_rank": 2.8488047010518036,
+      "log_frequency": 1.8692317197309762
+    },
+    {
+      "log_rank": 2.8494194137968996,
+      "log_frequency": 1.8692317197309762
+    },
+    {
+      "log_rank": 2.850033257689769,
+      "log_frequency": 1.8692317197309762
+    },
+    {
+      "log_rank": 2.8506462351830666,
+      "log_frequency": 1.8692317197309762
+    },
+    {
+      "log_rank": 2.8512583487190755,
+      "log_frequency": 1.8692317197309762
+    },
+    {
+      "log_rank": 2.851869600729766,
+      "log_frequency": 1.8692317197309762
+    },
+    {
+      "log_rank": 2.8524799936368566,
+      "log_frequency": 1.8692317197309762
+    },
+    {
+      "log_rank": 2.8530895298518657,
+      "log_frequency": 1.863322860120456
+    },
+    {
+      "log_rank": 2.8536982117761744,
+      "log_frequency": 1.863322860120456
+    },
+    {
+      "log_rank": 2.8543060418010806,
+      "log_frequency": 1.863322860120456
+    },
+    {
+      "log_rank": 2.8549130223078554,
+      "log_frequency": 1.863322860120456
+    },
+    {
+      "log_rank": 2.8555191556678,
+      "log_frequency": 1.863322860120456
+    },
+    {
+      "log_rank": 2.8561244442423,
+      "log_frequency": 1.863322860120456
+    },
+    {
+      "log_rank": 2.8567288903828825,
+      "log_frequency": 1.863322860120456
+    },
+    {
+      "log_rank": 2.8573324964312685,
+      "log_frequency": 1.8573324964312685
+    },
+    {
+      "log_rank": 2.857935264719429,
+      "log_frequency": 1.8573324964312685
+    },
+    {
+      "log_rank": 2.858537197569639,
+      "log_frequency": 1.8573324964312685
+    },
+    {
+      "log_rank": 2.859138297294531,
+      "log_frequency": 1.8573324964312685
+    },
+    {
+      "log_rank": 2.859738566197147,
+      "log_frequency": 1.8573324964312685
+    },
+    {
+      "log_rank": 2.8603380065709936,
+      "log_frequency": 1.8573324964312685
+    },
+    {
+      "log_rank": 2.8609366207000937,
+      "log_frequency": 1.8573324964312685
+    },
+    {
+      "log_rank": 2.8615344108590377,
+      "log_frequency": 1.8512583487190752
+    },
+    {
+      "log_rank": 2.862131379313037,
+      "log_frequency": 1.8512583487190752
+    },
+    {
+      "log_rank": 2.8627275283179747,
+      "log_frequency": 1.8512583487190752
+    },
+    {
+      "log_rank": 2.863322860120456,
+      "log_frequency": 1.8512583487190752
+    },
+    {
+      "log_rank": 2.8639173769578603,
+      "log_frequency": 1.8512583487190752
+    },
+    {
+      "log_rank": 2.864511081058392,
+      "log_frequency": 1.8512583487190752
+    },
+    {
+      "log_rank": 2.8651039746411278,
+      "log_frequency": 1.8512583487190752
+    },
+    {
+      "log_rank": 2.8656960599160706,
+      "log_frequency": 1.845098040014257
+    },
+    {
+      "log_rank": 2.8662873390841948,
+      "log_frequency": 1.845098040014257
+    },
+    {
+      "log_rank": 2.866877814337499,
+      "log_frequency": 1.845098040014257
+    },
+    {
+      "log_rank": 2.8674674878590514,
+      "log_frequency": 1.845098040014257
+    },
+    {
+      "log_rank": 2.8680563618230415,
+      "log_frequency": 1.845098040014257
+    },
+    {
+      "log_rank": 2.8686444383948255,
+      "log_frequency": 1.845098040014257
+    },
+    {
+      "log_rank": 2.8692317197309762,
+      "log_frequency": 1.8388490907372552
+    },
+    {
+      "log_rank": 2.869818207979328,
+      "log_frequency": 1.8388490907372552
+    },
+    {
+      "log_rank": 2.870403905279027,
+      "log_frequency": 1.8388490907372552
+    },
+    {
+      "log_rank": 2.8709888137605755,
+      "log_frequency": 1.8388490907372552
+    },
+    {
+      "log_rank": 2.8715729355458786,
+      "log_frequency": 1.8388490907372552
+    },
+    {
+      "log_rank": 2.8721562727482928,
+      "log_frequency": 1.8388490907372552
+    },
+    {
+      "log_rank": 2.8727388274726686,
+      "log_frequency": 1.8388490907372552
+    },
+    {
+      "log_rank": 2.873320601815399,
+      "log_frequency": 1.8388490907372552
+    },
+    {
+      "log_rank": 2.8739015978644615,
+      "log_frequency": 1.8388490907372552
+    },
+    {
+      "log_rank": 2.8744818176994666,
+      "log_frequency": 1.8325089127062364
+    },
+    {
+      "log_rank": 2.8750612633917,
+      "log_frequency": 1.8325089127062364
+    },
+    {
+      "log_rank": 2.8756399370041685,
+      "log_frequency": 1.8325089127062364
+    },
+    {
+      "log_rank": 2.876217840591642,
+      "log_frequency": 1.8325089127062364
+    },
+    {
+      "log_rank": 2.8767949762007006,
+      "log_frequency": 1.8325089127062364
+    },
+    {
+      "log_rank": 2.877371345869774,
+      "log_frequency": 1.8325089127062364
+    },
+    {
+      "log_rank": 2.8779469516291885,
+      "log_frequency": 1.8325089127062364
+    },
+    {
+      "log_rank": 2.8785217955012063,
+      "log_frequency": 1.8325089127062364
+    },
+    {
+      "log_rank": 2.8790958795000727,
+      "log_frequency": 1.8325089127062364
+    },
+    {
+      "log_rank": 2.8796692056320534,
+      "log_frequency": 1.8325089127062364
+    },
+    {
+      "log_rank": 2.88024177589548,
+      "log_frequency": 1.8325089127062364
+    },
+    {
+      "log_rank": 2.8808135922807914,
+      "log_frequency": 1.8260748027008264
+    },
+    {
+      "log_rank": 2.8813846567705728,
+      "log_frequency": 1.8260748027008264
+    },
+    {
+      "log_rank": 2.8819549713396007,
+      "log_frequency": 1.8260748027008264
+    },
+    {
+      "log_rank": 2.8825245379548803,
+      "log_frequency": 1.8260748027008264
+    },
+    {
+      "log_rank": 2.8830933585756897,
+      "log_frequency": 1.8260748027008264
+    },
+    {
+      "log_rank": 2.8836614351536176,
+      "log_frequency": 1.8260748027008264
+    },
+    {
+      "log_rank": 2.884228769632604,
+      "log_frequency": 1.8260748027008264
+    },
+    {
+      "log_rank": 2.8847953639489807,
+      "log_frequency": 1.8260748027008264
+    },
+    {
+      "log_rank": 2.885361220031512,
+      "log_frequency": 1.8260748027008264
+    },
+    {
+      "log_rank": 2.885926339801431,
+      "log_frequency": 1.8260748027008264
+    },
+    {
+      "log_rank": 2.886490725172482,
+      "log_frequency": 1.8260748027008264
+    },
+    {
+      "log_rank": 2.8870543780509568,
+      "log_frequency": 1.8260748027008264
+    },
+    {
+      "log_rank": 2.887617300335736,
+      "log_frequency": 1.8260748027008264
+    },
+    {
+      "log_rank": 2.888179493918325,
+      "log_frequency": 1.8260748027008264
+    },
+    {
+      "log_rank": 2.8887409606828927,
+      "log_frequency": 1.8260748027008264
+    },
+    {
+      "log_rank": 2.88930170250631,
+      "log_frequency": 1.8195439355418688
+    },
+    {
+      "log_rank": 2.8898617212581885,
+      "log_frequency": 1.8195439355418688
+    },
+    {
+      "log_rank": 2.890421018800914,
+      "log_frequency": 1.8195439355418688
+    },
+    {
+      "log_rank": 2.890979596989689,
+      "log_frequency": 1.8195439355418688
+    },
+    {
+      "log_rank": 2.8915374576725643,
+      "log_frequency": 1.8195439355418688
+    },
+    {
+      "log_rank": 2.8920946026904804,
+      "log_frequency": 1.8195439355418688
+    },
+    {
+      "log_rank": 2.8926510338773004,
+      "log_frequency": 1.8195439355418688
+    },
+    {
+      "log_rank": 2.893206753059848,
+      "log_frequency": 1.8195439355418688
+    },
+    {
+      "log_rank": 2.8937617620579434,
+      "log_frequency": 1.8129133566428555
+    },
+    {
+      "log_rank": 2.8943160626844384,
+      "log_frequency": 1.8129133566428555
+    },
+    {
+      "log_rank": 2.8948696567452523,
+      "log_frequency": 1.8129133566428555
+    },
+    {
+      "log_rank": 2.895422546039408,
+      "log_frequency": 1.8129133566428555
+    },
+    {
+      "log_rank": 2.8959747323590648,
+      "log_frequency": 1.8129133566428555
+    },
+    {
+      "log_rank": 2.8965262174895554,
+      "log_frequency": 1.8129133566428555
+    },
+    {
+      "log_rank": 2.89707700320942,
+      "log_frequency": 1.8129133566428555
+    },
+    {
+      "log_rank": 2.8976270912904414,
+      "log_frequency": 1.8129133566428555
+    },
+    {
+      "log_rank": 2.8981764834976764,
+      "log_frequency": 1.8129133566428555
+    },
+    {
+      "log_rank": 2.8987251815894934,
+      "log_frequency": 1.806179973983887
+    },
+    {
+      "log_rank": 2.8992731873176036,
+      "log_frequency": 1.806179973983887
+    },
+    {
+      "log_rank": 2.8998205024270964,
+      "log_frequency": 1.806179973983887
+    },
+    {
+      "log_rank": 2.9003671286564705,
+      "log_frequency": 1.806179973983887
+    },
+    {
+      "log_rank": 2.900913067737669,
+      "log_frequency": 1.806179973983887
+    },
+    {
+      "log_rank": 2.9014583213961123,
+      "log_frequency": 1.806179973983887
+    },
+    {
+      "log_rank": 2.9020028913507296,
+      "log_frequency": 1.806179973983887
+    },
+    {
+      "log_rank": 2.902546779313991,
+      "log_frequency": 1.806179973983887
+    },
+    {
+      "log_rank": 2.9030899869919438,
+      "log_frequency": 1.806179973983887
+    },
+    {
+      "log_rank": 2.9036325160842376,
+      "log_frequency": 1.7993405494535817
+    },
+    {
+      "log_rank": 2.9041743682841634,
+      "log_frequency": 1.7993405494535817
+    },
+    {
+      "log_rank": 2.904715545278681,
+      "log_frequency": 1.7993405494535817
+    },
+    {
+      "log_rank": 2.905256048748451,
+      "log_frequency": 1.7993405494535817
+    },
+    {
+      "log_rank": 2.9057958803678687,
+      "log_frequency": 1.7993405494535817
+    },
+    {
+      "log_rank": 2.906335041805091,
+      "log_frequency": 1.7993405494535817
+    },
+    {
+      "log_rank": 2.90687353472207,
+      "log_frequency": 1.7993405494535817
+    },
+    {
+      "log_rank": 2.907411360774586,
+      "log_frequency": 1.7993405494535817
+    },
+    {
+      "log_rank": 2.9079485216122722,
+      "log_frequency": 1.7993405494535817
+    },
+    {
+      "log_rank": 2.9084850188786495,
+      "log_frequency": 1.7993405494535817
+    },
+    {
+      "log_rank": 2.909020854211156,
+      "log_frequency": 1.792391689498254
+    },
+    {
+      "log_rank": 2.909556029241175,
+      "log_frequency": 1.792391689498254
+    },
+    {
+      "log_rank": 2.910090545594068,
+      "log_frequency": 1.792391689498254
+    },
+    {
+      "log_rank": 2.910624404889201,
+      "log_frequency": 1.792391689498254
+    },
+    {
+      "log_rank": 2.9111576087399764,
+      "log_frequency": 1.792391689498254
+    },
+    {
+      "log_rank": 2.9116901587538613,
+      "log_frequency": 1.792391689498254
+    },
+    {
+      "log_rank": 2.9122220565324155,
+      "log_frequency": 1.792391689498254
+    },
+    {
+      "log_rank": 2.912753303671323,
+      "log_frequency": 1.792391689498254
+    },
+    {
+      "log_rank": 2.9132839017604186,
+      "log_frequency": 1.792391689498254
+    },
+    {
+      "log_rank": 2.9138138523837167,
+      "log_frequency": 1.792391689498254
+    },
+    {
+      "log_rank": 2.9143431571194407,
+      "log_frequency": 1.7853298350107671
+    },
+    {
+      "log_rank": 2.9148718175400505,
+      "log_frequency": 1.7853298350107671
+    },
+    {
+      "log_rank": 2.91539983521227,
+      "log_frequency": 1.7853298350107671
+    },
+    {
+      "log_rank": 2.9159272116971158,
+      "log_frequency": 1.7853298350107671
+    },
+    {
+      "log_rank": 2.916453948549925,
+      "log_frequency": 1.7853298350107671
+    },
+    {
+      "log_rank": 2.916980047320382,
+      "log_frequency": 1.7853298350107671
+    },
+    {
+      "log_rank": 2.9175055095525466,
+      "log_frequency": 1.7853298350107671
+    },
+    {
+      "log_rank": 2.9180303367848803,
+      "log_frequency": 1.7853298350107671
+    },
+    {
+      "log_rank": 2.9185545305502734,
+      "log_frequency": 1.7853298350107671
+    },
+    {
+      "log_rank": 2.9190780923760737,
+      "log_frequency": 1.7853298350107671
+    },
+    {
+      "log_rank": 2.919601023784111,
+      "log_frequency": 1.7853298350107671
+    },
+    {
+      "log_rank": 2.920123326290724,
+      "log_frequency": 1.7853298350107671
+    },
+    {
+      "log_rank": 2.9206450014067875,
+      "log_frequency": 1.7853298350107671
+    },
+    {
+      "log_rank": 2.921166050637739,
+      "log_frequency": 1.7853298350107671
+    },
+    {
+      "log_rank": 2.921686475483602,
+      "log_frequency": 1.7781512503836436
+    },
+    {
+      "log_rank": 2.9222062774390163,
+      "log_frequency": 1.7781512503836436
+    },
+    {
+      "log_rank": 2.92272545799326,
+      "log_frequency": 1.7781512503836436
+    },
+    {
+      "log_rank": 2.9232440186302764,
+      "log_frequency": 1.7781512503836436
+    },
+    {
+      "log_rank": 2.9237619608287004,
+      "log_frequency": 1.7781512503836436
+    },
+    {
+      "log_rank": 2.9242792860618816,
+      "log_frequency": 1.7781512503836436
+    },
+    {
+      "log_rank": 2.924795995797912,
+      "log_frequency": 1.7781512503836436
+    },
+    {
+      "log_rank": 2.9253120914996495,
+      "log_frequency": 1.7781512503836436
+    },
+    {
+      "log_rank": 2.9258275746247424,
+      "log_frequency": 1.7781512503836436
+    },
+    {
+      "log_rank": 2.926342446625655,
+      "log_frequency": 1.7781512503836436
+    },
+    {
+      "log_rank": 2.926856708949692,
+      "log_frequency": 1.7781512503836436
+    },
+    {
+      "log_rank": 2.9273703630390235,
+      "log_frequency": 1.7781512503836436
+    },
+    {
+      "log_rank": 2.9278834103307068,
+      "log_frequency": 1.7781512503836436
+    },
+    {
+      "log_rank": 2.9283958522567137,
+      "log_frequency": 1.7781512503836436
+    },
+    {
+      "log_rank": 2.928907690243953,
+      "log_frequency": 1.7781512503836436
+    },
+    {
+      "log_rank": 2.929418925714293,
+      "log_frequency": 1.7781512503836436
+    },
+    {
+      "log_rank": 2.929929560084588,
+      "log_frequency": 1.7781512503836436
+    },
+    {
+      "log_rank": 2.9304395947667,
+      "log_frequency": 1.7708520116421442
+    },
+    {
+      "log_rank": 2.930949031167523,
+      "log_frequency": 1.7708520116421442
+    },
+    {
+      "log_rank": 2.931457870689005,
+      "log_frequency": 1.7708520116421442
+    },
+    {
+      "log_rank": 2.931966114728173,
+      "log_frequency": 1.7708520116421442
+    },
+    {
+      "log_rank": 2.932473764677153,
+      "log_frequency": 1.7708520116421442
+    },
+    {
+      "log_rank": 2.932980821923198,
+      "log_frequency": 1.7708520116421442
+    },
+    {
+      "log_rank": 2.9334872878487053,
+      "log_frequency": 1.7708520116421442
+    },
+    {
+      "log_rank": 2.9339931638312424,
+      "log_frequency": 1.7708520116421442
+    },
+    {
+      "log_rank": 2.934498451243568,
+      "log_frequency": 1.7708520116421442
+    },
+    {
+      "log_rank": 2.935003151453655,
+      "log_frequency": 1.7708520116421442
+    },
+    {
+      "log_rank": 2.9355072658247128,
+      "log_frequency": 1.7708520116421442
+    },
+    {
+      "log_rank": 2.9360107957152097,
+      "log_frequency": 1.7708520116421442
+    },
+    {
+      "log_rank": 2.936513742478893,
+      "log_frequency": 1.7708520116421442
+    },
+    {
+      "log_rank": 2.9370161074648142,
+      "log_frequency": 1.7708520116421442
+    },
+    {
+      "log_rank": 2.937517892017347,
+      "log_frequency": 1.7708520116421442
+    },
+    {
+      "log_rank": 2.9380190974762104,
+      "log_frequency": 1.7708520116421442
+    },
+    {
+      "log_rank": 2.938519725176492,
+      "log_frequency": 1.7634279935629373
+    },
+    {
+      "log_rank": 2.9390197764486663,
+      "log_frequency": 1.7634279935629373
+    },
+    {
+      "log_rank": 2.9395192526186187,
+      "log_frequency": 1.7634279935629373
+    },
+    {
+      "log_rank": 2.9400181550076634,
+      "log_frequency": 1.7634279935629373
+    },
+    {
+      "log_rank": 2.940516484932567,
+      "log_frequency": 1.7634279935629373
+    },
+    {
+      "log_rank": 2.9410142437055695,
+      "log_frequency": 1.7634279935629373
+    },
+    {
+      "log_rank": 2.941511432634403,
+      "log_frequency": 1.7634279935629373
+    },
+    {
+      "log_rank": 2.942008053022313,
+      "log_frequency": 1.7634279935629373
+    },
+    {
+      "log_rank": 2.9425041061680806,
+      "log_frequency": 1.7634279935629373
+    },
+    {
+      "log_rank": 2.9429995933660407,
+      "log_frequency": 1.7634279935629373
+    },
+    {
+      "log_rank": 2.9434945159061026,
+      "log_frequency": 1.7634279935629373
+    },
+    {
+      "log_rank": 2.9439888750737717,
+      "log_frequency": 1.7634279935629373
+    },
+    {
+      "log_rank": 2.9444826721501687,
+      "log_frequency": 1.7634279935629373
+    },
+    {
+      "log_rank": 2.944975908412048,
+      "log_frequency": 1.7558748556724915
+    },
+    {
+      "log_rank": 2.94546858513182,
+      "log_frequency": 1.7558748556724915
+    },
+    {
+      "log_rank": 2.9459607035775686,
+      "log_frequency": 1.7558748556724915
+    },
+    {
+      "log_rank": 2.946452265013073,
+      "log_frequency": 1.7558748556724915
+    },
+    {
+      "log_rank": 2.9469432706978256,
+      "log_frequency": 1.7558748556724915
+    },
+    {
+      "log_rank": 2.9474337218870508,
+      "log_frequency": 1.7558748556724915
+    },
+    {
+      "log_rank": 2.9479236198317262,
+      "log_frequency": 1.7558748556724915
+    },
+    {
+      "log_rank": 2.948412965778601,
+      "log_frequency": 1.7558748556724915
+    },
+    {
+      "log_rank": 2.9489017609702137,
+      "log_frequency": 1.7558748556724915
+    },
+    {
+      "log_rank": 2.949390006644913,
+      "log_frequency": 1.7558748556724915
+    },
+    {
+      "log_rank": 2.949877704036875,
+      "log_frequency": 1.7558748556724915
+    },
+    {
+      "log_rank": 2.950364854376123,
+      "log_frequency": 1.7558748556724915
+    },
+    {
+      "log_rank": 2.9508514588885464,
+      "log_frequency": 1.7558748556724915
+    },
+    {
+      "log_rank": 2.951337518795918,
+      "log_frequency": 1.7558748556724915
+    },
+    {
+      "log_rank": 2.951823035315912,
+      "log_frequency": 1.7558748556724915
+    },
+    {
+      "log_rank": 2.9523080096621253,
+      "log_frequency": 1.7558748556724915
+    },
+    {
+      "log_rank": 2.952792443044092,
+      "log_frequency": 1.7481880270062005
+    },
+    {
+      "log_rank": 2.9532763366673045,
+      "log_frequency": 1.7481880270062005
+    },
+    {
+      "log_rank": 2.9537596917332287,
+      "log_frequency": 1.7481880270062005
+    },
+    {
+      "log_rank": 2.9542425094393248,
+      "log_frequency": 1.7481880270062005
+    },
+    {
+      "log_rank": 2.954724790979063,
+      "log_frequency": 1.7481880270062005
+    },
+    {
+      "log_rank": 2.9552065375419416,
+      "log_frequency": 1.7481880270062005
+    },
+    {
+      "log_rank": 2.9556877503135057,
+      "log_frequency": 1.7481880270062005
+    },
+    {
+      "log_rank": 2.9561684304753633,
+      "log_frequency": 1.7481880270062005
+    },
+    {
+      "log_rank": 2.9566485792052033,
+      "log_frequency": 1.7481880270062005
+    },
+    {
+      "log_rank": 2.957128197676813,
+      "log_frequency": 1.7481880270062005
+    },
+    {
+      "log_rank": 2.957607287060095,
+      "log_frequency": 1.7481880270062005
+    },
+    {
+      "log_rank": 2.958085848521085,
+      "log_frequency": 1.7481880270062005
+    },
+    {
+      "log_rank": 2.9585638832219674,
+      "log_frequency": 1.7481880270062005
+    },
+    {
+      "log_rank": 2.9590413923210934,
+      "log_frequency": 1.7481880270062005
+    },
+    {
+      "log_rank": 2.9595183769729982,
+      "log_frequency": 1.7481880270062005
+    },
+    {
+      "log_rank": 2.959994838328416,
+      "log_frequency": 1.7481880270062005
+    },
+    {
+      "log_rank": 2.960470777534299,
+      "log_frequency": 1.7481880270062005
+    },
+    {
+      "log_rank": 2.9609461957338317,
+      "log_frequency": 1.7481880270062005
+    },
+    {
+      "log_rank": 2.9614210940664485,
+      "log_frequency": 1.7481880270062005
+    },
+    {
+      "log_rank": 2.9618954736678504,
+      "log_frequency": 1.7403626894942439
+    },
+    {
+      "log_rank": 2.962369335670021,
+      "log_frequency": 1.7403626894942439
+    },
+    {
+      "log_rank": 2.9628426812012423,
+      "log_frequency": 1.7403626894942439
+    },
+    {
+      "log_rank": 2.9633155113861114,
+      "log_frequency": 1.7403626894942439
+    },
+    {
+      "log_rank": 2.963787827345555,
+      "log_frequency": 1.7403626894942439
+    },
+    {
+      "log_rank": 2.964259630196849,
+      "log_frequency": 1.7403626894942439
+    },
+    {
+      "log_rank": 2.9647309210536292,
+      "log_frequency": 1.7403626894942439
+    },
+    {
+      "log_rank": 2.965201701025912,
+      "log_frequency": 1.7403626894942439
+    },
+    {
+      "log_rank": 2.9656719712201065,
+      "log_frequency": 1.7403626894942439
+    },
+    {
+      "log_rank": 2.9661417327390325,
+      "log_frequency": 1.7323937598229686
+    },
+    {
+      "log_rank": 2.9666109866819346,
+      "log_frequency": 1.7323937598229686
+    },
+    {
+      "log_rank": 2.967079734144497,
+      "log_frequency": 1.7323937598229686
+    },
+    {
+      "log_rank": 2.967547976218862,
+      "log_frequency": 1.7323937598229686
+    },
+    {
+      "log_rank": 2.968015713993642,
+      "log_frequency": 1.7323937598229686
+    },
+    {
+      "log_rank": 2.9684829485539352,
+      "log_frequency": 1.7323937598229686
+    },
+    {
+      "log_rank": 2.9689496809813427,
+      "log_frequency": 1.7323937598229686
+    },
+    {
+      "log_rank": 2.9694159123539814,
+      "log_frequency": 1.7323937598229686
+    },
+    {
+      "log_rank": 2.9698816437465,
+      "log_frequency": 1.7323937598229686
+    },
+    {
+      "log_rank": 2.9703468762300935,
+      "log_frequency": 1.7323937598229686
+    },
+    {
+      "log_rank": 2.9708116108725178,
+      "log_frequency": 1.7323937598229686
+    },
+    {
+      "log_rank": 2.971275848738105,
+      "log_frequency": 1.7323937598229686
+    },
+    {
+      "log_rank": 2.971739590887778,
+      "log_frequency": 1.7323937598229686
+    },
+    {
+      "log_rank": 2.9722028383790646,
+      "log_frequency": 1.7323937598229686
+    },
+    {
+      "log_rank": 2.972665592266111,
+      "log_frequency": 1.7323937598229686
+    },
+    {
+      "log_rank": 2.9731278535996988,
+      "log_frequency": 1.7323937598229686
+    },
+    {
+      "log_rank": 2.973589623427257,
+      "log_frequency": 1.7323937598229686
+    },
+    {
+      "log_rank": 2.9740509027928774,
+      "log_frequency": 1.7242758696007892
+    },
+    {
+      "log_rank": 2.9745116927373285,
+      "log_frequency": 1.7242758696007892
+    },
+    {
+      "log_rank": 2.974971994298069,
+      "log_frequency": 1.7242758696007892
+    },
+    {
+      "log_rank": 2.975431808509263,
+      "log_frequency": 1.7242758696007892
+    },
+    {
+      "log_rank": 2.975891136401793,
+      "log_frequency": 1.7242758696007892
+    },
+    {
+      "log_rank": 2.9763499790032735,
+      "log_frequency": 1.7242758696007892
+    },
+    {
+      "log_rank": 2.976808337338066,
+      "log_frequency": 1.7242758696007892
+    },
+    {
+      "log_rank": 2.977266212427293,
+      "log_frequency": 1.7242758696007892
+    },
+    {
+      "log_rank": 2.9777236052888476,
+      "log_frequency": 1.7242758696007892
+    },
+    {
+      "log_rank": 2.978180516937414,
+      "log_frequency": 1.7242758696007892
+    },
+    {
+      "log_rank": 2.9786369483844743,
+      "log_frequency": 1.7242758696007892
+    },
+    {
+      "log_rank": 2.979092900638326,
+      "log_frequency": 1.7242758696007892
+    },
+    {
+      "log_rank": 2.979548374704095,
+      "log_frequency": 1.7242758696007892
+    },
+    {
+      "log_rank": 2.9800033715837464,
+      "log_frequency": 1.7242758696007892
+    },
+    {
+      "log_rank": 2.9804578922761,
+      "log_frequency": 1.7242758696007892
+    },
+    {
+      "log_rank": 2.9809119377768436,
+      "log_frequency": 1.7242758696007892
+    },
+    {
+      "log_rank": 2.9813655090785445,
+      "log_frequency": 1.7242758696007892
+    },
+    {
+      "log_rank": 2.9818186071706636,
+      "log_frequency": 1.7160033436347992
+    },
+    {
+      "log_rank": 2.9822712330395684,
+      "log_frequency": 1.7160033436347992
+    },
+    {
+      "log_rank": 2.9827233876685453,
+      "log_frequency": 1.7160033436347992
+    },
+    {
+      "log_rank": 2.983175072037813,
+      "log_frequency": 1.7160033436347992
+    },
+    {
+      "log_rank": 2.9836262871245345,
+      "log_frequency": 1.7160033436347992
+    },
+    {
+      "log_rank": 2.984077033902831,
+      "log_frequency": 1.7160033436347992
+    },
+    {
+      "log_rank": 2.9845273133437926,
+      "log_frequency": 1.7160033436347992
+    },
+    {
+      "log_rank": 2.9849771264154934,
+      "log_frequency": 1.7160033436347992
+    },
+    {
+      "log_rank": 2.9854264740830017,
+      "log_frequency": 1.7160033436347992
+    },
+    {
+      "log_rank": 2.9858753573083936,
+      "log_frequency": 1.7160033436347992
+    },
+    {
+      "log_rank": 2.9863237770507656,
+      "log_frequency": 1.7160033436347992
+    },
+    {
+      "log_rank": 2.9867717342662448,
+      "log_frequency": 1.7160033436347992
+    },
+    {
+      "log_rank": 2.9872192299080047,
+      "log_frequency": 1.7160033436347992
+    },
+    {
+      "log_rank": 2.9876662649262746,
+      "log_frequency": 1.7160033436347992
+    },
+    {
+      "log_rank": 2.988112840268352,
+      "log_frequency": 1.7160033436347992
+    },
+    {
+      "log_rank": 2.9885589568786157,
+      "log_frequency": 1.7160033436347992
+    },
+    {
+      "log_rank": 2.989004615698537,
+      "log_frequency": 1.7160033436347992
+    },
+    {
+      "log_rank": 2.9894498176666917,
+      "log_frequency": 1.7160033436347992
+    },
+    {
+      "log_rank": 2.989894563718773,
+      "log_frequency": 1.7075701760979363
+    },
+    {
+      "log_rank": 2.9903388547876015,
+      "log_frequency": 1.7075701760979363
+    },
+    {
+      "log_rank": 2.9907826918031377,
+      "log_frequency": 1.7075701760979363
+    },
+    {
+      "log_rank": 2.991226075692495,
+      "log_frequency": 1.7075701760979363
+    },
+    {
+      "log_rank": 2.9916690073799486,
+      "log_frequency": 1.7075701760979363
+    },
+    {
+      "log_rank": 2.99211148778695,
+      "log_frequency": 1.7075701760979363
+    },
+    {
+      "log_rank": 2.9925535178321354,
+      "log_frequency": 1.7075701760979363
+    },
+    {
+      "log_rank": 2.9929950984313414,
+      "log_frequency": 1.7075701760979363
+    },
+    {
+      "log_rank": 2.9934362304976116,
+      "log_frequency": 1.7075701760979363
+    },
+    {
+      "log_rank": 2.9938769149412114,
+      "log_frequency": 1.7075701760979363
+    },
+    {
+      "log_rank": 2.9943171526696366,
+      "log_frequency": 1.7075701760979363
+    },
+    {
+      "log_rank": 2.9947569445876283,
+      "log_frequency": 1.7075701760979363
+    },
+    {
+      "log_rank": 2.9951962915971793,
+      "log_frequency": 1.7075701760979363
+    },
+    {
+      "log_rank": 2.9956351945975497,
+      "log_frequency": 1.7075701760979363
+    },
+    {
+      "log_rank": 2.9960736544852753,
+      "log_frequency": 1.6989700043360187
+    },
+    {
+      "log_rank": 2.9965116721541785,
+      "log_frequency": 1.6989700043360187
+    },
+    {
+      "log_rank": 2.996949248495381,
+      "log_frequency": 1.6989700043360187
+    },
+    {
+      "log_rank": 2.997386384397313,
+      "log_frequency": 1.6989700043360187
+    },
+    {
+      "log_rank": 2.9978230807457256,
+      "log_frequency": 1.6989700043360187
+    },
+    {
+      "log_rank": 2.998259338423699,
+      "log_frequency": 1.6989700043360187
+    },
+    {
+      "log_rank": 2.998695158311656,
+      "log_frequency": 1.6989700043360187
+    },
+    {
+      "log_rank": 2.999130541287371,
+      "log_frequency": 1.6989700043360187
+    },
+    {
+      "log_rank": 2.9995654882259823,
+      "log_frequency": 1.6989700043360187
+    },
+    {
+      "log_rank": 3.0,
+      "log_frequency": 1.6989700043360187
+    }
+  ]
+}

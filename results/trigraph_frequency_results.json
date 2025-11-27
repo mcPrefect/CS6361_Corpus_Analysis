@@ -1,0 +1,125 @@
+{
+  "total_trigraphs": 1850259,
+  "top_20_trigraphs": [
+    {
+      "rank": 1,
+      "trigraph": "czi",
+      "count": 15089,
+      "percentage": 0.8155074505785407
+    },
+    {
+      "rank": 2,
+      "trigraph": "scz",
+      "count": 13048,
+      "percentage": 0.7051985694975677
+    },
+    {
+      "rank": 3,
+      "trigraph": "égò",
+      "count": 8722,
+      "percentage": 0.47139346437444707
+    },
+    {
+      "rank": 4,
+      "trigraph": "nie",
+      "count": 7965,
+      "percentage": 0.4304802733022782
+    },
+    {
+      "rank": 5,
+      "trigraph": "the",
+      "count": 6914,
+      "percentage": 0.3736774148916449
+    },
+    {
+      "rank": 6,
+      "trigraph": "wie",
+      "count": 6668,
+      "percentage": 0.36038197895537866
+    },
+    {
+      "rank": 7,
+      "trigraph": "rze",
+      "count": 6534,
+      "percentage": 0.35313974962424177
+    },
+    {
+      "rank": 8,
+      "trigraph": "prz",
+      "count": 6377,
+      "percentage": 0.34465445107955156
+    },
+    {
+      "rank": 9,
+      "trigraph": "asz",
+      "count": 6251,
+      "percentage": 0.33784459364878106
+    },
+    {
+      "rank": 10,
+      "trigraph": "rok",
+      "count": 6138,
+      "percentage": 0.33173734055610593
+    },
+    {
+      "rank": 11,
+      "trigraph": "ach",
+      "count": 5589,
+      "percentage": 0.302065818893463
+    },
+    {
+      "rank": 12,
+      "trigraph": "kas",
+      "count": 5541,
+      "percentage": 0.29947158749126473
+    },
+    {
+      "rank": 13,
+      "trigraph": "szë",
+      "count": 5374,
+      "percentage": 0.2904458240711165
+    },
+    {
+      "rank": 14,
+      "trigraph": "ëch",
+      "count": 5161,
+      "percentage": 0.27893392222386165
+    },
+    {
+      "rank": 15,
+      "trigraph": "czé",
+      "count": 4761,
+      "percentage": 0.25731532720554257
+    },
+    {
+      "rank": 16,
+      "trigraph": "ani",
+      "count": 4646,
+      "percentage": 0.2510999811377758
+    },
+    {
+      "rank": 17,
+      "trigraph": "ion",
+      "count": 4599,
+      "percentage": 0.24855979622312335
+    },
+    {
+      "rank": 18,
+      "trigraph": "zim",
+      "count": 4558,
+      "percentage": 0.24634389023374564
+    },
+    {
+      "rank": 19,
+      "trigraph": "zëb",
+      "count": 4484,
+      "percentage": 0.24234445015535663
+    },
+    {
+      "rank": 20,
+      "trigraph": "ańs",
+      "count": 4478,
+      "percentage": 0.24202017123008185
+    }
+  ]
+}
