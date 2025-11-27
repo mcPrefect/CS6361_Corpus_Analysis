@@ -1,1 +1,17 @@
+# Claude Code
 CLAUDE.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.so
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
