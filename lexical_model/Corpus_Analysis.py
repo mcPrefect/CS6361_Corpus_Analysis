@@ -8,8 +8,7 @@ This script analyzes the Kashubian Wikipedia corpus and creates:
 2. Language Model (Bigram) - Word pair frequencies with conditional probabilities
 3. Language Model (Trigram) - Three-word sequence frequencies
 
-Author: Created for CS6361 NLP Project
-Date: November 26, 2024
+CS6361 NLP Project
 """
 
 import re

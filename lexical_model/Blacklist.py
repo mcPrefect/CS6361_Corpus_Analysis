@@ -12,9 +12,6 @@ Purpose: Create a clean Kashubian vocabulary list (lexicon) free from:
 - Single letters (except valid Kashubian function words)
 
 This is optimized for linguistic research and vocabulary building.
-
-Date: November 26, 2024
-Version: 2.0 - Pure Vocabulary Edition
 """
 
 # ============================================================================
