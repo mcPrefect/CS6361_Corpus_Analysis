@@ -8,16 +8,14 @@ NLP pipeline for analyzing the Kashubian Wikipedia corpus and generating languag
 pip install matplotlib numpy
 ```
 
-Download the Kashubian Wikipedia dump from https://dumps.wikimedia.org/csbwiki/latest/ (`csbwiki-latest-pages-articles.xml.bz2`) and place it in the `data/` folder.
-
 ## Usage
 
-### Run Full Preprocessing Pipeline
+### Run Preprocessing Pipeline
 ```bash
 python preprocessing/run_full_pipeline.py data/csbwiki-latest-pages-articles.xml.bz2
 ```
 
-### Generate Language Models
+### Run Blacklist Script & Generate Language Models
 ```bash
 python lexical_model/Corpus_Analysis.py
 ```
