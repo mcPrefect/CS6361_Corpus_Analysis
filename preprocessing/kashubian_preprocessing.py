@@ -396,23 +396,9 @@ PREPROCESSING DECISIONS
    - Rationale: Essential for character frequency and lexical models
    - Stopwords include: {', '.join(sorted(list(self.stopwords)[:10]))} ...
 
-ALIGNMENT WITH MODULE CONTENT
-{'=' * 70}
-
-Week 5 Lecture Concepts Applied:
-✓ Markup Analysis - Wikipedia XML parsing
-✓ Tokenization - Custom pattern for Kashubian diacritics
-✓ Case normalization - Lowercase conversion
-✓ Punctuation handling - Filtered punctuation-only tokens
-✓ Stopword decisions - Kept for frequency analysis
-
-Week 7 Lecture Concepts Applied:
-✓ Language digitisation context - Kashubian ISO code: csb
-✓ Unicode handling - Proper encoding for all diacritics
-✓ Corpus quality - Wikipedia as authoritative source
 
 FILES GENERATED
-{'=' * 70}
+
 
 1. tokens_preprocessed.txt
    - One token per line
@@ -433,7 +419,6 @@ FILES GENERATED
    - Complete documentation of preprocessing decisions
 
 NEXT STEPS
-{'=' * 70}
 
 Run the frequency analysis scripts:
 1. kashubian_character_frequency.py

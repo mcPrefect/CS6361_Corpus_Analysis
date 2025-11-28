@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 KASHUBIAN PURE VOCABULARY BLACKLIST
-====================================
 
 Purpose: Create a clean Kashubian vocabulary list (lexicon) free from:
 - HTML/CSS/Web markup
@@ -13,13 +12,7 @@ Purpose: Create a clean Kashubian vocabulary list (lexicon) free from:
 
 This is optimized for linguistic research and vocabulary building.
 
-Date: November 26, 2024
-Version: 2.0 - Pure Vocabulary Edition
 """
-
-# ============================================================================
-# CATEGORY 1: HTML/CSS/WEB MARKUP (Always remove)
-# ============================================================================
 
 BLACKLIST_WEB_MARKUP = {
     # HTML tags and attributes
@@ -64,9 +57,6 @@ BLACKLIST_WEB_MARKUP = {
     'ffffff', 'efefef', 'cccccc', '000000',
 }
 
-# ============================================================================
-# CATEGORY 2: ENGLISH WORDS (Always remove)
-# ============================================================================
 
 BLACKLIST_ENGLISH = {
     # Common function words
@@ -131,9 +121,6 @@ BLACKLIST_ENGLISH = {
     'bloomsbury', 'maiden', 'alfred', 'toyota', 'linux',
 }
 
-# ============================================================================
-# CATEGORY 3: OTHER FOREIGN LANGUAGES
-# ============================================================================
 
 BLACKLIST_FOREIGN = {
     # German words
@@ -151,9 +138,6 @@ BLACKLIST_FOREIGN = {
     'też', 'pawła',
 }
 
-# ============================================================================
-# CATEGORY 4: PROPER NOUNS (Personal names, places, brands)
-# ============================================================================
 
 BLACKLIST_PROPER_NOUNS = {
     # Personal names - Polish/European origin
@@ -179,9 +163,6 @@ BLACKLIST_PROPER_NOUNS = {
     # legitimately Kashubian (like Gduńsk). Add specific ones as discovered.
 }
 
-# ============================================================================
-# CATEGORY 5: ABBREVIATIONS & TECHNICAL CODES
-# ============================================================================
 
 BLACKLIST_ABBREVIATIONS = {
     # Measurements
@@ -203,9 +184,6 @@ BLACKLIST_ABBREVIATIONS = {
     'iso', 'wst', 'rkj', 'ss', 'st', 'wmf', 'mln', 'cet', 'utc', 'ute',
 }
 
-# ============================================================================
-# CATEGORY 6: NUMBERS & ROMAN NUMERALS
-# ============================================================================
 
 BLACKLIST_NUMBERS = {
     # Roman numerals (used in citations, not vocabulary)
@@ -216,9 +194,6 @@ BLACKLIST_NUMBERS = {
     'dccc', 'mcd', 'mcm', 'mdcc', 'mdccc',
 }
 
-# ============================================================================
-# CATEGORY 7: LANGUAGE & COUNTRY CODES
-# ============================================================================
 
 BLACKLIST_CODES = {
     # ISO language codes
@@ -229,9 +204,6 @@ BLACKLIST_CODES = {
     'usa', 'gb', 'fr', 'ru',
 }
 
-# ============================================================================
-# CATEGORY 8: SINGLE LETTERS & FRAGMENTS (Not vocabulary)
-# ============================================================================
 
 BLACKLIST_SINGLE_CHARS = {
     # Single Latin letters (not function words)
@@ -244,9 +216,6 @@ BLACKLIST_SINGLE_CHARS = {
     'pi', 'mu', 'sigma', 'alpha', 'beta', 'gamma', 'delta',
 }
 
-# ============================================================================
-# FINAL COMBINED BLACKLIST
-# ============================================================================
 
 FINAL_BLACKLIST = (
     BLACKLIST_WEB_MARKUP |
@@ -259,15 +228,9 @@ FINAL_BLACKLIST = (
     BLACKLIST_SINGLE_CHARS
 )
 
-# ============================================================================
-# WHITELIST - PROTECTED KASHUBIAN WORDS
-# ============================================================================
-# These words are NEVER removed, even if they appear in blacklist categories
 
 WHITELIST = {
-    # ========================================================================
-    # KASHUBIAN FUNCTION WORDS (Core grammar words - very high frequency)
-    # ========================================================================
+
     
     # Prepositions (single letter)
     'w',        # "in" (w jizbje = in the room)
@@ -302,9 +265,7 @@ WHITELIST = {
     'co',       # "what"
     'to',       # "this" (already listed but important)
     
-    # ========================================================================
-    # KASHUBIAN LETTERS & DIACRITICS (Never remove these!)
-    # ========================================================================
+
     
     # Special vowels with diacritics
     'ã',        # nasal a (a with tilde)
@@ -320,10 +281,7 @@ WHITELIST = {
     'ż',        # z with dot above
     'ź',        # z with acute
     
-    # ========================================================================
-    # KASHUBIAN DIGRAPHS (If appearing as standalone in tokenization)
-    # ========================================================================
-    # Note: These should appear as part of words, but protect just in case
+
     
     'ch',       # like English "ch" in "church"
     'cz',       # like English "ch"
@@ -332,9 +290,6 @@ WHITELIST = {
     'rz',       # like "zh"
     'sz',       # like English "sh"
     
-    # ========================================================================
-    # TWO-LETTER FUNCTION WORDS
-    # ========================================================================
     
     'na',       # "on/to"
     'òd',       # "from"
@@ -345,9 +300,7 @@ WHITELIST = {
     'so',       # "are" (auxiliary)
     'we',       # "in" (with loc)
     
-    # ========================================================================
-    # THREE-LETTER FUNCTION WORDS
-    # ========================================================================
+
     
     'bez',      # "without"
     'ale',      # "but"
@@ -358,10 +311,6 @@ WHITELIST = {
     'czi',      # "if/whether"
     'ani',      # "neither/nor"
     'abò',      # "or"
-    
-    # ========================================================================
-    # COMMON SHORT WORDS (High frequency, definitely Kashubian)
-    # ========================================================================
     
     'òni',      # "they"
     'jich',     # "their"
@@ -379,9 +328,6 @@ WHITELIST = {
     'są',       # "are" (already listed)
 }
 
-# ============================================================================
-# VALIDATION: Check for conflicts
-# ============================================================================
 
 def validate_lists():
     """Check for overlaps between blacklist and whitelist"""
@@ -394,9 +340,6 @@ def validate_lists():
         return False
     return True
 
-# ============================================================================
-# CORE FUNCTIONS
-# ============================================================================
 
 def should_keep_word(word):
     """
@@ -543,10 +486,6 @@ def print_statistics():
     
     print("=" * 70)
 
-
-# ============================================================================
-# TESTING
-# ============================================================================
 
 if __name__ == "__main__":
     import sys

@@ -20,10 +20,6 @@ from datetime import datetime
 
 from Blacklist import FINAL_BLACKLIST, WHITELIST, clean_corpus
 
-# ============================================================================
-# CONFIGURATION
-# ============================================================================
-
 # Get the directory where this script is located
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
@@ -46,10 +42,6 @@ TRIGRAM_MODEL_TXT = os.path.join(OUTPUT_DIR, 'kashubian_language_model_trigrams.
 
 # Regex pattern for Kashubian words (includes diacritics and compound words)
 WORD_PATTERN = r"[a-ząãéëłńòóôùżA-ZĄÃÉËŁŃÒÓÔÙŻ]+(?:['-][a-ząãéëłńòóôùżA-ZĄÃÉËŁŃÒÓÔÙŻ]+)*"
-
-# ============================================================================
-# QUALITY METRICS
-# ============================================================================
 
 def compute_corpus_quality(words, lexical_model):
     """
@@ -114,10 +106,6 @@ def compute_corpus_quality(words, lexical_model):
     }
 
 
-# ============================================================================
-# SMOOTHING FUNCTIONS FOR LANGUAGE MODELS
-# ============================================================================
-
 def add_one_smoothed_prob(w1, w2, bigram_freq, word_freq):
     """
     Compute add-one (Laplace) smoothed probability for a specific bigram.
@@ -149,10 +137,6 @@ def good_turing_smoothing(freq_of_freqs):
     return adjusted
 
 
-# ============================================================================
-# MAIN SCRIPT
-# ============================================================================
-
 def main():
     # Ensure console output can handle corpus characters without crashing
     sys.stdout.reconfigure(encoding='utf-8', errors='replace')
@@ -160,10 +144,7 @@ def main():
     print("KASHUBIAN CORPUS ANALYSIS")
     print("=" * 70)
     print(f"Started: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
-    
-    # ------------------------------------------------------------------------
-    # STEP 1: Read the corpus
-    # ------------------------------------------------------------------------
+  
     print("Step 1: Reading corpus...")
     try:
         with open(CORPUS_FILE, 'r', encoding='utf-8') as f:
@@ -173,10 +154,7 @@ def main():
         print(f"ERROR: Could not find '{CORPUS_FILE}'")
         print("Please ensure the corpus file is in the same directory as this script.")
         return
-    
-    # ------------------------------------------------------------------------
-    # STEP 2: Tokenize - Extract all words
-    # ------------------------------------------------------------------------
+
     print("\nStep 2: Tokenizing words...")
     # Preserve original case for analysis
     raw_words_original_case = re.findall(WORD_PATTERN, text)
@@ -197,9 +175,7 @@ def main():
     print(f"- Total words (clean): {total_words:,}")
     print(f"- Unique words: {unique_words_count:,}")
     
-    # ------------------------------------------------------------------------
-    # STEP 3: Create LEXICAL MODEL (Unigram)
-    # ------------------------------------------------------------------------
+
     print("\nStep 3: Creating lexical model (unigram)...")
     word_freq = Counter(words)
     
@@ -269,18 +245,14 @@ def main():
     for i, (word, data) in enumerate(sorted_words[:10], 1):
         print(f"    {i}. {word:<15} {data['count']:>8,} times ({data['percentage']:.2f}%)")
     
-    # ------------------------------------------------------------------------
-    # STEP 3.5: Calculate corpus quality metrics
-    # ------------------------------------------------------------------------
+
     print("\nStep 3.5: Computing corpus quality metrics...")
     print(f"  - Type-Token Ratio: {quality_metrics['type_token_ratio']:.4f}")
     print(f"  - Hapax Legomena: {quality_metrics['hapax_legomena']:,} words ({quality_metrics['hapax_percentage']:.2f}%)")
     print(f"  - Average word length: {quality_metrics['avg_word_length']:.2f} characters")
     print(f"  - Top 100 words cover: {quality_metrics['top_100_coverage']:.2f}% of corpus")
     
-    # ------------------------------------------------------------------------
-    # STEP 4: Create LANGUAGE MODEL (Bigram)
-    # ------------------------------------------------------------------------
+
     print("\nStep 4: Creating bigram language model...")
     
     # Create all word bigrams
@@ -356,9 +328,6 @@ def main():
         conditional = bigram_model[w1][w2]['conditional_probability']
         print(f"    {i}. {w1} {w2:<15} {count:>6,} times (P({w2}|{w1})={conditional:.3f})")
     
-    # ------------------------------------------------------------------------
-    # STEP 4.5: Create smoothed bigram model (optional)
-    # ------------------------------------------------------------------------
     print("\nStep 4.5: Creating smoothed bigram model...")
     print("  Note: Smoothing helps handle unseen word pairs")
     
@@ -372,9 +341,6 @@ def main():
     
     print(f"\n  Note: Full smoothed matrix is skipped to avoid excessive memory use; sample shown above.")
     
-    # ------------------------------------------------------------------------
-    # STEP 5: Create LANGUAGE MODEL (Trigram)
-    # ------------------------------------------------------------------------
     print("\nStep 5: Creating trigram language model...")
     
     # Create all word trigrams
@@ -414,9 +380,6 @@ def main():
     for i, ((w1, w2, w3), count) in enumerate(trigram_freq.most_common(5), 1):
         print(f"    {i}. {w1} {w2} {w3:<20} {count:>4,} times")
     
-    # ------------------------------------------------------------------------
-    # STEP 6: Summary
-    # ------------------------------------------------------------------------
     print("\n" + "=" * 70)
     print("SUMMARY")
     print("=" * 70)
@@ -463,9 +426,6 @@ def main():
     print("=" * 70)
 
 
-# ============================================================================
-# EXAMPLE USAGE FUNCTIONS
-# ============================================================================
 
 def example_word_prediction(lexical_model_file, prefix, top_n=5):
     """
@@ -520,10 +480,6 @@ def example_next_word_prediction(bigram_model_file, previous_word, top_n=5):
     
     return [word for word, _ in sorted_words[:top_n]]
 
-
-# ============================================================================
-# RUN SCRIPT
-# ============================================================================
 
 if __name__ == "__main__":
     main()

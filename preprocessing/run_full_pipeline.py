@@ -80,9 +80,6 @@ def main():
     file_size_mb = os.path.getsize(wikipedia_dump) / (1024 * 1024)
     print(f"  File size: {file_size_mb:.2f} MB\n")
     
-    # ==========================================================================
-    # STEP 1: PREPROCESSING
-    # ==========================================================================
     print_section("STEP 1: CORPUS PREPROCESSING")
     print("This will:")
     print("  - Parse Wikipedia XML")
@@ -108,9 +105,6 @@ def main():
         file_size = os.path.getsize(filepath) / 1024  # KB
         print(f"  ✓ {filepath} ({file_size:.2f} KB)")
     
-    # ==========================================================================
-    # STEP 2: CHARACTER FREQUENCY ANALYSIS
-    # ==========================================================================
     print_section("STEP 2: CHARACTER FREQUENCY ANALYSIS")
     print("This will:")
     print("  - Analyze individual character frequencies")
@@ -137,9 +131,7 @@ def main():
         if check_file_exists(filepath):
             print(f"  ✓ {filepath}")
     
-    # ==========================================================================
-    # STEP 3: WORD FREQUENCY & ZIPF'S LAW ANALYSIS
-    # ==========================================================================
+
     print_section("STEP 3: WORD FREQUENCY & ZIPF'S LAW ANALYSIS")
     print("This will:")
     print("  - Analyze word frequency distribution")
@@ -170,9 +162,7 @@ def main():
         if check_file_exists(filepath):
             print(f"  ✓ {filepath}")
     
-    # ==========================================================================
-    # PIPELINE COMPLETE
-    # ==========================================================================
+
     print_section("PIPELINE COMPLETE!")
     print(f"Finished at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
     
