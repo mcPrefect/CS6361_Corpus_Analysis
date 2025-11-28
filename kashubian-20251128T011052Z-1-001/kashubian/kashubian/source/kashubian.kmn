@@ -1,0 +1,37 @@
+﻿c kashubian
+store(&VERSION) '10.0'
+store(&NAME) 'Kashubian'
+store(&COPYRIGHT) 'Copyright © Michael Cronin, Darren Nugent'
+store(&KEYBOARDVERSION) '1.0'
+store(&TARGETS) 'any'
+store(&BITMAP) 'kashubian.ico'
+store(&VISUALKEYBOARD) 'kashubian.kvks'
+store(&LAYOUTFILE) 'kashubian.keyman-touch-layout'
+
+begin Unicode > use(main)
+
+group(main) using keys
+
++ [RALT K_O] > 'ò'
++ [RALT K_E] > 'ë'
++ [RALT K_A] > 'ą'
++ [RALT K_L] > 'ł'
++ [RALT K_N] > 'ń'
++ [RALT K_Z] > 'ż'
++ [RALT K_U] > 'ù'
++ [RALT K_9] > 'ó'
++ [RALT K_0] > 'ô'
++ [RALT K_QUOTE] > 'ã'
++ [RALT K_BKSLASH] > 'é'
+
++ [RALT SHIFT K_O] > 'Ò'
++ [RALT SHIFT K_E] > 'Ë'
++ [RALT SHIFT K_A] > 'Ą'
++ [RALT SHIFT K_L] > 'Ł'
++ [RALT SHIFT K_N] > 'Ń'
++ [RALT SHIFT K_Z] > 'Ż'
++ [RALT SHIFT K_U] > 'Ù'
++ [RALT SHIFT K_9] > 'Ó'
++ [RALT SHIFT K_0] > 'Ô'
++ [RALT SHIFT K_QUOTE] > 'Ã'
++ [RALT SHIFT K_BKSLASH] > 'É'

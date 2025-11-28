@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>18.0.244.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram/>
+    <ReadMeFile>readme.htm</ReadMeFile>
+    <LicenseFile>../LICENSE.md</LicenseFile>
+    <WelcomeFile>welcome.htm</WelcomeFile>
+    <MSIFileName/>
+    <MSIOptions/>
+    <FollowKeyboardVersion/>
+  </Options>
+  <StartMenu>
+    <Folder/>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Name URL="">Kashuabian</Name>
+    <Copyright URL="">Copyright © Michael Cronin, Darren Nugentt</Copyright>
+    <Author URL="">Michael Cronin, Darren Nugentt</Author>
+    <Description URL="">Kashubian Keyboard
+CS6361 Project</Description>
+    <Version URL=""/>
+  </Info>
+  <Files>
+    <File>
+      <Name>../build/kashubian.kmx</Name>
+      <Description/>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+    <File>
+      <Name>../build/kashubian.js</Name>
+      <Description/>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+    <File>
+      <Name>../build/kashubian.kvk</Name>
+      <Description/>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kvk</FileType>
+    </File>
+    <File>
+      <Name>welcome.htm</Name>
+      <Description/>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>readme.htm</Name>
+      <Description/>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>../LICENSE.md</Name>
+      <Description/>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.md</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <ID>kashubian</ID>
+      <Languages>
+        <Language ID="csb">Kashubian</Language>
+      </Languages>
+    </Keyboard>
+  </Keyboards>
+  <Strings/>
+</Package>

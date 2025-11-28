@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>1</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\demo\Documents\Keyman Developer\Projects\kashubian\kashubian\kashubian.kpj</path>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\demo\Documents\Keyman Developer\Projects\kashubian\kashubian\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_00dc75bc6279b58623e9d7ec69bf0ff9</ID>
+      <FullPath>C:\Users\demo\Documents\Keyman Developer\Projects\kashubian\kashubian\kashubian.kpj</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\demo\Documents\Keyman Developer\Projects\kashubian\kashubian\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\demo\Documents\Keyman Developer\Projects\kashubian\kashubian\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_4ec88a49314d126e674c4457300521f6</ID>
+      <FullPath>C:\Users\demo\Documents\Keyman Developer\Projects\kashubian\kashubian\source\kashubian.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_01c99d0515a2d95bafef11a73fad1706</ID>
+      <FullPath>C:\Users\demo\Documents\Keyman Developer\Projects\kashubian\kashubian\source\kashubian.keyman-touch-layout</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_55eb13b9a4238164fef122b396c0c421</ID>
+      <FullPath>C:\Users\demo\Documents\Keyman Developer\Projects\kashubian\kashubian\source\kashubian.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <DisplayMapFont>Consolas|-9|   |0</DisplayMapFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_bbed7171c673e71d343b84221bc115f9</ID>
+      <FullPath>C:\Users\demo\Documents\Keyman Developer\Projects\kashubian\kashubian\source\kashubian.kps</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_f8c50cc014c93e25e5e5c7fc24a484d4</ID>
+      <FullPath>C:\Users\demo\Documents\Keyman Developer\Projects\kashubian\kashubian\source\kashubian.kvks</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\demo\Documents\Keyman Developer\Projects\kashubian\kashubian\source\readme.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\demo\Documents\Keyman Developer\Projects\kashubian\kashubian\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_3c2cbcf8165e88c13548891aa6df5cf3</ID>
+      <FullPath>C:\Users\demo\Documents\Keyman Developer\Projects\kashubian\kashubian\source\..\build\kashubian.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_9bed48c422eaed36f1e161bcff2b07d5</ID>
+      <FullPath>C:\Users\demo\Documents\Keyman Developer\Projects\kashubian\kashubian\source\..\build\kashubian.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ccb6d7f8ae351b956d4a63ba2bfff94f</ID>
+      <FullPath>C:\Users\demo\Documents\Keyman Developer\Projects\kashubian\kashubian\source\..\build\kashubian.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c296b5df3dc126e219e0173fcbc1baec</ID>
+      <FullPath>C:\Users\demo\Documents\Keyman Developer\Projects\kashubian\kashubian\source\..\LICENSE.md</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>kashubian.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\demo\Documents\Keyman Developer\Projects\kashubian\kashubian\source\kashubian.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
