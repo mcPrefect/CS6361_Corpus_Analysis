@@ -1,4 +1,4 @@
-Kashuabian Change History
+Kashubian Change History
 ====================
 
 1.0 (2025-11-28)

@@ -1,4 +1,4 @@
-Kashuabian keyboard
+Kashubian keyboard
 ==============
 
 Description
