@@ -1,7 +1,7 @@
 # Workload Declaration
 
 [22336842] Michael:
-I was responsible for keyboard development work, including character set identification, desktop and mobile keyboard design, frequency-optimised key placement, and implementation in Keyman Developer. I conducted character and digraph frequency analysis on the corpus. I also handled preprocessing steps including markup analysis, tokenisation, case normalisation. 
+I was responsible for keyboard development work, including character set identification, desktop and mobile keyboard design, frequency-optimised key placement, and implementation in Keyman Developer. I did character and digraph frequency analysis on the corpus. I also handled preprocessing steps including markup analysis, tokenisation, case normalisation. 
 
 Darren:
 I was responsible for lexical model development, including word frequency analysis, vocabulary selection and filtering, coverage analysis, and lexical model file generation. I handled blacklisting preprocessing and performed Zipf's Law validation and hapax legomena analysis. I researched advanced language modeling techniques including n-gram models and smoothing methods. 
